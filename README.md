@@ -39,27 +39,6 @@
 <div align="center">
     <img src= "https://github-readme-stats.vercel.app/api?username=ivomastre&show_icons=true&theme=dark"/>
 </div>
-
-</br>
-<div align = "center">
-    <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 28/08/2021
-<!--END_SECTION:waka-->
-</div>
 </br>
 <div align = "center">
     <img src="https://page-views.glitch.me/badge?page_id=ivomastre.ivomastre">
