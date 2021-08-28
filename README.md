@@ -23,11 +23,9 @@
 <h2 align="center">Find me at:</h3>
 </br>
 
-<div style="display:flex; 
-  justify-content: center; gap: 4px;">
-    
-   <a> 
-   <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=ivomastre">
+<div align="center">
+
+   <a> <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=ivomastre">
     </a>
    <a> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=ivo-augusto-wanderley-de-paiva-5ba905206"/></a>
 
@@ -36,7 +34,6 @@
    <a> <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ivomastre@gmail.com"/></a>
 </div>
 </br>
-
 
 <div align="center">
     <img src= "https://github-readme-stats.vercel.app/api?username=ivomastre&show_icons=true&theme=dark"/>
