@@ -23,15 +23,17 @@
 <h2 align="center">Find me at:</h3>
 </br>
 
-<div align="center">
+<div style="display:flex; 
+  justify-content: center; gap: 4px;">
     
-   <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=ivomastre"/>
+   <a> 
+   <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=ivomastre">
+    </a>
+   <a> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=ivo-augusto-wanderley-de-paiva-5ba905206"/></a>
 
-   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=ivo-augusto-wanderley-de-paiva-5ba905206"/>
+   <a> <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+84+996853395&</a>text=Hi!"/>
 
-   <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+84+996853395&text=Hi!"/>
-
-   <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ivomastre@gmail.com"/>
+   <a> <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ivomastre@gmail.com"/></a>
 </div>
 </br>
 
