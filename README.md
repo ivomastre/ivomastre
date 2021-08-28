@@ -43,7 +43,81 @@
 </br>
 <div align = "center">
     <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 476 Contributions in the Year 2021
+ > 
+> 📦 101.4 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 18 Public Repositories 
+ > 
+> 🔑 7 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.27% 
+🌆 Daytime    81 commits     █████████░░░░░░░░░░░░░░░░   36.82% 
+🌃 Evening    95 commits     ██████████░░░░░░░░░░░░░░░   43.18% 
+🌙 Night      17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.73%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       43 commits     █████░░░░░░░░░░░░░░░░░░░░   19.55% 
+Tuesday      29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.18% 
+Wednesday    48 commits     █████░░░░░░░░░░░░░░░░░░░░   21.82% 
+Thursday     36 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.36% 
+Friday       43 commits     █████░░░░░░░░░░░░░░░░░░░░   19.55% 
+Saturday     15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.82% 
+Sunday       6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.73%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.93% 
+Python                   7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.93% 
+TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.41%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/ivomastre/ivomastre/main/charts/bar_graph.png) 
+
+
+ Last Updated on 28/08/2021
+<!--END_SECTION:waka-->
 </div>
 </br>
 <div align = "center">
