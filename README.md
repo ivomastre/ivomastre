@@ -54,8 +54,8 @@
 ```text
 🚀 Rocket League                    🕘 555 hrs 30 mins
 🎮 GUILTY GEAR -STRIVE-             🕘 16 hrs 12 mins
-🎮 Legends of Idleon MMO            🕘 260 hrs 0 mins
 🔫 Counter-Strike: Global Offensive 🕘 826 hrs 38 mins
+🎮 Legends of Idleon MMO            🕘 260 hrs 0 mins
 🎮 Assetto Corsa                    🕘 1 hrs 16 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
