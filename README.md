@@ -30,7 +30,7 @@
    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=ivo-augusto-wanderley-de-paiva-5ba905206"/>
    </a>
 
-   <a href="https://api.whatsapp.com/send?phone=55+84+996853395&text=Hi!"> 
+   <a href="https://api.whatsapp.com/send?phone=55+84+96853395&text=Hi!"> 
    <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55+84+996853395&text=Hi!"/>
 
    <a href="mailto:ivomastre@gmail.com"> 
