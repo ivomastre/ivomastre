@@ -52,11 +52,11 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🚀 Rocket League                    🕘 568 hrs 36 mins
+🚀 Rocket League                    🕘 569 hrs 6 mins
 🎮 GUILTY GEAR -STRIVE-             🕘 16 hrs 32 mins
 🎮 The Witcher 3: Wild Hunt         🕘 2 hrs 11 mins
 🎮 Super Animal Royale              🕘 6 hrs 31 mins
-🎮 Assetto Corsa                    🕘 1 hrs 16 mins
+🎮 Legends of Idleon MMO            🕘 260 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
