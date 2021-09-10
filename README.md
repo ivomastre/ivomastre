@@ -53,7 +53,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🚀 Rocket League                    🕘 578 hrs 7 mins
-🎮 GUILTY GEAR -STRIVE-             🕘 26 hrs 21 mins
+🎮 GUILTY GEAR -STRIVE-             🕘 27 hrs 52 mins
 🎮 Phasmophobia                     🕘 24 hrs 43 mins
 🎮 The Witcher 3: Wild Hunt         🕘 2 hrs 11 mins
 🎮 Super Animal Royale              🕘 6 hrs 31 mins
