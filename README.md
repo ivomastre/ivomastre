@@ -55,8 +55,8 @@
 🚀 Rocket League                    🕘 583 hrs 21 mins
 🎮 GUILTY GEAR -STRIVE-             🕘 30 hrs 23 mins
 🎮 Phasmophobia                     🕘 24 hrs 43 mins
-🎮 The Witcher 3: Wild Hunt         🕘 2 hrs 11 mins
 🎮 Super Animal Royale              🕘 6 hrs 31 mins
+🎮 The Witcher 3: Wild Hunt         🕘 2 hrs 11 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
