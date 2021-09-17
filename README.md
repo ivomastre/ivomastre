@@ -40,7 +40,7 @@
 </br>
 
 <div align="center">
-    <img src= "https://github-readme-stats.vercel.app/api?username=ivomastre&show_icons=true&theme=dark"/>
+    <img src= "https://github-readme-stats.vercel.app/api?username=ivomastre&show_icons=true&theme=github_dark&count_private=true"/>
 </div>
 </br>
 <div align = "center">
