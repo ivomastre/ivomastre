@@ -54,7 +54,7 @@
 ```text
 🚀 Rocket League                    🕘 592 hrs 41 mins
 🎮 GUILTY GEAR -STRIVE-             🕘 31 hrs 18 mins
-🎮 Pacify                           🕘 2 hrs 47 mins
+🎮 Pacify                           🕘 3 hrs 13 mins
 🎮 Phasmophobia                     🕘 24 hrs 43 mins
 🎮 Risk of Rain 2                   🕘 26 hrs 16 mins
 ```
