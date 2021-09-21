@@ -55,8 +55,8 @@
 🚀 Rocket League                    🕘 595 hrs 36 mins
 🎮 GUILTY GEAR -STRIVE-             🕘 31 hrs 18 mins
 🎮 Pacify                           🕘 3 hrs 13 mins
-🎮 Phasmophobia                     🕘 24 hrs 43 mins
 🎮 PICO PARK                        🕘 1 hrs 8 mins
+🎮 Paladins                         🕘 44 hrs 32 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
