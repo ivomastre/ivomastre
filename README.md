@@ -53,7 +53,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🚀 Rocket League                    🕘 599 hrs 11 mins
-🔫 Counter-Strike: Global Offensive 🕘 836 hrs 2 mins
+🔫 Counter-Strike: Global Offensive 🕘 837 hrs 25 mins
 🎮 Pacify                           🕘 3 hrs 13 mins
 🎮 GUILTY GEAR -STRIVE-             🕘 31 hrs 18 mins
 🎮 Paladins                         🕘 44 hrs 32 mins
