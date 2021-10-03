@@ -53,7 +53,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 847 hrs 7 mins
-🚀 Rocket League                    🕘 607 hrs 27 mins
+🚀 Rocket League                    🕘 608 hrs 17 mins
 🎮 Paladins                         🕘 46 hrs 26 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
