@@ -55,6 +55,7 @@
 🔫 Counter-Strike: Global Offensive 🕘 847 hrs 7 mins
 🚀 Rocket League                    🕘 608 hrs 17 mins
 🎮 Paladins                         🕘 46 hrs 26 mins
+🎮 Pacify                           🕘 4 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
