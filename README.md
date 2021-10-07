@@ -53,7 +53,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 855 hrs 58 mins
-🚀 Rocket League                    🕘 616 hrs 40 mins
+🚀 Rocket League                    🕘 617 hrs 40 mins
 🎮 Paladins                         🕘 46 hrs 26 mins
 🎮 Pacify                           🕘 4 hrs 10 mins
 🎮 No More Room in Hell             🕘 45 hrs 33 mins
