@@ -54,8 +54,8 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 860 hrs 9 mins
 🚀 Rocket League                    🕘 622 hrs 19 mins
+🎮 No More Room in Hell             🕘 47 hrs 40 mins
 🎮 Paladins                         🕘 46 hrs 26 mins
-🎮 No More Room in Hell             🕘 47 hrs 10 mins
 🎮 GUILTY GEAR -STRIVE-             🕘 32 hrs 25 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
