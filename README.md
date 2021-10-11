@@ -52,7 +52,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 862 hrs 54 mins
+🔫 Counter-Strike: Global Offensive 🕘 863 hrs 11 mins
 🚀 Rocket League                    🕘 625 hrs 5 mins
 🎮 No More Room in Hell             🕘 48 hrs 56 mins
 🎮 GUILTY GEAR -STRIVE-             🕘 33 hrs 28 mins
