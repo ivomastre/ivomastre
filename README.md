@@ -54,8 +54,8 @@
 ```text
 🚀 Rocket League                    🕘 630 hrs 0 mins
 🔫 Counter-Strike: Global Offensive 🕘 867 hrs 32 mins
-🎮 Screeps: World                   🕘 4 hrs 52 mins
-🎮 No More Room in Hell             🕘 49 hrs 32 mins
+🎮 Screeps: World                   🕘 5 hrs 14 mins
+🎮 No More Room in Hell             🕘 49 hrs 35 mins
 🎮 GUILTY GEAR -STRIVE-             🕘 33 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
