@@ -55,8 +55,8 @@
 🔫 Counter-Strike: Global Offensive 🕘 879 hrs 46 mins
 🚀 Rocket League                    🕘 634 hrs 4 mins
 🎮 Screeps: World                   🕘 5 hrs 14 mins
-🎮 Infestation: The New Z           🕘 3 hrs 50 mins
 🎮 No More Room in Hell             🕘 50 hrs 0 mins
+🎮 Infestation: The New Z           🕘 3 hrs 50 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
