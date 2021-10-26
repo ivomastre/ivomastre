@@ -54,8 +54,8 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 885 hrs 43 mins
 🚀 Rocket League                    🕘 634 hrs 4 mins
-🎮 Screeps: World                   🕘 5 hrs 14 mins
 🎮 No More Room in Hell             🕘 50 hrs 0 mins
+🎮 Screeps: World                   🕘 5 hrs 14 mins
 🎮 Phasmophobia                     🕘 25 hrs 20 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
