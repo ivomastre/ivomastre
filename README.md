@@ -56,7 +56,7 @@
 🚀 Rocket League                    🕘 634 hrs 4 mins
 🎮 No More Room in Hell             🕘 50 hrs 0 mins
 🎮 Screeps: World                   🕘 5 hrs 14 mins
-🎮 Phasmophobia                     🕘 25 hrs 20 mins
+🎮 Bloons TD 6                      🕘 35 hrs 52 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
