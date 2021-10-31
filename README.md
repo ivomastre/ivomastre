@@ -54,6 +54,7 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 892 hrs 44 mins
 🚀 Rocket League                    🕘 634 hrs 4 mins
+🎮 Crab Game                        🕘 1 hrs 0 mins
 🎮 Bloons TD 6                      🕘 35 hrs 52 mins
 🎮 Phasmophobia                     🕘 25 hrs 20 mins
 ```
