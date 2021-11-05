@@ -55,8 +55,8 @@
 🔫 Counter-Strike: Global Offensive 🕘 895 hrs 29 mins
 🎮 Crab Game                        🕘 2 hrs 46 mins
 🎮 FOREWARNED                       🕘 1 hrs 48 mins
+🚀 Rocket League                    🕘 635 hrs 35 mins
 🎮 Bloons TD 6                      🕘 35 hrs 52 mins
-🎮 Phasmophobia                     🕘 25 hrs 20 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
