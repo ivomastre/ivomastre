@@ -56,7 +56,6 @@
 🎮 Crab Game                        🕘 3 hrs 27 mins
 🚀 Rocket League                    🕘 636 hrs 26 mins
 🎮 FOREWARNED                       🕘 1 hrs 48 mins
-🎮 Bloons TD 6                      🕘 35 hrs 52 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
