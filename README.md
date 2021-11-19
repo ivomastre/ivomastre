@@ -54,7 +54,7 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 923 hrs 5 mins
 🚀 Rocket League                    🕘 642 hrs 58 mins
-🎮 Crab Game                        🕘 6 hrs 44 mins
+🎮 Crab Game                        🕘 8 hrs 1 mins
 🎮 FOREWARNED                       🕘 3 hrs 26 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
