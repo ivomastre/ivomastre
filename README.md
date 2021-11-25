@@ -52,10 +52,11 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 935 hrs 6 mins
+🔫 Counter-Strike: Global Offensive 🕘 937 hrs 10 mins
 🚀 Rocket League                    🕘 644 hrs 22 mins
 🎮 Crab Game                        🕘 8 hrs 1 mins
 🎮 FOREWARNED                       🕘 3 hrs 26 mins
+🎮 Sea of Thieves                   🕘 33 hrs 20 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
