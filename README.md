@@ -55,7 +55,7 @@
 🔫 Counter-Strike: Global Offensive 🕘 958 hrs 48 mins
 🚀 Rocket League                    🕘 646 hrs 44 mins
 🎮 DEVOUR                           🕘 1 hrs 23 mins
-🎮 Century: Age of Ashes            🕘 1 hrs 0 mins
+🎮 Century: Age of Ashes            🕘 1 hrs 13 mins
 🎮 Sea of Thieves                   🕘 34 hrs 8 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
