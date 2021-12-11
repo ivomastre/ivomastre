@@ -56,7 +56,7 @@
 🚀 Rocket League                    🕘 647 hrs 11 mins
 🎮 DEVOUR                           🕘 1 hrs 23 mins
 🎮 Century: Age of Ashes            🕘 1 hrs 13 mins
-🎮 Torque Drift                     🕘 0 hrs 24 mins
+🎮 Hades                            🕘 0 hrs 30 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
