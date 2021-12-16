@@ -56,7 +56,7 @@
 🎮 Hades                            🕘 4 hrs 13 mins
 🚀 Rocket League                    🕘 647 hrs 23 mins
 🎮 DEVOUR                           🕘 1 hrs 23 mins
-🎮 Century: Age of Ashes            🕘 1 hrs 13 mins
+🎮 Phasmophobia                     🕘 26 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
