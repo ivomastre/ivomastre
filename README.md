@@ -52,7 +52,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 976 hrs 47 mins
+🔫 Counter-Strike: Global Offensive 🕘 977 hrs 30 mins
 🎮 Hades                            🕘 4 hrs 13 mins
 🎮 DEVOUR                           🕘 1 hrs 23 mins
 🚀 Rocket League                    🕘 647 hrs 33 mins
