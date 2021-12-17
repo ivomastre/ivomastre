@@ -55,8 +55,8 @@
 🔫 Counter-Strike: Global Offensive 🕘 977 hrs 30 mins
 🎮 Hades                            🕘 4 hrs 13 mins
 🎮 DEVOUR                           🕘 1 hrs 23 mins
-🚀 Rocket League                    🕘 647 hrs 33 mins
 🎮 Phasmophobia                     🕘 26 hrs 42 mins
+🎮 Century: Age of Ashes            🕘 1 hrs 13 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
