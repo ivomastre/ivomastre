@@ -52,10 +52,10 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 979 hrs 38 mins
+🔫 Counter-Strike: Global Offensive 🕘 979 hrs 45 mins
 🎮 Project Zomboid                  🕘 21 hrs 36 mins
 🎮 Hades                            🕘 4 hrs 13 mins
-🚀 Rocket League                    🕘 650 hrs 7 mins
+🚀 Rocket League                    🕘 650 hrs 35 mins
 🎮 Phasmophobia                     🕘 26 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
