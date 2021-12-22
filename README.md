@@ -54,7 +54,7 @@
 ```text
 🎮 Project Zomboid                  🕘 28 hrs 19 mins
 🔫 Counter-Strike: Global Offensive 🕘 980 hrs 8 mins
-🚀 Rocket League                    🕘 653 hrs 45 mins
+🚀 Rocket League                    🕘 654 hrs 15 mins
 🎮 Hades                            🕘 4 hrs 13 mins
 🎮 Phasmophobia                     🕘 26 hrs 42 mins
 ```
