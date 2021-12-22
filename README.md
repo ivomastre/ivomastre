@@ -52,7 +52,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Project Zomboid                  🕘 26 hrs 13 mins
+🎮 Project Zomboid                  🕘 27 hrs 14 mins
 🔫 Counter-Strike: Global Offensive 🕘 980 hrs 8 mins
 🚀 Rocket League                    🕘 653 hrs 3 mins
 🎮 Hades                            🕘 4 hrs 13 mins
