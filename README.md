@@ -53,7 +53,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Project Zomboid                  🕘 30 hrs 6 mins
-🚀 Rocket League                    🕘 665 hrs 51 mins
+🚀 Rocket League                    🕘 667 hrs 0 mins
 🔫 Counter-Strike: Global Offensive 🕘 982 hrs 34 mins
 🎮 Phasmophobia                     🕘 26 hrs 42 mins
 🎮 Hades                            🕘 4 hrs 13 mins
