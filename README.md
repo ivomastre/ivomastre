@@ -55,7 +55,7 @@
 🎮 Project Zomboid                  🕘 30 hrs 6 mins
 🚀 Rocket League                    🕘 667 hrs 32 mins
 🔫 Counter-Strike: Global Offensive 🕘 982 hrs 34 mins
-🎮 Pummel Party                     🕘 1 hrs 30 mins
+🎮 Pummel Party                     🕘 1 hrs 43 mins
 🎮 Phasmophobia                     🕘 26 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
