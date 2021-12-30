@@ -53,10 +53,10 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Project Zomboid                  🕘 30 hrs 6 mins
-🚀 Rocket League                    🕘 669 hrs 32 mins
+🚀 Rocket League                    🕘 670 hrs 12 mins
 🔫 Counter-Strike: Global Offensive 🕘 982 hrs 34 mins
 🎮 Pummel Party                     🕘 1 hrs 43 mins
-🎮 Phasmophobia                     🕘 26 hrs 42 mins
+🎮 DARK SOULS™ III                  🕘 58 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
