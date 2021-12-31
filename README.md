@@ -54,7 +54,7 @@
 ```text
 🎮 Project Zomboid                  🕘 30 hrs 6 mins
 🚀 Rocket League                    🕘 670 hrs 12 mins
-🎮 DARK SOULS™ III                  🕘 64 hrs 1 mins
+🎮 DARK SOULS™ III                  🕘 64 hrs 53 mins
 🔫 Counter-Strike: Global Offensive 🕘 982 hrs 34 mins
 🎮 Pummel Party                     🕘 1 hrs 43 mins
 ```
