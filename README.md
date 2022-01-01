@@ -52,8 +52,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Project Zomboid                  🕘 30 hrs 6 mins
 🚀 Rocket League                    🕘 670 hrs 20 mins
+🎮 Project Zomboid                  🕘 30 hrs 6 mins
 🎮 DARK SOULS™ III                  🕘 64 hrs 53 mins
 🔫 Counter-Strike: Global Offensive 🕘 982 hrs 34 mins
 🎮 Pummel Party                     🕘 1 hrs 43 mins
