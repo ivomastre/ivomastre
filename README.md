@@ -55,8 +55,8 @@
 🚀 Rocket League                    🕘 673 hrs 51 mins
 🎮 DARK SOULS™ III                  🕘 64 hrs 53 mins
 🎮 Monster Hunter: World            🕘 2 hrs 59 mins
-🔫 Counter-Strike: Global Offensive 🕘 982 hrs 34 mins
 🎮 Project Zomboid                  🕘 30 hrs 6 mins
+🎮 Pummel Party                     🕘 1 hrs 43 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
