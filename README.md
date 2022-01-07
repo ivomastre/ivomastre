@@ -55,7 +55,7 @@
 🚀 Rocket League                    🕘 679 hrs 51 mins
 🎮 DARK SOULS™ III                  🕘 64 hrs 53 mins
 🎮 Monster Hunter: World            🕘 2 hrs 59 mins
-🎮 Project Zomboid                  🕘 30 hrs 6 mins
+🎮 BlastZone 2 Demo                 🕘 7 hrs 57 mins
 🎮 Pummel Party                     🕘 1 hrs 43 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
