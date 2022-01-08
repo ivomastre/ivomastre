@@ -54,7 +54,7 @@
 ```text
 🚀 Rocket League                    🕘 679 hrs 54 mins
 🎮 DARK SOULS™ III                  🕘 64 hrs 53 mins
-🎮 BlastZone 2 Demo                 🕘 7 hrs 57 mins
+🎮 BlastZone 2 Demo                 🕘 9 hrs 51 mins
 🎮 Monster Hunter: World            🕘 2 hrs 59 mins
 🎮 Pummel Party                     🕘 1 hrs 43 mins
 ```
