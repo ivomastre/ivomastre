@@ -52,10 +52,10 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🚀 Rocket League                    🕘 682 hrs 35 mins
+🚀 Rocket League                    🕘 682 hrs 55 mins
 🎮 DARK SOULS™ III                  🕘 64 hrs 53 mins
 🎮 BlastZone 2 Demo                 🕘 10 hrs 49 mins
-🎮 Monster Hunter: World            🕘 3 hrs 34 mins
+🎮 Monster Hunter: World            🕘 4 hrs 10 mins
 🎮 Pummel Party                     🕘 1 hrs 43 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
