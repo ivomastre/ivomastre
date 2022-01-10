@@ -56,7 +56,7 @@
 🎮 DARK SOULS™ III                  🕘 64 hrs 53 mins
 🎮 BlastZone 2 Demo                 🕘 10 hrs 49 mins
 🎮 Monster Hunter: World            🕘 4 hrs 42 mins
-🎮 Pummel Party                     🕘 1 hrs 43 mins
+🎮 Project Zomboid                  🕘 32 hrs 25 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
