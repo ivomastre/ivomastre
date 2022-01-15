@@ -52,8 +52,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🚀 Rocket League                    🕘 695 hrs 52 mins
-🎮 BlastZone 2 Demo                 🕘 10 hrs 49 mins
+🚀 Rocket League                    🕘 695 hrs 56 mins
+🎮 BlastZone 2 Demo                 🕘 10 hrs 50 mins
 🎮 Monster Hunter: World            🕘 7 hrs 59 mins
 🔫 Counter-Strike: Global Offensive 🕘 986 hrs 33 mins
 🎮 Project Zomboid                  🕘 33 hrs 50 mins
