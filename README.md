@@ -54,7 +54,7 @@
 ```text
 🚀 Rocket League                    🕘 699 hrs 58 mins
 🎮 BlastZone 2 Demo                 🕘 11 hrs 47 mins
-🎮 Monster Hunter: World            🕘 9 hrs 29 mins
+🎮 Monster Hunter: World            🕘 9 hrs 59 mins
 🔫 Counter-Strike: Global Offensive 🕘 987 hrs 30 mins
 🎮 FOREWARNED                       🕘 7 hrs 49 mins
 ```
