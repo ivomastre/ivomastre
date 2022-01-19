@@ -55,7 +55,7 @@
 🚀 Rocket League                    🕘 701 hrs 46 mins
 🎮 BlastZone 2 Demo                 🕘 11 hrs 47 mins
 🎮 Monster Hunter: World            🕘 10 hrs 35 mins
-🔫 Counter-Strike: Global Offensive 🕘 988 hrs 0 mins
+🔫 Counter-Strike: Global Offensive 🕘 988 hrs 34 mins
 🎮 FOREWARNED                       🕘 7 hrs 49 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
