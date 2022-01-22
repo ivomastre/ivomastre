@@ -52,7 +52,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🚀 Rocket League                    🕘 706 hrs 7 mins
+🚀 Rocket League                    🕘 707 hrs 15 mins
 🔫 Counter-Strike: Global Offensive 🕘 993 hrs 45 mins
 🎮 Monster Hunter: World            🕘 10 hrs 35 mins
 🎮 FOREWARNED                       🕘 7 hrs 49 mins
