@@ -53,10 +53,10 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🚀 Rocket League                    🕘 706 hrs 7 mins
-🔫 Counter-Strike: Global Offensive 🕘 992 hrs 6 mins
+🔫 Counter-Strike: Global Offensive 🕘 993 hrs 45 mins
 🎮 Monster Hunter: World            🕘 10 hrs 35 mins
-🎮 BlastZone 2 Demo                 🕘 11 hrs 47 mins
 🎮 FOREWARNED                       🕘 7 hrs 49 mins
+🎮 Project Zomboid                  🕘 33 hrs 50 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
