@@ -56,7 +56,7 @@
 🔫 Counter-Strike: Global Offensive 🕘 997 hrs 9 mins
 🎮 Monster Hunter: World            🕘 10 hrs 35 mins
 🎮 FOREWARNED                       🕘 7 hrs 49 mins
-🎮 BlastZone 2 Demo                 🕘 11 hrs 47 mins
+🎮 Screeps: World                   🕘 6 hrs 45 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
