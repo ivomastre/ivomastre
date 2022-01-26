@@ -55,8 +55,8 @@
 🚀 Rocket League                    🕘 719 hrs 2 mins
 🔫 Counter-Strike: Global Offensive 🕘 997 hrs 58 mins
 🎮 Monster Hunter: World            🕘 10 hrs 35 mins
+🎮 Yu-Gi-Oh!  Master Duel           🕘 4 hrs 28 mins
 🎮 FOREWARNED                       🕘 7 hrs 49 mins
-🎮 Yu-Gi-Oh!  Master Duel           🕘 3 hrs 33 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
