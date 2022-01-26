@@ -55,7 +55,7 @@
 🚀 Rocket League                    🕘 719 hrs 2 mins
 🔫 Counter-Strike: Global Offensive 🕘 997 hrs 58 mins
 🎮 Monster Hunter: World            🕘 10 hrs 35 mins
-🎮 The Witcher 3: Wild Hunt         🕘 6 hrs 42 mins
+🎮 The Witcher 3: Wild Hunt         🕘 7 hrs 43 mins
 🎮 Yu-Gi-Oh!  Master Duel           🕘 4 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
