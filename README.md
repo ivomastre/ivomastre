@@ -56,7 +56,7 @@
 🔫 Counter-Strike: Global Offensive 🕘 997 hrs 58 mins
 🎮 Monster Hunter: World            🕘 10 hrs 35 mins
 🎮 FOREWARNED                       🕘 7 hrs 49 mins
-🎮 Screeps: World                   🕘 8 hrs 0 mins
+🎮 Yu-Gi-Oh!  Master Duel           🕘 3 hrs 33 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
