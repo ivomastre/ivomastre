@@ -53,10 +53,10 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🚀 Rocket League                    🕘 719 hrs 2 mins
-🔫 Counter-Strike: Global Offensive 🕘 997 hrs 58 mins
+🔫 Counter-Strike: Global Offensive 🕘 998 hrs 51 mins
 🎮 Monster Hunter: World            🕘 10 hrs 35 mins
+🎮 Yu-Gi-Oh!  Master Duel           🕘 5 hrs 51 mins
 🎮 The Witcher 3: Wild Hunt         🕘 7 hrs 43 mins
-🎮 Yu-Gi-Oh!  Master Duel           🕘 4 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
