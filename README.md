@@ -56,7 +56,7 @@
 🔫 Counter-Strike: Global Offensive 🕘 998 hrs 51 mins
 🎮 Yu-Gi-Oh!  Master Duel           🕘 5 hrs 54 mins
 🎮 Monster Hunter: World            🕘 10 hrs 35 mins
-🎮 The Witcher 3: Wild Hunt         🕘 7 hrs 43 mins
+🎮 Friday the 13th: The Game        🕘 7 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
