@@ -54,7 +54,7 @@
 ```text
 🚀 Rocket League                    🕘 725 hrs 54 mins
 🔫 Counter-Strike: Global Offensive 🕘 998 hrs 51 mins
-🎮 Friday the 13th: The Game        🕘 7 hrs 33 mins
+🎮 Friday the 13th: The Game        🕘 8 hrs 34 mins
 🎮 Yu-Gi-Oh!  Master Duel           🕘 5 hrs 54 mins
 🎮 Monster Hunter: World            🕘 10 hrs 35 mins
 ```
