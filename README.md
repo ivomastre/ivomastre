@@ -52,7 +52,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🚀 Rocket League                    🕘 748 hrs 10 mins
+🚀 Rocket League                    🕘 748 hrs 19 mins
 🎮 Friday the 13th: The Game        🕘 16 hrs 45 mins
 🔫 Counter-Strike: Global Offensive 🕘 998 hrs 51 mins
 🎮 7 Days to Die                    🕘 7 hrs 37 mins
