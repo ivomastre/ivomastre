@@ -55,8 +55,8 @@
 🚀 Rocket League                    🕘 758 hrs 26 mins
 🎮 Friday the 13th: The Game        🕘 16 hrs 45 mins
 🔫 Counter-Strike: Global Offensive 🕘 998 hrs 51 mins
+🎮 No Man's Sky                     🕘 7 hrs 37 mins
 🎮 7 Days to Die                    🕘 7 hrs 37 mins
-🎮 Yu-Gi-Oh!  Master Duel           🕘 6 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
