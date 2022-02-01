@@ -54,8 +54,8 @@
 ```text
 🚀 Rocket League                    🕘 759 hrs 29 mins
 🎮 Friday the 13th: The Game        🕘 16 hrs 45 mins
+🎮 No Man's Sky                     🕘 12 hrs 49 mins
 🔫 Counter-Strike: Global Offensive 🕘 998 hrs 51 mins
-🎮 No Man's Sky                     🕘 11 hrs 49 mins
 🎮 7 Days to Die                    🕘 7 hrs 37 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
