@@ -56,7 +56,7 @@
 🎮 Friday the 13th: The Game        🕘 16 hrs 45 mins
 🎮 No Man's Sky                     🕘 14 hrs 43 mins
 🔫 Counter-Strike: Global Offensive 🕘 998 hrs 51 mins
-🎮 Yu-Gi-Oh!  Master Duel           🕘 8 hrs 24 mins
+🎮 Yu-Gi-Oh!  Master Duel           🕘 9 hrs 25 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
