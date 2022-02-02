@@ -52,11 +52,11 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🚀 Rocket League                    🕘 760 hrs 29 mins
+🚀 Rocket League                    🕘 761 hrs 19 mins
 🎮 Friday the 13th: The Game        🕘 16 hrs 45 mins
 🎮 No Man's Sky                     🕘 14 hrs 43 mins
 🔫 Counter-Strike: Global Offensive 🕘 998 hrs 51 mins
-🎮 7 Days to Die                    🕘 7 hrs 37 mins
+🎮 Yu-Gi-Oh!  Master Duel           🕘 6 hrs 54 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
