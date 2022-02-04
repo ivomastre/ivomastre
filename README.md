@@ -53,7 +53,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🚀 Rocket League                    🕘 767 hrs 56 mins
-🎮 Yu-Gi-Oh!  Master Duel           🕘 17 hrs 42 mins
+🎮 Yu-Gi-Oh!  Master Duel           🕘 18 hrs 27 mins
 🎮 No Man's Sky                     🕘 18 hrs 10 mins
 🎮 Friday the 13th: The Game        🕘 16 hrs 45 mins
 🔫 Counter-Strike: Global Offensive 🕘 998 hrs 51 mins
