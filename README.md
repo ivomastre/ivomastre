@@ -56,7 +56,7 @@
 🎮 Yu-Gi-Oh!  Master Duel           🕘 35 hrs 21 mins
 🎮 No Man's Sky                     🕘 18 hrs 10 mins
 🎮 Friday the 13th: The Game        🕘 16 hrs 45 mins
-🎮 Lost Ark                         🕘 7 hrs 43 mins
+🎮 Lost Ark                         🕘 8 hrs 56 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
