@@ -54,7 +54,7 @@
 ```text
 🚀 Rocket League                    🕘 769 hrs 47 mins
 🎮 Yu-Gi-Oh!  Master Duel           🕘 35 hrs 21 mins
-🎮 Lost Ark                         🕘 19 hrs 43 mins
+🎮 Lost Ark                         🕘 20 hrs 44 mins
 🎮 No Man's Sky                     🕘 18 hrs 10 mins
 🎮 Friday the 13th: The Game        🕘 16 hrs 45 mins
 ```
