@@ -54,7 +54,7 @@
 ```text
 🎮 Lost Ark                         🕘 41 hrs 10 mins
 🚀 Rocket League                    🕘 769 hrs 47 mins
-🎮 Yu-Gi-Oh!  Master Duel           🕘 35 hrs 21 mins
+🎮 Yu-Gi-Oh!  Master Duel           🕘 35 hrs 27 mins
 🎮 No Man's Sky                     🕘 18 hrs 10 mins
 🎮 Tropico 6                        🕘 4 hrs 31 mins
 ```
