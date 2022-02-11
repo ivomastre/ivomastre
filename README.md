@@ -56,7 +56,7 @@
 🚀 Rocket League                    🕘 769 hrs 47 mins
 🎮 Yu-Gi-Oh!  Master Duel           🕘 35 hrs 21 mins
 🎮 No Man's Sky                     🕘 18 hrs 10 mins
-🎮 7 Days to Die                    🕘 7 hrs 37 mins
+🎮 Tropico 6                        🕘 4 hrs 31 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
