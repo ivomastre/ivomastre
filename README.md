@@ -52,7 +52,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Lost Ark                         🕘 107 hrs 12 mins
+🎮 Lost Ark                         🕘 108 hrs 13 mins
 🎮 Yu-Gi-Oh!  Master Duel           🕘 40 hrs 30 mins
 🚀 Rocket League                    🕘 770 hrs 46 mins
 🔫 Counter-Strike: Global Offensive 🕘 1001 hrs 22 mins
