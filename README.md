@@ -56,7 +56,7 @@
 🎮 Yu-Gi-Oh!  Master Duel           🕘 43 hrs 0 mins
 🚀 Rocket League                    🕘 770 hrs 46 mins
 🔫 Counter-Strike: Global Offensive 🕘 1001 hrs 22 mins
-🎮 Tropico 6                        🕘 4 hrs 31 mins
+❓ Unknown Game                     🕘 3 hrs 39 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
