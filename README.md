@@ -54,8 +54,8 @@
 ```text
 🎮 Lost Ark                         🕘 115 hrs 45 mins
 🎮 Yu-Gi-Oh!  Master Duel           🕘 43 hrs 34 mins
+🔫 Counter-Strike: Global Offensive 🕘 1002 hrs 3 mins
 🚀 Rocket League                    🕘 770 hrs 46 mins
-🔫 Counter-Strike: Global Offensive 🕘 1001 hrs 22 mins
 ❓ Unknown Game                     🕘 3 hrs 39 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
