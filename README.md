@@ -54,7 +54,7 @@
 ```text
 🎮 Lost Ark                         🕘 155 hrs 26 mins
 🎮 Yu-Gi-Oh!  Master Duel           🕘 43 hrs 39 mins
-🔫 Counter-Strike: Global Offensive 🕘 1003 hrs 34 mins
+🔫 Counter-Strike: Global Offensive 🕘 1004 hrs 22 mins
 🚀 Rocket League                    🕘 770 hrs 46 mins
 💻 Wallpaper Engine                 🕘 3 hrs 35 mins
 ```
