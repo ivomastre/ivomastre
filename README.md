@@ -56,7 +56,7 @@
 🎮 Yu-Gi-Oh!  Master Duel           🕘 43 hrs 39 mins
 🔫 Counter-Strike: Global Offensive 🕘 1004 hrs 22 mins
 🚀 Rocket League                    🕘 770 hrs 46 mins
-💻 Wallpaper Engine                 🕘 3 hrs 35 mins
+🎮 ELDEN RING                       🕘 0 hrs 53 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
