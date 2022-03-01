@@ -56,7 +56,7 @@
 🎮 ELDEN RING                       🕘 16 hrs 44 mins
 🎮 Yu-Gi-Oh!  Master Duel           🕘 50 hrs 7 mins
 🔫 Counter-Strike: Global Offensive 🕘 1008 hrs 54 mins
-🎮 Super Animal Royale              🕘 7 hrs 19 mins
+🎮 Super Animal Royale              🕘 7 hrs 53 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
