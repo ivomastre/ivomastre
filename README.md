@@ -54,8 +54,8 @@
 ```text
 🎮 Lost Ark                         🕘 203 hrs 21 mins
 🎮 ELDEN RING                       🕘 19 hrs 39 mins
-🎮 Yu-Gi-Oh!  Master Duel           🕘 51 hrs 57 mins
-🔫 Counter-Strike: Global Offensive 🕘 1008 hrs 54 mins
+🎮 Yu-Gi-Oh!  Master Duel           🕘 52 hrs 57 mins
+🔫 Counter-Strike: Global Offensive 🕘 1009 hrs 45 mins
 🎮 Super Animal Royale              🕘 7 hrs 53 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
