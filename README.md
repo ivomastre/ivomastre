@@ -52,10 +52,10 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Lost Ark                         🕘 203 hrs 36 mins
+🎮 Lost Ark                         🕘 204 hrs 4 mins
 🎮 ELDEN RING                       🕘 19 hrs 39 mins
 🎮 Yu-Gi-Oh!  Master Duel           🕘 54 hrs 11 mins
-🔫 Counter-Strike: Global Offensive 🕘 1009 hrs 45 mins
+🔫 Counter-Strike: Global Offensive 🕘 1010 hrs 59 mins
 🎮 Super Animal Royale              🕘 7 hrs 53 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
