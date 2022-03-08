@@ -52,11 +52,11 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Lost Ark                         🕘 210 hrs 5 mins
+🎮 Lost Ark                         🕘 210 hrs 35 mins
 🎮 ELDEN RING                       🕘 19 hrs 39 mins
 🎮 Yu-Gi-Oh!  Master Duel           🕘 62 hrs 8 mins
 🔫 Counter-Strike: Global Offensive 🕘 1019 hrs 45 mins
-🎮 Bloons TD 6                      🕘 42 hrs 12 mins
+🎮 Bloons TD 6                      🕘 42 hrs 41 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
