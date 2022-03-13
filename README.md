@@ -53,7 +53,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Lost Ark                         🕘 233 hrs 3 mins
-🔫 Counter-Strike: Global Offensive 🕘 1030 hrs 48 mins
+🔫 Counter-Strike: Global Offensive 🕘 1030 hrs 53 mins
 🎮 Yu-Gi-Oh!  Master Duel           🕘 65 hrs 34 mins
 🎮 ELDEN RING                       🕘 22 hrs 52 mins
 🎮 Bloons TD 6                      🕘 44 hrs 15 mins
