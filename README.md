@@ -55,7 +55,7 @@
 🎮 Lost Ark                         🕘 238 hrs 13 mins
 🔫 Counter-Strike: Global Offensive 🕘 1034 hrs 27 mins
 🎮 Yu-Gi-Oh!  Master Duel           🕘 65 hrs 34 mins
-🎮 Bloons TD 6                      🕘 45 hrs 14 mins
+🎮 Bloons TD 6                      🕘 46 hrs 15 mins
 🎮 ELDEN RING                       🕘 22 hrs 52 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
