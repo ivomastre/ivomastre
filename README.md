@@ -55,7 +55,7 @@
 🎮 Lost Ark                         🕘 271 hrs 11 mins
 🔫 Counter-Strike: Global Offensive 🕘 1046 hrs 26 mins
 🎮 Bloons TD 6                      🕘 51 hrs 42 mins
-🎮 Yu-Gi-Oh!  Master Duel           🕘 65 hrs 37 mins
+🎮 Yu-Gi-Oh!  Master Duel           🕘 65 hrs 43 mins
 💻 Wallpaper Engine                 🕘 3 hrs 37 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
