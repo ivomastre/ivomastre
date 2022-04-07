@@ -54,8 +54,8 @@
 ```text
 🎮 Lost Ark                         🕘 336 hrs 56 mins
 🎮 Bloons TD 6                      🕘 60 hrs 23 mins
-🔫 Counter-Strike: Global Offensive 🕘 1053 hrs 52 mins
-🎮 Coromon                          🕘 0 hrs 2 mins
+🔫 Counter-Strike: Global Offensive 🕘 1053 hrs 56 mins
+🎮 Coromon                          🕘 0 hrs 5 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
