@@ -55,6 +55,7 @@
 🎮 Lost Ark                         🕘 338 hrs 44 mins
 🔫 Counter-Strike: Global Offensive 🕘 1054 hrs 37 mins
 🎮 Bloons TD 6                      🕘 60 hrs 23 mins
+🎮 Halo: The Master Chief Collection 🕘 0 hrs 29 mins
 🎮 Coromon                          🕘 0 hrs 5 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
