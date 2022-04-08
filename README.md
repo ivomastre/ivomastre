@@ -53,8 +53,8 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Lost Ark                         🕘 336 hrs 56 mins
+🔫 Counter-Strike: Global Offensive 🕘 1054 hrs 37 mins
 🎮 Bloons TD 6                      🕘 60 hrs 23 mins
-🔫 Counter-Strike: Global Offensive 🕘 1053 hrs 56 mins
 🎮 Coromon                          🕘 0 hrs 5 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
