@@ -56,7 +56,7 @@
 🔫 Counter-Strike: Global Offensive 🕘 1060 hrs 11 mins
 🎮 Bloons TD 6                      🕘 60 hrs 54 mins
 🎮 Halo: The Master Chief Collection 🕘 1 hrs 30 mins
-🎮 Vampire Survivors                🕘 0 hrs 26 mins
+🎮 Vampire Survivors                🕘 0 hrs 45 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
