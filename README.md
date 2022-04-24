@@ -55,8 +55,7 @@
 🎮 Lost Ark                         🕘 356 hrs 20 mins
 🔫 Counter-Strike: Global Offensive 🕘 1064 hrs 48 mins
 🎮 Vampire Survivors                🕘 3 hrs 16 mins
-🎮 Bloons TD 6                      🕘 62 hrs 21 mins
-🎮 Halo: The Master Chief Collection 🕘 1 hrs 30 mins
+🎮 Bloons TD 6                      🕘 63 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
