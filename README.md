@@ -54,7 +54,7 @@
 ```text
 🎮 Lost Ark                         🕘 356 hrs 20 mins
 🔫 Counter-Strike: Global Offensive 🕘 1065 hrs 49 mins
-🎮 Vampire Survivors                🕘 4 hrs 47 mins
+🎮 Vampire Survivors                🕘 5 hrs 47 mins
 🎮 Coromon                          🕘 2 hrs 45 mins
 🎮 Bloons TD 6                      🕘 63 hrs 2 mins
 ```
