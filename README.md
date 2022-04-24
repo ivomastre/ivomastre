@@ -56,7 +56,7 @@
 🔫 Counter-Strike: Global Offensive 🕘 1064 hrs 48 mins
 🎮 Vampire Survivors                🕘 3 hrs 16 mins
 🎮 Bloons TD 6                      🕘 63 hrs 2 mins
-🎮 Coromon                          🕘 1 hrs 25 mins
+🎮 Coromon                          🕘 2 hrs 26 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
