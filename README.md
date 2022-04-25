@@ -53,7 +53,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Lost Ark                         🕘 356 hrs 20 mins
-🎮 Vampire Survivors                🕘 7 hrs 49 mins
+🎮 Vampire Survivors                🕘 8 hrs 40 mins
 🔫 Counter-Strike: Global Offensive 🕘 1066 hrs 32 mins
 🎮 Coromon                          🕘 2 hrs 45 mins
 🎮 Bloons TD 6                      🕘 63 hrs 2 mins
