@@ -53,10 +53,10 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Vampire Survivors                🕘 15 hrs 48 mins
-🔫 Counter-Strike: Global Offensive 🕘 1073 hrs 1 mins
+🔫 Counter-Strike: Global Offensive 🕘 1074 hrs 30 mins
 🎮 Death Road to Canada             🕘 2 hrs 34 mins
 🎮 Coromon                          🕘 2 hrs 45 mins
-🎮 Lost Ark                         🕘 356 hrs 20 mins
+🎮 Bloons TD 6                      🕘 63 hrs 27 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
