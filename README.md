@@ -54,8 +54,8 @@
 ```text
 🎮 Vampire Survivors                🕘 15 hrs 48 mins
 🔫 Counter-Strike: Global Offensive 🕘 1073 hrs 1 mins
+🎮 Death Road to Canada             🕘 2 hrs 34 mins
 🎮 Coromon                          🕘 2 hrs 45 mins
-🎮 Death Road to Canada             🕘 2 hrs 26 mins
 🎮 Lost Ark                         🕘 356 hrs 20 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
