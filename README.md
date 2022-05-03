@@ -52,7 +52,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Vampire Survivors                🕘 18 hrs 19 mins
+🎮 Vampire Survivors                🕘 18 hrs 34 mins
 🔫 Counter-Strike: Global Offensive 🕘 1076 hrs 16 mins
 🎮 Death Road to Canada             🕘 2 hrs 34 mins
 🎮 Coromon                          🕘 2 hrs 45 mins
