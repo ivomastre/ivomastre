@@ -54,9 +54,9 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1083 hrs 26 mins
 🎮 Vampire Survivors                🕘 19 hrs 19 mins
+🎮 Bloons TD 6                      🕘 65 hrs 8 mins
 🎮 Death Road to Canada             🕘 2 hrs 34 mins
 🎮 Coromon                          🕘 2 hrs 45 mins
-🎮 Bloons TD 6                      🕘 64 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
