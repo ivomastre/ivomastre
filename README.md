@@ -33,7 +33,7 @@
    <a href="https://api.whatsapp.com/send?phone=55+84+96853395&text=Hi!"> 
    <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55+84+996853395&text=Hi!"/>
 
-   <a href="mailto:ivomastre@gmail.com"> 
+   <a href="mailto:contact@ivomastre.com"> 
         <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ivomastre@gmail.com"/>
    </a>
 </div>
