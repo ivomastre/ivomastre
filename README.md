@@ -56,7 +56,7 @@
 🎮 Vampire Survivors                🕘 19 hrs 19 mins
 🎮 Death Road to Canada             🕘 2 hrs 34 mins
 🎮 Coromon                          🕘 2 hrs 45 mins
-🎮 Bloons TD 6                      🕘 64 hrs 12 mins
+🎮 Bloons TD 6                      🕘 64 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
