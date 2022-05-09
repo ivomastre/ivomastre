@@ -56,7 +56,7 @@
 🎮 Vampire Survivors                🕘 19 hrs 22 mins
 🎮 Bloons TD 6                      🕘 69 hrs 18 mins
 🎮 Death Road to Canada             🕘 2 hrs 34 mins
-🎮 Pacify                           🕘 5 hrs 37 mins
+🎮 The Forest                       🕘 1 hrs 30 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
