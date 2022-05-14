@@ -56,7 +56,7 @@
 🎮 Vampire Survivors                🕘 19 hrs 22 mins
 🎮 Bloons TD 6                      🕘 69 hrs 18 mins
 🎮 The Forest                       🕘 2 hrs 22 mins
-🎮 Slay the Spire                   🕘 1 hrs 46 mins
+🎮 Slay the Spire                   🕘 2 hrs 16 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
