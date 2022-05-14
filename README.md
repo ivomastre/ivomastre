@@ -55,8 +55,8 @@
 🔫 Counter-Strike: Global Offensive 🕘 1090 hrs 24 mins
 🎮 Vampire Survivors                🕘 19 hrs 22 mins
 🎮 Bloons TD 6                      🕘 69 hrs 18 mins
-🎮 Death Road to Canada             🕘 2 hrs 34 mins
 🎮 The Forest                       🕘 2 hrs 22 mins
+🎮 Pacify                           🕘 5 hrs 37 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
