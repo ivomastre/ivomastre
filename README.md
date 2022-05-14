@@ -55,8 +55,8 @@
 🔫 Counter-Strike: Global Offensive 🕘 1090 hrs 24 mins
 🎮 Vampire Survivors                🕘 19 hrs 22 mins
 🎮 Bloons TD 6                      🕘 69 hrs 18 mins
+🎮 Slay the Spire                   🕘 3 hrs 16 mins
 🎮 The Forest                       🕘 2 hrs 22 mins
-🎮 Slay the Spire                   🕘 2 hrs 16 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
