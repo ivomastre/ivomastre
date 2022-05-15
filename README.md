@@ -53,7 +53,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1091 hrs 9 mins
-🎮 Slay the Spire                   🕘 7 hrs 33 mins
+🎮 Slay the Spire                   🕘 8 hrs 4 mins
 🎮 Vampire Survivors                🕘 19 hrs 22 mins
 🎮 Bloons TD 6                      🕘 69 hrs 18 mins
 🎮 The Forest                       🕘 2 hrs 22 mins
