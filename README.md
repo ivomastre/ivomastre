@@ -54,7 +54,7 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1091 hrs 9 mins
 🎮 Vampire Survivors                🕘 19 hrs 22 mins
-🎮 Slay the Spire                   🕘 5 hrs 52 mins
+🎮 Slay the Spire                   🕘 6 hrs 33 mins
 🎮 Bloons TD 6                      🕘 69 hrs 18 mins
 🎮 The Forest                       🕘 2 hrs 22 mins
 ```
