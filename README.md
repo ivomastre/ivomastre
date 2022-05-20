@@ -53,7 +53,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1102 hrs 46 mins
-🎮 V Rising                         🕘 14 hrs 22 mins
+🎮 V Rising                         🕘 15 hrs 37 mins
 🎮 Slay the Spire                   🕘 9 hrs 46 mins
 🎮 Bloons TD 6                      🕘 69 hrs 18 mins
 🎮 The Forest                       🕘 2 hrs 22 mins
