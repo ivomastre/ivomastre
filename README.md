@@ -54,8 +54,8 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1102 hrs 46 mins
 🎮 Slay the Spire                   🕘 9 hrs 46 mins
+🎮 V Rising                         🕘 8 hrs 19 mins
 🎮 Bloons TD 6                      🕘 69 hrs 18 mins
-🎮 V Rising                         🕘 5 hrs 13 mins
 🎮 The Forest                       🕘 2 hrs 22 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
