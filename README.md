@@ -52,7 +52,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 V Rising                         🕘 24 hrs 59 mins
+🎮 V Rising                         🕘 25 hrs 59 mins
 🔫 Counter-Strike: Global Offensive 🕘 1104 hrs 4 mins
 🎮 Slay the Spire                   🕘 9 hrs 46 mins
 🎮 Bloons TD 6                      🕘 69 hrs 18 mins
