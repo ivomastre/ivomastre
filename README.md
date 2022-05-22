@@ -56,7 +56,7 @@
 🔫 Counter-Strike: Global Offensive 🕘 1104 hrs 4 mins
 🎮 Slay the Spire                   🕘 9 hrs 46 mins
 🎮 The Forest                       🕘 2 hrs 22 mins
-🎮 Pacify                           🕘 5 hrs 37 mins
+🎮 Legends of Idleon MMO            🕘 261 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
