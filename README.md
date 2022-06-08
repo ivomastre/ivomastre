@@ -53,8 +53,8 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 V Rising                         🕘 82 hrs 27 mins
-🔫 Counter-Strike: Global Offensive 🕘 1124 hrs 39 mins
-🎮 Bloons TD 6                      🕘 69 hrs 37 mins
+🔫 Counter-Strike: Global Offensive 🕘 1127 hrs 2 mins
+🎮 Bloons TD 6                      🕘 70 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
