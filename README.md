@@ -54,7 +54,6 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1128 hrs 46 mins
 🎮 Bloons TD 6                      🕘 70 hrs 3 mins
-🎮 V Rising                         🕘 82 hrs 27 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
