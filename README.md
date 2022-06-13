@@ -54,8 +54,8 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1132 hrs 42 mins
 🎮 The Cycle: Frontier              🕘 3 hrs 54 mins
+🎮 Deducto                          🕘 1 hrs 53 mins
 🎮 20 Minutes Till Dawn             🕘 1 hrs 0 mins
-🎮 Deducto                          🕘 0 hrs 53 mins
 🎮 Bloons TD 6                      🕘 70 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
