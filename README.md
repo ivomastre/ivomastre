@@ -56,7 +56,7 @@
 🎮 The Cycle: Frontier              🕘 3 hrs 54 mins
 🎮 Deducto                          🕘 2 hrs 16 mins
 🎮 20 Minutes Till Dawn             🕘 1 hrs 49 mins
-🎮 Bloons TD 6                      🕘 70 hrs 3 mins
+🎮 Bloons TD 6                      🕘 70 hrs 24 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
