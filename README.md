@@ -52,10 +52,10 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 1138 hrs 20 mins
+🔫 Counter-Strike: Global Offensive 🕘 1139 hrs 23 mins
 🎮 The Cycle: Frontier              🕘 3 hrs 54 mins
+🎮 20 Minutes Till Dawn             🕘 2 hrs 52 mins
 🎮 Deducto                          🕘 2 hrs 16 mins
-🎮 20 Minutes Till Dawn             🕘 1 hrs 49 mins
 🎮 Bloons TD 6                      🕘 70 hrs 24 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
