@@ -53,7 +53,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1141 hrs 57 mins
-🎮 The Cycle: Frontier              🕘 3 hrs 54 mins
+🎮 The Cycle: Frontier              🕘 4 hrs 12 mins
 🎮 20 Minutes Till Dawn             🕘 2 hrs 52 mins
 🎮 Deducto                          🕘 2 hrs 16 mins
 🎮 FOREWARNED                       🕘 8 hrs 48 mins
