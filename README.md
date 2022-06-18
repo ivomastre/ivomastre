@@ -55,7 +55,7 @@
 🔫 Counter-Strike: Global Offensive 🕘 1143 hrs 52 mins
 🎮 The Cycle: Frontier              🕘 4 hrs 12 mins
 🎮 20 Minutes Till Dawn             🕘 4 hrs 9 mins
-🎮 Deducto                          🕘 2 hrs 16 mins
+🎮 Deducto                          🕘 3 hrs 24 mins
 🎮 GTFO                             🕘 1 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
