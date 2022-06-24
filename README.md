@@ -56,7 +56,7 @@
 🎮 Deducto                          🕘 4 hrs 23 mins
 🎮 20 Minutes Till Dawn             🕘 4 hrs 9 mins
 🎮 The Cycle: Frontier              🕘 4 hrs 12 mins
-🎮 TEKKEN 7                         🕘 2 hrs 0 mins
+🎮 TEKKEN 7                         🕘 2 hrs 26 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
