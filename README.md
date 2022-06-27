@@ -54,7 +54,7 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1164 hrs 3 mins
 🎮 20 Minutes Till Dawn             🕘 4 hrs 9 mins
-🎮 TEKKEN 7                         🕘 2 hrs 26 mins
+🎮 TEKKEN 7                         🕘 2 hrs 56 mins
 🎮 Deducto                          🕘 4 hrs 23 mins
 🎮 GTFO                             🕘 1 hrs 1 mins
 ```
