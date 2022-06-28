@@ -56,7 +56,7 @@
 🎮 TEKKEN 7                         🕘 3 hrs 19 mins
 🎮 20 Minutes Till Dawn             🕘 4 hrs 9 mins
 🎮 Deducto                          🕘 4 hrs 23 mins
-🎮 GTFO                             🕘 1 hrs 1 mins
+🎮 Vampire Survivors                🕘 20 hrs 24 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
