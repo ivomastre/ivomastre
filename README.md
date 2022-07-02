@@ -52,11 +52,11 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 1168 hrs 21 mins
+🔫 Counter-Strike: Global Offensive 🕘 1170 hrs 3 mins
 🎮 Vampire Survivors                🕘 23 hrs 58 mins
 🎮 TEKKEN 7                         🕘 3 hrs 19 mins
 🎮 Deducto                          🕘 4 hrs 23 mins
-🎮 20 Minutes Till Dawn             🕘 4 hrs 9 mins
+🎮 GTFO                             🕘 1 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
