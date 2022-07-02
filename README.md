@@ -56,7 +56,7 @@
 🎮 Vampire Survivors                🕘 23 hrs 58 mins
 🎮 TEKKEN 7                         🕘 3 hrs 19 mins
 🎮 Deducto                          🕘 4 hrs 23 mins
-🎮 20 Minutes Till Dawn             🕘 4 hrs 9 mins
+🎮 Crab Game                        🕘 8 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
