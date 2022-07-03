@@ -55,7 +55,6 @@
 🔫 Counter-Strike: Global Offensive 🕘 1174 hrs 4 mins
 🎮 Vampire Survivors                🕘 23 hrs 58 mins
 🎮 TEKKEN 7                         🕘 3 hrs 19 mins
-🎮 Hero Siege                       🕘 14 hrs 59 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
