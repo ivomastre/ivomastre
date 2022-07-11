@@ -55,7 +55,6 @@
 🔫 Counter-Strike: Global Offensive 🕘 1190 hrs 16 mins
 🎮 Vampire Survivors                🕘 23 hrs 58 mins
 🎮 Golf With Your Friends           🕘 3 hrs 49 mins
-🎮 TEKKEN 7                         🕘 3 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
