@@ -54,7 +54,6 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1193 hrs 32 mins
 🎮 Golf With Your Friends           🕘 4 hrs 32 mins
-🎮 Vampire Survivors                🕘 23 hrs 58 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
