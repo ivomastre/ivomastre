@@ -54,6 +54,7 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1233 hrs 55 mins
 🎮 GUILTY GEAR -STRIVE-             🕘 34 hrs 43 mins
+🎮 Terraria                         🕘 119 hrs 38 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
