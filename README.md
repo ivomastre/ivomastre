@@ -52,7 +52,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 1237 hrs 11 mins
+🔫 Counter-Strike: Global Offensive 🕘 1238 hrs 21 mins
 🎮 Terraria                         🕘 121 hrs 10 mins
 🎮 GUILTY GEAR -STRIVE-             🕘 34 hrs 43 mins
 ```
