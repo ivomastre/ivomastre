@@ -54,8 +54,8 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1240 hrs 5 mins
 🎮 MultiVersus                      🕘 3 hrs 54 mins
+🎮 Project Zomboid                  🕘 37 hrs 20 mins
 🎮 Terraria                         🕘 121 hrs 10 mins
-🎮 Project Zomboid                  🕘 36 hrs 47 mins
 🎮 GUILTY GEAR -STRIVE-             🕘 34 hrs 43 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
