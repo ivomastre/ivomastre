@@ -52,8 +52,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 1241 hrs 54 mins
-🎮 MultiVersus                      🕘 13 hrs 32 mins
+🔫 Counter-Strike: Global Offensive 🕘 1242 hrs 24 mins
+🎮 MultiVersus                      🕘 13 hrs 48 mins
 🎮 Project Zomboid                  🕘 41 hrs 31 mins
 🎮 Terraria                         🕘 121 hrs 10 mins
 🎮 GUILTY GEAR -STRIVE-             🕘 34 hrs 43 mins
