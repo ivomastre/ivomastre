@@ -54,7 +54,7 @@
 ```text
 🎮 MultiVersus                      🕘 20 hrs 39 mins
 🔫 Counter-Strike: Global Offensive 🕘 1242 hrs 53 mins
-🎮 Project Zomboid                  🕘 43 hrs 14 mins
+🎮 Project Zomboid                  🕘 44 hrs 28 mins
 🎮 Terraria                         🕘 121 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
