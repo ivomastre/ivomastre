@@ -56,6 +56,7 @@
 🎮 Project Zomboid                  🕘 59 hrs 13 mins
 🔫 Counter-Strike: Global Offensive 🕘 1242 hrs 53 mins
 🎮 Terraria                         🕘 121 hrs 10 mins
+🎮 Bloons TD 6                      🕘 70 hrs 54 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
