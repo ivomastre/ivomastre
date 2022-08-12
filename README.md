@@ -54,7 +54,7 @@
 ```text
 🎮 MultiVersus                      🕘 38 hrs 37 mins
 🎮 Project Zomboid                  🕘 59 hrs 13 mins
-🔫 Counter-Strike: Global Offensive 🕘 1246 hrs 21 mins
+🔫 Counter-Strike: Global Offensive 🕘 1247 hrs 5 mins
 🎮 Bloons TD 6                      🕘 75 hrs 9 mins
 🎮 Terraria                         🕘 121 hrs 10 mins
 ```
