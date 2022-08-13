@@ -55,7 +55,7 @@
 🎮 MultiVersus                      🕘 38 hrs 37 mins
 🎮 Project Zomboid                  🕘 59 hrs 17 mins
 🔫 Counter-Strike: Global Offensive 🕘 1247 hrs 5 mins
-🎮 Bloons TD 6                      🕘 75 hrs 9 mins
+🎮 Bloons TD 6                      🕘 76 hrs 51 mins
 🎮 Terraria                         🕘 121 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
