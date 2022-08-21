@@ -52,10 +52,10 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 1262 hrs 58 mins
+🔫 Counter-Strike: Global Offensive 🕘 1263 hrs 58 mins
 🎮 MultiVersus                      🕘 44 hrs 50 mins
-🎮 Project Zomboid                  🕘 59 hrs 17 mins
 🎮 Bloons TD 6                      🕘 76 hrs 51 mins
+🎮 Project Zomboid                  🕘 59 hrs 17 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
