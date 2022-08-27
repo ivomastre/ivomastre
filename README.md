@@ -54,7 +54,7 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1269 hrs 32 mins
 🎮 MultiVersus                      🕘 50 hrs 5 mins
-🎮 SUPER PEOPLE FINAL BETA          🕘 9 hrs 35 mins
+🎮 SUPER PEOPLE FINAL BETA          🕘 10 hrs 38 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
