@@ -53,8 +53,8 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1269 hrs 32 mins
+🎮 SUPER PEOPLE FINAL BETA          🕘 11 hrs 39 mins
 🎮 MultiVersus                      🕘 50 hrs 5 mins
-🎮 SUPER PEOPLE FINAL BETA          🕘 10 hrs 38 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
