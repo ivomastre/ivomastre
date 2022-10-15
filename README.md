@@ -52,9 +52,9 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
+🎮 SUPER PEOPLE                     🕘 1 hrs 40 mins
 🎮 Vampire Survivors                🕘 24 hrs 43 mins
 🔫 Counter-Strike: Global Offensive 🕘 1276 hrs 47 mins
-🎮 SUPER PEOPLE                     🕘 0 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
