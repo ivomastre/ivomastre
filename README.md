@@ -54,6 +54,7 @@
 ```text
 🎮 SUPER PEOPLE                     🕘 2 hrs 42 mins
 🎮 Vampire Survivors                🕘 25 hrs 24 mins
+🎮 Brotato                          🕘 1 hrs 3 mins
 🔫 Counter-Strike: Global Offensive 🕘 1276 hrs 47 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
