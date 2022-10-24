@@ -55,8 +55,8 @@
 🎮 SUPER PEOPLE                     🕘 2 hrs 42 mins
 🎮 Vampire Survivors                🕘 26 hrs 6 mins
 🔫 Counter-Strike: Global Offensive 🕘 1278 hrs 36 mins
+🎮 Yu-Gi-Oh!  Master Duel           🕘 67 hrs 9 mins
 🎮 Brotato                          🕘 1 hrs 3 mins
-🎮 Yu-Gi-Oh!  Master Duel           🕘 66 hrs 43 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
