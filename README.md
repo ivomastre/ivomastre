@@ -54,9 +54,9 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1281 hrs 15 mins
 🎮 SUPER PEOPLE                     🕘 2 hrs 42 mins
-🎮 Vampire Survivors                🕘 26 hrs 6 mins
 🎮 Prominence Poker                 🕘 1 hrs 33 mins
 🎮 Yu-Gi-Oh!  Master Duel           🕘 67 hrs 9 mins
+🎮 Vampire Survivors                🕘 26 hrs 6 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
