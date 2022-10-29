@@ -56,6 +56,7 @@
 🎮 Prominence Poker                 🕘 1 hrs 33 mins
 🎮 Yu-Gi-Oh!  Master Duel           🕘 67 hrs 9 mins
 🎮 Vampire Survivors                🕘 26 hrs 6 mins
+💻 Wallpaper Engine                 🕘 3 hrs 37 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
