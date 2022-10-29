@@ -53,9 +53,9 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1281 hrs 15 mins
-🎮 SUPER PEOPLE                     🕘 2 hrs 42 mins
 🎮 Prominence Poker                 🕘 1 hrs 33 mins
 🎮 Yu-Gi-Oh!  Master Duel           🕘 67 hrs 9 mins
+🎮 SUPER PEOPLE                     🕘 2 hrs 42 mins
 🎮 Vampire Survivors                🕘 26 hrs 6 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
