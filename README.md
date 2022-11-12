@@ -54,6 +54,7 @@
 ```text
 🎮 Yu-Gi-Oh!  Master Duel           🕘 69 hrs 8 mins
 🔫 Counter-Strike: Global Offensive 🕘 1282 hrs 59 mins
+🎮 Phasmophobia                     🕘 27 hrs 12 mins
 💻 Wallpaper Engine                 🕘 3 hrs 37 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
