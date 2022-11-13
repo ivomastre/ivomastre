@@ -52,8 +52,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Yu-Gi-Oh!  Master Duel           🕘 70 hrs 46 mins
-🔫 Counter-Strike: Global Offensive 🕘 1283 hrs 0 mins
+🎮 Yu-Gi-Oh!  Master Duel           🕘 71 hrs 10 mins
+🔫 Counter-Strike: Global Offensive 🕘 1283 hrs 56 mins
 🎮 Phasmophobia                     🕘 27 hrs 12 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
