@@ -55,6 +55,7 @@
 🎮 Yu-Gi-Oh!  Master Duel           🕘 79 hrs 38 mins
 🔫 Counter-Strike: Global Offensive 🕘 1286 hrs 32 mins
 🎮 Phasmophobia                     🕘 27 hrs 12 mins
+🎮 ZERO Sievert                     🕘 0 hrs 5 mins
 🎮 Brotato                          🕘 1 hrs 4 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
