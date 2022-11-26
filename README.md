@@ -54,7 +54,7 @@
 ```text
 🎮 Yu-Gi-Oh!  Master Duel           🕘 79 hrs 38 mins
 🔫 Counter-Strike: Global Offensive 🕘 1288 hrs 30 mins
-🎮 ZERO Sievert                     🕘 0 hrs 5 mins
+🎮 ZERO Sievert                     🕘 0 hrs 36 mins
 🎮 Brotato                          🕘 1 hrs 4 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
