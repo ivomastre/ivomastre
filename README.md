@@ -54,7 +54,7 @@
 ```text
 🎮 Yu-Gi-Oh!  Master Duel           🕘 79 hrs 38 mins
 🔫 Counter-Strike: Global Offensive 🕘 1290 hrs 4 mins
-🎮 Muck                             🕘 4 hrs 1 mins
+🎮 Muck                             🕘 4 hrs 49 mins
 🎮 ZERO Sievert                     🕘 0 hrs 53 mins
 🎮 Brotato                          🕘 1 hrs 4 mins
 ```
