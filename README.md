@@ -56,7 +56,7 @@
 🔫 Counter-Strike: Global Offensive 🕘 1291 hrs 5 mins
 🎮 Muck                             🕘 4 hrs 49 mins
 🎮 ZERO Sievert                     🕘 0 hrs 53 mins
-🚀 Rocket League                    🕘 771 hrs 32 mins
+🎮 Monster Hunter: World            🕘 11 hrs 5 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
