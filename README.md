@@ -53,8 +53,8 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1291 hrs 5 mins
-🎮 Yu-Gi-Oh!  Master Duel           🕘 80 hrs 6 mins
 🎮 Muck                             🕘 4 hrs 49 mins
+🎮 Yu-Gi-Oh!  Master Duel           🕘 80 hrs 6 mins
 🎮 Monster Hunter: World            🕘 11 hrs 58 mins
 🎮 ZERO Sievert                     🕘 0 hrs 53 mins
 ```
