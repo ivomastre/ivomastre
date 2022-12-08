@@ -54,9 +54,9 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1301 hrs 53 mins
 🎮 Muck                             🕘 4 hrs 49 mins
+🎮 Valheim                          🕘 1 hrs 23 mins
 🎮 Monster Hunter: World            🕘 11 hrs 58 mins
 🎮 Yu-Gi-Oh!  Master Duel           🕘 80 hrs 6 mins
-🎮 ZERO Sievert                     🕘 0 hrs 53 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
