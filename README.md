@@ -54,9 +54,9 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1302 hrs 49 mins
 🎮 Muck                             🕘 4 hrs 49 mins
+🎮 Dwarf Fortress                   🕘 1 hrs 55 mins
 🎮 Valheim                          🕘 1 hrs 23 mins
 🎮 Monster Hunter: World            🕘 11 hrs 58 mins
-🎮 Dwarf Fortress                   🕘 1 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
