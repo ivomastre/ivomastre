@@ -52,7 +52,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 1303 hrs 19 mins
+🔫 Counter-Strike: Global Offensive 🕘 1304 hrs 20 mins
 🎮 Muck                             🕘 4 hrs 49 mins
 🎮 Dwarf Fortress                   🕘 1 hrs 55 mins
 🎮 Valheim                          🕘 1 hrs 23 mins
