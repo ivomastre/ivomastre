@@ -53,9 +53,9 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1309 hrs 42 mins
+🎮 WAKFU                            🕘 33 hrs 27 mins
 🎮 Dwarf Fortress                   🕘 1 hrs 55 mins
 🎮 Muck                             🕘 4 hrs 49 mins
-🎮 WAKFU                            🕘 32 hrs 26 mins
 🎮 Garry's Mod                      🕘 5 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
