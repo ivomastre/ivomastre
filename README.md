@@ -54,7 +54,7 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1310 hrs 15 mins
 🎮 WAKFU                            🕘 35 hrs 46 mins
-🚀 Rocket League                    🕘 774 hrs 45 mins
+🚀 Rocket League                    🕘 775 hrs 15 mins
 🎮 Dwarf Fortress                   🕘 1 hrs 55 mins
 🎮 Garry's Mod                      🕘 5 hrs 42 mins
 ```
