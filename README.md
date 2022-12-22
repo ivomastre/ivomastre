@@ -53,7 +53,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1310 hrs 15 mins
-🚀 Rocket League                    🕘 778 hrs 33 mins
+🚀 Rocket League                    🕘 779 hrs 40 mins
 🎮 WAKFU                            🕘 35 hrs 46 mins
 🎮 Dwarf Fortress                   🕘 1 hrs 55 mins
 🎮 Garry's Mod                      🕘 5 hrs 42 mins
