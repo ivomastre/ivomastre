@@ -55,8 +55,8 @@
 🚀 Rocket League                    🕘 779 hrs 40 mins
 🎮 WAKFU                            🕘 35 hrs 46 mins
 🔫 Counter-Strike: Global Offensive 🕘 1310 hrs 15 mins
-🎮 Garry's Mod                      🕘 5 hrs 42 mins
 🎮 Vampire Survivors                🕘 27 hrs 17 mins
+🎮 Garry's Mod                      🕘 5 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
