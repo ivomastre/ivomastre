@@ -56,7 +56,6 @@
 🎮 Vampire Survivors                🕘 27 hrs 17 mins
 🔫 Counter-Strike: Global Offensive 🕘 1310 hrs 15 mins
 🎮 Yu-Gi-Oh!  Master Duel           🕘 80 hrs 17 mins
-🎮 WAKFU                            🕘 35 hrs 46 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
