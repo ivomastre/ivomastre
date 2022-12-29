@@ -52,8 +52,9 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🚀 Rocket League                    🕘 779 hrs 40 mins
+🚀 Rocket League                    🕘 780 hrs 9 mins
 🎮 Vampire Survivors                🕘 27 hrs 17 mins
+🎮 Fistful of Frags                 🕘 0 hrs 39 mins
 🎮 Bloons TD 6                      🕘 76 hrs 55 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
