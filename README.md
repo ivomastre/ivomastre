@@ -54,7 +54,6 @@
 ```text
 🚀 Rocket League                    🕘 780 hrs 9 mins
 🎮 Fistful of Frags                 🕘 1 hrs 6 mins
-🎮 Vampire Survivors                🕘 27 hrs 17 mins
 🎮 Bloons TD 6                      🕘 76 hrs 55 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
