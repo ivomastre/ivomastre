@@ -54,6 +54,7 @@
 ```text
 🚀 Rocket League                    🕘 783 hrs 3 mins
 🎮 The Forest                       🕘 4 hrs 2 mins
+🔫 Counter-Strike: Global Offensive 🕘 1311 hrs 15 mins
 🎮 Fistful of Frags                 🕘 1 hrs 6 mins
 🎮 Bloons TD 6                      🕘 76 hrs 55 mins
 ```
