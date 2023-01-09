@@ -53,7 +53,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 The Forest                       🕘 9 hrs 24 mins
-🚀 Rocket League                    🕘 785 hrs 15 mins
+🚀 Rocket League                    🕘 786 hrs 34 mins
 🔫 Counter-Strike: Global Offensive 🕘 1313 hrs 16 mins
 🎮 Fistful of Frags                 🕘 1 hrs 6 mins
 🎮 Bloons TD 6                      🕘 76 hrs 55 mins
