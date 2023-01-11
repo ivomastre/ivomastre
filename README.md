@@ -56,7 +56,6 @@
 🚀 Rocket League                    🕘 786 hrs 34 mins
 🔫 Counter-Strike: Global Offensive 🕘 1313 hrs 16 mins
 🎮 Fistful of Frags                 🕘 1 hrs 6 mins
-🎮 Bloons TD 6                      🕘 76 hrs 55 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
