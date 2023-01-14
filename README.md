@@ -54,7 +54,7 @@
 ```text
 🚀 Rocket League                    🕘 788 hrs 7 mins
 🎮 The Forest                       🕘 9 hrs 24 mins
-🔫 Counter-Strike: Global Offensive 🕘 1313 hrs 16 mins
+🔫 Counter-Strike: Global Offensive 🕘 1313 hrs 46 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
