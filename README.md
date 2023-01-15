@@ -52,9 +52,10 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🚀 Rocket League                    🕘 789 hrs 22 mins
+🚀 Rocket League                    🕘 789 hrs 30 mins
 🎮 The Forest                       🕘 9 hrs 24 mins
 🔫 Counter-Strike: Global Offensive 🕘 1313 hrs 46 mins
+💻 Wallpaper Engine                 🕘 3 hrs 38 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
