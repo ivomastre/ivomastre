@@ -54,9 +54,9 @@
 ```text
 🚀 Rocket League                    🕘 791 hrs 14 mins
 🔫 Counter-Strike: Global Offensive 🕘 1316 hrs 7 mins
-🎮 The Forest                       🕘 9 hrs 24 mins
 🎮 Witch It                         🕘 5 hrs 42 mins
 🎮 Death Road to Canada             🕘 2 hrs 56 mins
+🎮 The Forest                       🕘 9 hrs 24 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
