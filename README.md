@@ -53,8 +53,8 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🚀 Rocket League                    🕘 791 hrs 14 mins
-🎮 The Forest                       🕘 9 hrs 24 mins
 🔫 Counter-Strike: Global Offensive 🕘 1316 hrs 7 mins
+🎮 The Forest                       🕘 9 hrs 24 mins
 🎮 Witch It                         🕘 5 hrs 42 mins
 🎮 Death Road to Canada             🕘 2 hrs 56 mins
 ```
