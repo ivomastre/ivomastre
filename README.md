@@ -56,7 +56,6 @@
 🚀 Rocket League                    🕘 791 hrs 14 mins
 🎮 Witch It                         🕘 5 hrs 42 mins
 🎮 Death Road to Canada             🕘 2 hrs 56 mins
-💻 Wallpaper Engine                 🕘 3 hrs 38 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
