@@ -52,8 +52,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
+🔫 Counter-Strike: Global Offensive 🕘 1317 hrs 58 mins
 🚀 Rocket League                    🕘 792 hrs 22 mins
-🔫 Counter-Strike: Global Offensive 🕘 1316 hrs 58 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
