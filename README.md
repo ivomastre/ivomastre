@@ -54,8 +54,8 @@
 ```text
 🎮 Unturned                         🕘 123 hrs 13 mins
 🔫 Counter-Strike: Global Offensive 🕘 1322 hrs 2 mins
+🎮 Dark and Darker Demo             🕘 4 hrs 10 mins
 🚀 Rocket League                    🕘 794 hrs 46 mins
-🎮 Dark and Darker Demo             🕘 3 hrs 12 mins
 🎮 Idle Slayer                      🕘 0 hrs 11 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
