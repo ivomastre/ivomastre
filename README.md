@@ -56,6 +56,7 @@
 🔫 Counter-Strike: Global Offensive 🕘 1322 hrs 2 mins
 🚀 Rocket League                    🕘 794 hrs 46 mins
 🎮 Idle Slayer                      🕘 0 hrs 11 mins
+🎮 Dark and Darker Demo             🕘 0 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
