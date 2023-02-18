@@ -56,7 +56,7 @@
 🔫 Counter-Strike: Global Offensive 🕘 1326 hrs 53 mins
 🎮 Dark and Darker Demo             🕘 4 hrs 10 mins
 🚀 Rocket League                    🕘 795 hrs 15 mins
-🎮 Monster Hunter: World            🕘 13 hrs 33 mins
+🎮 SYNTHETIK                        🕘 1 hrs 37 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
