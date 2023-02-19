@@ -56,7 +56,7 @@
 🔫 Counter-Strike: Global Offensive 🕘 1328 hrs 35 mins
 🎮 Dark and Darker Demo             🕘 4 hrs 10 mins
 🚀 Rocket League                    🕘 795 hrs 15 mins
-🎮 Yu-Gi-Oh!  Master Duel           🕘 83 hrs 40 mins
+🎮 Yu-Gi-Oh!  Master Duel           🕘 84 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
