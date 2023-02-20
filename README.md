@@ -54,8 +54,8 @@
 ```text
 🎮 Unturned                         🕘 126 hrs 5 mins
 🔫 Counter-Strike: Global Offensive 🕘 1330 hrs 16 mins
+🚀 Rocket League                    🕘 795 hrs 45 mins
 🎮 Dark and Darker Demo             🕘 4 hrs 10 mins
-🚀 Rocket League                    🕘 795 hrs 15 mins
 🎮 Yu-Gi-Oh!  Master Duel           🕘 84 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
