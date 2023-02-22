@@ -52,7 +52,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Unturned                         🕘 143 hrs 30 mins
+🎮 Unturned                         🕘 144 hrs 31 mins
 🔫 Counter-Strike: Global Offensive 🕘 1331 hrs 57 mins
 🚀 Rocket League                    🕘 795 hrs 57 mins
 🎮 Dark and Darker Demo             🕘 4 hrs 10 mins
