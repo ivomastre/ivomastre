@@ -54,7 +54,7 @@
 ```text
 🎮 Unturned                         🕘 167 hrs 56 mins
 🚀 Rocket League                    🕘 812 hrs 25 mins
-🔫 Counter-Strike: Global Offensive 🕘 1337 hrs 36 mins
+🔫 Counter-Strike: Global Offensive 🕘 1337 hrs 58 mins
 🎮 Sons Of The Forest               🕘 3 hrs 15 mins
 🎮 SYNTHETIK                        🕘 3 hrs 19 mins
 ```
