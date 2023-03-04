@@ -56,7 +56,7 @@
 🚀 Rocket League                    🕘 812 hrs 4 mins
 🔫 Counter-Strike: Global Offensive 🕘 1337 hrs 15 mins
 🎮 Sons Of The Forest               🕘 3 hrs 15 mins
-🎮 Yu-Gi-Oh!  Master Duel           🕘 84 hrs 7 mins
+🎮 SYNTHETIK                        🕘 3 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
