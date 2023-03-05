@@ -53,10 +53,10 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Unturned                         🕘 167 hrs 56 mins
-🚀 Rocket League                    🕘 812 hrs 25 mins
+🚀 Rocket League                    🕘 813 hrs 6 mins
 🔫 Counter-Strike: Global Offensive 🕘 1337 hrs 58 mins
 🎮 Sons Of The Forest               🕘 3 hrs 15 mins
-🎮 SYNTHETIK                        🕘 3 hrs 19 mins
+🎮 Yu-Gi-Oh!  Master Duel           🕘 84 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
