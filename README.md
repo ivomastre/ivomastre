@@ -55,8 +55,8 @@
 🎮 Unturned                         🕘 167 hrs 56 mins
 🚀 Rocket League                    🕘 814 hrs 30 mins
 🔫 Counter-Strike: Global Offensive 🕘 1337 hrs 58 mins
-🎮 Sons Of The Forest               🕘 3 hrs 15 mins
-🎮 Terraria                         🕘 124 hrs 13 mins
+🎮 Terraria                         🕘 124 hrs 43 mins
+🎮 tModLoader                       🕘 3 hrs 31 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
