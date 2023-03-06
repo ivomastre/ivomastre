@@ -53,7 +53,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Unturned                         🕘 167 hrs 56 mins
-🚀 Rocket League                    🕘 814 hrs 30 mins
+🚀 Rocket League                    🕘 816 hrs 1 mins
 🔫 Counter-Strike: Global Offensive 🕘 1337 hrs 58 mins
 🎮 Terraria                         🕘 126 hrs 39 mins
 🎮 tModLoader                       🕘 5 hrs 27 mins
