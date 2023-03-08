@@ -54,9 +54,9 @@
 ```text
 🚀 Rocket League                    🕘 820 hrs 4 mins
 🎮 Unturned                         🕘 167 hrs 56 mins
+🎮 Terraria                         🕘 129 hrs 10 mins
+🎮 tModLoader                       🕘 7 hrs 58 mins
 🔫 Counter-Strike: Global Offensive 🕘 1339 hrs 30 mins
-🎮 Terraria                         🕘 128 hrs 40 mins
-🎮 tModLoader                       🕘 7 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
