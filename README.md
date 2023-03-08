@@ -52,11 +52,11 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Unturned                         🕘 167 hrs 56 mins
 🚀 Rocket League                    🕘 820 hrs 4 mins
+🎮 Unturned                         🕘 167 hrs 56 mins
 🔫 Counter-Strike: Global Offensive 🕘 1339 hrs 30 mins
-🎮 Terraria                         🕘 127 hrs 40 mins
-🎮 tModLoader                       🕘 6 hrs 27 mins
+🎮 Terraria                         🕘 128 hrs 40 mins
+🎮 tModLoader                       🕘 7 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
