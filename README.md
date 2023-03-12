@@ -56,7 +56,7 @@
 🎮 Terraria                         🕘 139 hrs 50 mins
 🎮 tModLoader                       🕘 18 hrs 39 mins
 🔫 Counter-Strike: Global Offensive 🕘 1341 hrs 29 mins
-🎮 Unturned                         🕘 167 hrs 56 mins
+🎮 The Isle                         🕘 4 hrs 31 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
