@@ -52,8 +52,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 tModLoader                       🕘 19 hrs 40 mins
-🎮 Terraria                         🕘 140 hrs 51 mins
+🎮 tModLoader                       🕘 20 hrs 41 mins
+🎮 Terraria                         🕘 141 hrs 52 mins
 🚀 Rocket League                    🕘 820 hrs 42 mins
 🎮 The Isle                         🕘 4 hrs 31 mins
 🔫 Counter-Strike: Global Offensive 🕘 1341 hrs 29 mins
