@@ -54,7 +54,7 @@
 ```text
 🎮 tModLoader                       🕘 21 hrs 7 mins
 🎮 Terraria                         🕘 142 hrs 18 mins
-🔫 Counter-Strike: Global Offensive 🕘 1347 hrs 36 mins
+🔫 Counter-Strike: Global Offensive 🕘 1348 hrs 37 mins
 🚀 Rocket League                    🕘 821 hrs 54 mins
 🎮 The Isle                         🕘 4 hrs 31 mins
 ```
