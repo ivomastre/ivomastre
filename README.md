@@ -56,7 +56,7 @@
 🎮 Terraria                         🕘 142 hrs 18 mins
 🔫 Counter-Strike: Global Offensive 🕘 1349 hrs 5 mins
 🎮 The Isle                         🕘 4 hrs 31 mins
-🚀 Rocket League                    🕘 821 hrs 54 mins
+🚀 Rocket League                    🕘 822 hrs 24 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
