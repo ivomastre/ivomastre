@@ -55,7 +55,7 @@
 🔫 Counter-Strike: Global Offensive 🕘 1350 hrs 44 mins
 🎮 tModLoader                       🕘 21 hrs 7 mins
 🎮 Terraria                         🕘 142 hrs 18 mins
-🎮 Resident Evil 4                  🕘 4 hrs 1 mins
+🎮 Resident Evil 4                  🕘 5 hrs 2 mins
 🚀 Rocket League                    🕘 823 hrs 23 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
