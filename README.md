@@ -53,7 +53,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1350 hrs 44 mins
-🎮 Resident Evil 4                  🕘 9 hrs 3 mins
+🎮 Resident Evil 4                  🕘 10 hrs 4 mins
 🎮 tModLoader                       🕘 21 hrs 7 mins
 🎮 Terraria                         🕘 142 hrs 18 mins
 🚀 Rocket League                    🕘 823 hrs 23 mins
