@@ -56,7 +56,7 @@
 🎮 tModLoader                       🕘 21 hrs 7 mins
 🎮 Terraria                         🕘 142 hrs 18 mins
 🚀 Rocket League                    🕘 823 hrs 23 mins
-🎮 Hero Siege                       🕘 16 hrs 32 mins
+🎮 Resident Evil 4                  🕘 2 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
