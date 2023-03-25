@@ -52,7 +52,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Resident Evil 4                  🕘 14 hrs 30 mins
+🎮 Resident Evil 4                  🕘 15 hrs 23 mins
 🔫 Counter-Strike: Global Offensive 🕘 1350 hrs 44 mins
 🎮 tModLoader                       🕘 21 hrs 7 mins
 🎮 Terraria                         🕘 142 hrs 18 mins
