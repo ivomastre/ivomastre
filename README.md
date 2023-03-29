@@ -53,10 +53,10 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Resident Evil 4                  🕘 30 hrs 16 mins
-🔫 Counter-Strike: Global Offensive 🕘 1352 hrs 18 mins
+🔫 Counter-Strike: Global Offensive 🕘 1353 hrs 5 mins
 🚀 Rocket League                    🕘 823 hrs 48 mins
-🎮 tModLoader                       🕘 21 hrs 7 mins
-🎮 Terraria                         🕘 142 hrs 18 mins
+🎮 Hero Siege                       🕘 16 hrs 32 mins
+🎮 Bloons TD 6                      🕘 78 hrs 4 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
