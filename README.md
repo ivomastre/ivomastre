@@ -56,7 +56,7 @@
 🔫 Counter-Strike: Global Offensive 🕘 1353 hrs 5 mins
 🚀 Rocket League                    🕘 823 hrs 48 mins
 🎮 Hero Siege                       🕘 16 hrs 32 mins
-🎮 Bloons TD 6                      🕘 78 hrs 4 mins
+🎮 FINAL FANTASY XIV Online Free Trial 🕘 0 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
