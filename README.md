@@ -53,7 +53,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Resident Evil 4                  🕘 30 hrs 16 mins
-🔫 Counter-Strike: Global Offensive 🕘 1355 hrs 13 mins
+🔫 Counter-Strike: Global Offensive 🕘 1356 hrs 10 mins
 🚀 Rocket League                    🕘 825 hrs 39 mins
 🎮 FINAL FANTASY XIV Online Free Trial 🕘 0 hrs 9 mins
 ```
