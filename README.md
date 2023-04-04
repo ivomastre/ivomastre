@@ -54,7 +54,7 @@
 ```text
 🎮 Resident Evil 4                  🕘 30 hrs 16 mins
 🔫 Counter-Strike: Global Offensive 🕘 1363 hrs 22 mins
-🚀 Rocket League                    🕘 827 hrs 41 mins
+🚀 Rocket League                    🕘 827 hrs 59 mins
 🎮 Necesse                          🕘 2 hrs 31 mins
 🎮 FINAL FANTASY XIV Online Free Trial 🕘 0 hrs 9 mins
 ```
