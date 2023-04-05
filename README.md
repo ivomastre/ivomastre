@@ -54,7 +54,7 @@
 ```text
 🎮 Resident Evil 4                  🕘 30 hrs 16 mins
 🔫 Counter-Strike: Global Offensive 🕘 1363 hrs 22 mins
-🎮 V Rising                         🕘 89 hrs 47 mins
+🎮 V Rising                         🕘 90 hrs 47 mins
 🚀 Rocket League                    🕘 827 hrs 59 mins
 🎮 Necesse                          🕘 2 hrs 31 mins
 ```
