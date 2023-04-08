@@ -52,7 +52,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 V Rising                         🕘 116 hrs 58 mins
+🎮 V Rising                         🕘 117 hrs 58 mins
 🎮 Resident Evil 4                  🕘 30 hrs 16 mins
 🔫 Counter-Strike: Global Offensive 🕘 1363 hrs 22 mins
 🚀 Rocket League                    🕘 827 hrs 59 mins
