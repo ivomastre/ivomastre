@@ -56,7 +56,7 @@
 🔫 Counter-Strike: Global Offensive 🕘 1363 hrs 22 mins
 🚀 Rocket League                    🕘 827 hrs 59 mins
 🎮 Necesse                          🕘 2 hrs 31 mins
-🎮 Resident Evil 4                  🕘 30 hrs 16 mins
+🎮 Unturned                         🕘 168 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
