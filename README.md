@@ -54,7 +54,6 @@
 ```text
 🎮 V Rising                         🕘 173 hrs 12 mins
 🚀 Rocket League                    🕘 828 hrs 16 mins
-🎮 Unturned                         🕘 168 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
