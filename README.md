@@ -54,7 +54,7 @@
 ```text
 🎮 V Rising                         🕘 200 hrs 46 mins
 🚀 Rocket League                    🕘 832 hrs 27 mins
-🎮 Demonologist                     🕘 0 hrs 30 mins
+🎮 Demonologist                     🕘 1 hrs 6 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
