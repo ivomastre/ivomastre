@@ -53,8 +53,8 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 V Rising                         🕘 220 hrs 52 mins
+❓ Unknown Game                     🕘 2 hrs 56 mins
 🚀 Rocket League                    🕘 835 hrs 51 mins
-❓ Unknown Game                     🕘 1 hrs 55 mins
 🎮 Demonologist                     🕘 2 hrs 46 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
