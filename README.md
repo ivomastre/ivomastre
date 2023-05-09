@@ -52,8 +52,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-❓ Unknown Game                     🕘 12 hrs 31 mins
-🚀 Rocket League                    🕘 835 hrs 51 mins
+❓ Unknown Game                     🕘 13 hrs 31 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
