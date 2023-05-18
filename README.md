@@ -54,7 +54,7 @@
 ```text
 ❓ Unknown Game                     🕘 47 hrs 46 mins
 🎮 V Rising                         🕘 224 hrs 37 mins
-🎮 Omega Strikers                   🕘 1 hrs 30 mins
+🎮 Omega Strikers                   🕘 2 hrs 31 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
