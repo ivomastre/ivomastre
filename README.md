@@ -55,6 +55,7 @@
 ❓ Unknown Game                     🕘 47 hrs 46 mins
 🎮 Omega Strikers                   🕘 16 hrs 18 mins
 🎮 V Rising                         🕘 228 hrs 53 mins
+🚀 Rocket League                    🕘 836 hrs 21 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
