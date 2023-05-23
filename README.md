@@ -53,7 +53,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 ❓ Unknown Game                     🕘 47 hrs 46 mins
-🎮 Omega Strikers                   🕘 21 hrs 44 mins
+🎮 Omega Strikers                   🕘 22 hrs 45 mins
 🎮 V Rising                         🕘 228 hrs 53 mins
 🚀 Rocket League                    🕘 837 hrs 22 mins
 ```
