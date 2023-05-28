@@ -54,7 +54,7 @@
 ```text
 🎮 Omega Strikers                   🕘 33 hrs 27 mins
 🎮 V Rising                         🕘 246 hrs 4 mins
-🚀 Rocket League                    🕘 837 hrs 52 mins
+🚀 Rocket League                    🕘 838 hrs 13 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
