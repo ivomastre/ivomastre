@@ -53,7 +53,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Omega Strikers                   🕘 33 hrs 27 mins
-🎮 V Rising                         🕘 247 hrs 34 mins
+🎮 V Rising                         🕘 249 hrs 30 mins
 🚀 Rocket League                    🕘 838 hrs 13 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
