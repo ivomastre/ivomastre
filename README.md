@@ -55,7 +55,7 @@
 🎮 V Rising                         🕘 279 hrs 52 mins
 🎮 Omega Strikers                   🕘 33 hrs 27 mins
 🚀 Rocket League                    🕘 838 hrs 13 mins
-🔫 Counter-Strike: Global Offensive 🕘 1364 hrs 22 mins
+🔫 Counter-Strike: Global Offensive 🕘 1364 hrs 44 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
