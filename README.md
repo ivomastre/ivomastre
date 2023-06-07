@@ -55,7 +55,7 @@
 🎮 V Rising                         🕘 284 hrs 51 mins
 🎮 Omega Strikers                   🕘 33 hrs 42 mins
 🔫 Counter-Strike: Global Offensive 🕘 1366 hrs 29 mins
-🎮 Middle-earth™: Shadow of Mordor™ 🕘 1 hrs 25 mins
+🎮 Middle-earth™: Shadow of Mordor™ 🕘 1 hrs 46 mins
 🚀 Rocket League                    🕘 838 hrs 13 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
