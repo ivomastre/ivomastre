@@ -53,9 +53,9 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 V Rising                         🕘 284 hrs 51 mins
-🎮 Omega Strikers                   🕘 33 hrs 42 mins
 🔫 Counter-Strike: Global Offensive 🕘 1366 hrs 29 mins
 🎮 Middle-earth™: Shadow of Mordor™ 🕘 2 hrs 46 mins
+🎮 Omega Strikers                   🕘 33 hrs 42 mins
 🚀 Rocket League                    🕘 838 hrs 13 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
