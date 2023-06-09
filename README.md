@@ -54,8 +54,8 @@
 ```text
 🎮 V Rising                         🕘 284 hrs 51 mins
 🔫 Counter-Strike: Global Offensive 🕘 1366 hrs 29 mins
+🎮 Lies of P Demo                   🕘 3 hrs 1 mins
 🎮 Middle-earth™: Shadow of Mordor™ 🕘 2 hrs 46 mins
-🎮 Lies of P Demo                   🕘 2 hrs 1 mins
 🎮 Omega Strikers                   🕘 33 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
