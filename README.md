@@ -56,7 +56,7 @@
 🔫 Counter-Strike: Global Offensive 🕘 1366 hrs 29 mins
 🎮 Middle-earth™: Shadow of Mordor™ 🕘 2 hrs 46 mins
 🎮 Omega Strikers                   🕘 33 hrs 42 mins
-🚀 Rocket League                    🕘 838 hrs 13 mins
+🎮 Lies of P Demo                   🕘 1 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
