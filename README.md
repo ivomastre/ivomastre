@@ -53,8 +53,8 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 V Rising                         🕘 284 hrs 51 mins
+🎮 PAYDAY 2                         🕘 63 hrs 37 mins
 🎮 Lies of P Demo                   🕘 4 hrs 0 mins
-🎮 PAYDAY 2                         🕘 62 hrs 31 mins
 🔫 Counter-Strike: Global Offensive 🕘 1366 hrs 30 mins
 🎮 Middle-earth™: Shadow of Mordor™ 🕘 2 hrs 46 mins
 ```
