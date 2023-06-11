@@ -54,9 +54,9 @@
 ```text
 🎮 V Rising                         🕘 284 hrs 51 mins
 🎮 Lies of P Demo                   🕘 4 hrs 0 mins
+🎮 PAYDAY 2                         🕘 62 hrs 1 mins
 🔫 Counter-Strike: Global Offensive 🕘 1366 hrs 30 mins
 🎮 Middle-earth™: Shadow of Mordor™ 🕘 2 hrs 46 mins
-🎮 PAYDAY 2                         🕘 61 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
