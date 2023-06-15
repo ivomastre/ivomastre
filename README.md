@@ -55,7 +55,7 @@
 🎮 V Rising                         🕘 284 hrs 51 mins
 🎮 PAYDAY 2                         🕘 63 hrs 37 mins
 🎮 Lies of P Demo                   🕘 4 hrs 0 mins
-🎮 TEKKEN 7                         🕘 7 hrs 10 mins
+🎮 TEKKEN 7                         🕘 7 hrs 31 mins
 🔫 Counter-Strike: Global Offensive 🕘 1366 hrs 31 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
