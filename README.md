@@ -52,11 +52,11 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 PAYDAY 2                         🕘 65 hrs 37 mins
-🎮 V Rising                         🕘 284 hrs 51 mins
+🎮 PAYDAY 2                         🕘 67 hrs 38 mins
 🎮 Lies of P Demo                   🕘 4 hrs 0 mins
 🎮 TEKKEN 7                         🕘 7 hrs 31 mins
 🎮 Middle-earth™: Shadow of Mordor™ 🕘 2 hrs 46 mins
+🎮 V Rising                         🕘 284 hrs 51 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
