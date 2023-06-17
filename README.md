@@ -55,8 +55,8 @@
 🎮 PAYDAY 2                         🕘 67 hrs 38 mins
 🎮 Lies of P Demo                   🕘 4 hrs 0 mins
 🎮 TEKKEN 7                         🕘 7 hrs 31 mins
+🎮 BattleBit Remastered             🕘 3 hrs 31 mins
 🎮 Middle-earth™: Shadow of Mordor™ 🕘 2 hrs 46 mins
-🎮 BattleBit Remastered             🕘 2 hrs 30 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
