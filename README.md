@@ -54,9 +54,9 @@
 ```text
 🎮 BattleBit Remastered             🕘 29 hrs 47 mins
 🎮 PAYDAY 2                         🕘 67 hrs 38 mins
+🔫 Counter-Strike: Global Offensive 🕘 1371 hrs 1 mins
 🎮 Lies of P Demo                   🕘 4 hrs 0 mins
 🎮 TEKKEN 7                         🕘 7 hrs 31 mins
-🔫 Counter-Strike: Global Offensive 🕘 1370 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
