@@ -55,8 +55,8 @@
 🎮 BattleBit Remastered             🕘 60 hrs 39 mins
 🔫 Counter-Strike: Global Offensive 🕘 1373 hrs 24 mins
 🎮 PAYDAY 2                         🕘 67 hrs 38 mins
-🎮 TEKKEN 7                         🕘 7 hrs 31 mins
 🎮 Yu-Gi-Oh!  Master Duel           🕘 84 hrs 19 mins
+🚀 Rocket League                    🕘 838 hrs 20 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
