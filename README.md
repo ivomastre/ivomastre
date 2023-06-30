@@ -52,7 +52,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 BattleBit Remastered             🕘 61 hrs 40 mins
+🎮 BattleBit Remastered             🕘 62 hrs 40 mins
 🔫 Counter-Strike: Global Offensive 🕘 1375 hrs 14 mins
 🎮 PAYDAY 2                         🕘 67 hrs 38 mins
 🎮 Counter-Strike                   🕘 7 hrs 48 mins
