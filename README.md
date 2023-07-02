@@ -55,8 +55,8 @@
 🎮 BattleBit Remastered             🕘 67 hrs 24 mins
 🔫 Counter-Strike: Global Offensive 🕘 1379 hrs 29 mins
 🎮 Counter-Strike                   🕘 7 hrs 48 mins
+🎮 ARK: Survival Evolved            🕘 0 hrs 5 mins
 🎮 Yu-Gi-Oh!  Master Duel           🕘 84 hrs 19 mins
-🚀 Rocket League                    🕘 838 hrs 20 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
