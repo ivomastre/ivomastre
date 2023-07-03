@@ -54,7 +54,7 @@
 ```text
 🎮 BattleBit Remastered             🕘 67 hrs 24 mins
 🔫 Counter-Strike: Global Offensive 🕘 1379 hrs 29 mins
-🎮 ARK: Survival Evolved            🕘 1 hrs 52 mins
+🎮 ARK: Survival Evolved            🕘 2 hrs 53 mins
 🎮 Counter-Strike                   🕘 7 hrs 48 mins
 🎮 Yu-Gi-Oh!  Master Duel           🕘 84 hrs 19 mins
 ```
