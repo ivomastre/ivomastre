@@ -56,7 +56,7 @@
 🔫 Counter-Strike: Global Offensive 🕘 1379 hrs 29 mins
 🎮 ARK: Survival Evolved            🕘 3 hrs 19 mins
 🎮 Counter-Strike                   🕘 7 hrs 48 mins
-🎮 Yu-Gi-Oh!  Master Duel           🕘 84 hrs 19 mins
+❓ Unknown Game                     🕘 0 hrs 4 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
