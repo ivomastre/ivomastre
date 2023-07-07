@@ -55,7 +55,7 @@
 🎮 BattleBit Remastered             🕘 79 hrs 18 mins
 🔫 Counter-Strike: Global Offensive 🕘 1379 hrs 29 mins
 🎮 ARK: Survival Evolved            🕘 3 hrs 19 mins
-🎮 No More Room in Hell             🕘 50 hrs 35 mins
+🎮 No More Room in Hell             🕘 51 hrs 5 mins
 🎮 Counter-Strike                   🕘 7 hrs 48 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
