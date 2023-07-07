@@ -52,11 +52,11 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 BattleBit Remastered             🕘 79 hrs 4 mins
+🎮 BattleBit Remastered             🕘 79 hrs 18 mins
 🔫 Counter-Strike: Global Offensive 🕘 1379 hrs 29 mins
 🎮 ARK: Survival Evolved            🕘 3 hrs 19 mins
+🎮 No More Room in Hell             🕘 50 hrs 35 mins
 🎮 Counter-Strike                   🕘 7 hrs 48 mins
-❓ Unknown Game                     🕘 0 hrs 4 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
