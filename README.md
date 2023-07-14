@@ -56,7 +56,7 @@
 🔫 Counter-Strike: Global Offensive 🕘 1381 hrs 0 mins
 🎮 ARK: Survival Evolved            🕘 3 hrs 19 mins
 🎮 No More Room in Hell             🕘 51 hrs 36 mins
-🎮 Counter-Strike                   🕘 7 hrs 48 mins
+❓ Unknown Game                     🕘 0 hrs 4 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
