@@ -52,8 +52,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 BattleBit Remastered             🕘 95 hrs 11 mins
-🔫 Counter-Strike: Global Offensive 🕘 1381 hrs 0 mins
+🎮 BattleBit Remastered             🕘 96 hrs 45 mins
+🔫 Counter-Strike: Global Offensive 🕘 1381 hrs 54 mins
 🎮 ARK: Survival Evolved            🕘 3 hrs 19 mins
 🎮 No More Room in Hell             🕘 51 hrs 36 mins
 🎮 NARAKA: BLADEPOINT               🕘 0 hrs 18 mins
