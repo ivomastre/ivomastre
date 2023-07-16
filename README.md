@@ -53,8 +53,8 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 BattleBit Remastered             🕘 96 hrs 45 mins
-🎮 ARK: Survival Evolved            🕘 3 hrs 19 mins
 🔫 Counter-Strike: Global Offensive 🕘 1382 hrs 37 mins
+🎮 ARK: Survival Evolved            🕘 3 hrs 19 mins
 🎮 No More Room in Hell             🕘 51 hrs 36 mins
 🎮 NARAKA: BLADEPOINT               🕘 0 hrs 18 mins
 ```
