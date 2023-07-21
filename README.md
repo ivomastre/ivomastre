@@ -56,7 +56,7 @@
 🔫 Counter-Strike: Global Offensive 🕘 1382 hrs 37 mins
 🎮 NARAKA: BLADEPOINT               🕘 0 hrs 18 mins
 🚀 Rocket League                    🕘 838 hrs 25 mins
-🎮 No More Room in Hell             🕘 51 hrs 36 mins
+💻 Wallpaper Engine                 🕘 3 hrs 39 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
