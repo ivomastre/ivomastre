@@ -54,8 +54,8 @@
 ```text
 🎮 BattleBit Remastered             🕘 96 hrs 45 mins
 🔫 Counter-Strike: Global Offensive 🕘 1382 hrs 37 mins
+🎮 Spacewar                         🕘 288 hrs 44 mins
 🎮 NARAKA: BLADEPOINT               🕘 0 hrs 18 mins
-🚀 Rocket League                    🕘 838 hrs 25 mins
 💻 Wallpaper Engine                 🕘 3 hrs 39 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
