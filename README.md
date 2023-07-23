@@ -54,7 +54,7 @@
 ```text
 🎮 BattleBit Remastered             🕘 96 hrs 45 mins
 🔫 Counter-Strike: Global Offensive 🕘 1382 hrs 37 mins
-🎮 Spacewar                         🕘 288 hrs 44 mins
+🎮 Spacewar                         🕘 289 hrs 11 mins
 🎮 NARAKA: BLADEPOINT               🕘 0 hrs 18 mins
 💻 Wallpaper Engine                 🕘 3 hrs 39 mins
 ```
