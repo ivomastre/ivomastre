@@ -52,7 +52,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Dead by Daylight                 🕘 9 hrs 13 mins
+🎮 Dead by Daylight                 🕘 10 hrs 40 mins
 🎮 Spacewar                         🕘 289 hrs 11 mins
 🎮 Cats Hidden in Paris             🕘 1 hrs 10 mins
 🎮 BattleBit Remastered             🕘 97 hrs 10 mins
