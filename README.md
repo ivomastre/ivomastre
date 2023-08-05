@@ -52,8 +52,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
+🎮 Spacewar                         🕘 294 hrs 8 mins
 🎮 Dead by Daylight                 🕘 13 hrs 39 mins
-🎮 Spacewar                         🕘 293 hrs 36 mins
 🎮 Cats Hidden in Paris             🕘 1 hrs 10 mins
 🎮 TOXIKK                           🕘 26 hrs 52 mins
 🎮 BattleBit Remastered             🕘 97 hrs 10 mins
