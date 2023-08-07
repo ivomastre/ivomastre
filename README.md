@@ -52,7 +52,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Spacewar                         🕘 312 hrs 37 mins
+🎮 Spacewar                         🕘 313 hrs 37 mins
 🎮 Dead by Daylight                 🕘 13 hrs 39 mins
 🎮 Cats Hidden in Paris             🕘 1 hrs 10 mins
 🎮 TOXIKK                           🕘 26 hrs 52 mins
