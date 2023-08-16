@@ -56,7 +56,7 @@
 🎮 Dead by Daylight                 🕘 16 hrs 55 mins
 🎮 Cats Hidden in Paris             🕘 1 hrs 10 mins
 🎮 TOXIKK                           🕘 26 hrs 52 mins
-🎮 BattleBit Remastered             🕘 97 hrs 10 mins
+🔫 Counter-Strike: Global Offensive 🕘 1382 hrs 39 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
