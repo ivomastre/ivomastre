@@ -54,7 +54,6 @@
 ```text
 🎮 Spacewar                         🕘 336 hrs 32 mins
 🎮 Dead by Daylight                 🕘 16 hrs 55 mins
-🎮 Cats Hidden in Paris             🕘 1 hrs 10 mins
 🎮 TOXIKK                           🕘 26 hrs 52 mins
 🔫 Counter-Strike: Global Offensive 🕘 1382 hrs 39 mins
 ```
