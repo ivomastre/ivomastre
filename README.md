@@ -55,7 +55,7 @@
 🎮 Spacewar                         🕘 336 hrs 32 mins
 🎮 Dead by Daylight                 🕘 16 hrs 55 mins
 🎮 TOXIKK                           🕘 26 hrs 52 mins
-🔫 Counter-Strike: Global Offensive 🕘 1382 hrs 39 mins
+🎮 GUILTY GEAR -STRIVE-             🕘 35 hrs 8 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
