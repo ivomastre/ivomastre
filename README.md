@@ -54,7 +54,7 @@
 ```text
 🎮 Spacewar                         🕘 336 hrs 32 mins
 🎮 Dead by Daylight                 🕘 16 hrs 55 mins
-🎮 Unturned                         🕘 170 hrs 7 mins
+🎮 Unturned                         🕘 171 hrs 5 mins
 🎮 GUILTY GEAR -STRIVE-             🕘 36 hrs 11 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
