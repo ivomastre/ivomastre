@@ -56,6 +56,7 @@
 🎮 Dead by Daylight                 🕘 20 hrs 17 mins
 🎮 Unturned                         🕘 171 hrs 5 mins
 🎮 GUILTY GEAR -STRIVE-             🕘 36 hrs 11 mins
+🔫 Counter-Strike: Global Offensive 🕘 1382 hrs 40 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
