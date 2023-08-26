@@ -52,8 +52,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Dead by Daylight                 🕘 20 hrs 17 mins
 🎮 Spacewar                         🕘 340 hrs 32 mins
+🎮 Dead by Daylight                 🕘 20 hrs 17 mins
 🎮 GUILTY GEAR -STRIVE-             🕘 37 hrs 56 mins
 🎮 Unturned                         🕘 171 hrs 5 mins
 🔫 Counter-Strike: Global Offensive 🕘 1382 hrs 40 mins
