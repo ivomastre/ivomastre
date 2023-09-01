@@ -55,7 +55,7 @@
 🎮 Spacewar                         🕘 340 hrs 32 mins
 🎮 Dead by Daylight                 🕘 20 hrs 17 mins
 🎮 Unturned                         🕘 171 hrs 5 mins
-🔫 Counter-Strike: Global Offensive 🕘 1385 hrs 5 mins
+🔫 Counter-Strike: Global Offensive 🕘 1385 hrs 35 mins
 🎮 GUILTY GEAR -STRIVE-             🕘 37 hrs 56 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
