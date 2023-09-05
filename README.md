@@ -52,7 +52,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 1389 hrs 10 mins
+🔫 Counter-Strike: Global Offensive 🕘 1389 hrs 12 mins
 🎮 Spacewar                         🕘 340 hrs 32 mins
 🎮 GUILTY GEAR -STRIVE-             🕘 37 hrs 56 mins
 🎮 Bloons TD 6                      🕘 79 hrs 19 mins
