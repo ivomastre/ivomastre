@@ -54,9 +54,9 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1389 hrs 10 mins
 🎮 Spacewar                         🕘 340 hrs 32 mins
-🎮 Dead by Daylight                 🕘 20 hrs 17 mins
 🎮 GUILTY GEAR -STRIVE-             🕘 37 hrs 56 mins
 🎮 Bloons TD 6                      🕘 79 hrs 19 mins
+🎮 Dead by Daylight                 🕘 20 hrs 17 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
