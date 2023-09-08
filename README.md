@@ -54,7 +54,6 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1389 hrs 14 mins
 🎮 Bloons TD 6                      🕘 79 hrs 19 mins
-🎮 GUILTY GEAR -STRIVE-             🕘 37 hrs 56 mins
 🎮 The Riflemen                     🕘 0 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
