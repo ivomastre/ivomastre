@@ -54,7 +54,7 @@
 ```text
 🎮 Resident Evil 4                  🕘 36 hrs 5 mins
 🔫 Counter-Strike 2                 🕘 1401 hrs 35 mins
-🎮 MY HERO ULTRA RUMBLE             🕘 0 hrs 30 mins
+🎮 MY HERO ULTRA RUMBLE             🕘 1 hrs 30 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
