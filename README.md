@@ -52,7 +52,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 MY HERO ULTRA RUMBLE             🕘 76 hrs 4 mins
+🎮 MY HERO ULTRA RUMBLE             🕘 77 hrs 4 mins
 🚓 Grand Theft Auto V               🕘 9 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
