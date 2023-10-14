@@ -54,7 +54,6 @@
 ```text
 🎮 MY HERO ULTRA RUMBLE             🕘 75 hrs 34 mins
 🚓 Grand Theft Auto V               🕘 9 hrs 19 mins
-🔫 Counter-Strike 2                 🕘 1401 hrs 35 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
