@@ -55,8 +55,8 @@
 🎮 MY HERO ULTRA RUMBLE             🕘 85 hrs 43 mins
 🔫 Counter-Strike 2                 🕘 1405 hrs 29 mins
 🎮 Human Fall Flat                  🕘 2 hrs 41 mins
-🚓 Grand Theft Auto V               🕘 9 hrs 19 mins
 🎮 Initial Drift Online             🕘 0 hrs 22 mins
+🎮 INITIAL D Playtest               🕘 0 hrs 17 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
