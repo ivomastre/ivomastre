@@ -56,7 +56,6 @@
 🔫 Counter-Strike 2                 🕘 1405 hrs 29 mins
 🎮 Human Fall Flat                  🕘 2 hrs 41 mins
 💻 Wallpaper Engine                 🕘 4 hrs 9 mins
-🎮 Initial Drift Online             🕘 0 hrs 22 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
