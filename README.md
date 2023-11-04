@@ -54,7 +54,6 @@
 ```text
 🎮 MY HERO ULTRA RUMBLE             🕘 93 hrs 37 mins
 🔫 Counter-Strike 2                 🕘 1405 hrs 29 mins
-🎮 Human Fall Flat                  🕘 2 hrs 41 mins
 💻 Wallpaper Engine                 🕘 4 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
