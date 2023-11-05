@@ -56,6 +56,7 @@
 🔫 Counter-Strike 2                 🕘 1405 hrs 29 mins
 💻 Wallpaper Engine                 🕘 4 hrs 9 mins
 🎮 Initial Drift Online             🕘 0 hrs 43 mins
+🎮 Idling Gears Demo                🕘 0 hrs 16 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
