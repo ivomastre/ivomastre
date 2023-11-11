@@ -55,7 +55,6 @@
 🎮 ELDEN RING                       🕘 26 hrs 53 mins
 🎮 Initial Drift Online             🕘 0 hrs 43 mins
 🎮 Idling Gears Demo                🕘 0 hrs 16 mins
-🎮 MY HERO ULTRA RUMBLE             🕘 93 hrs 37 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
