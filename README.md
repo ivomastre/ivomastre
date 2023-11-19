@@ -53,7 +53,6 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 ELDEN RING                       🕘 26 hrs 53 mins
-🎮 Initial Drift Online             🕘 0 hrs 43 mins
 🎮 Idling Gears Demo                🕘 0 hrs 16 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
