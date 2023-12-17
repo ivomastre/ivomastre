@@ -53,8 +53,8 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🦾 Cyberpunk 2077                   🕘 3 hrs 15 mins
-🎮 Lethal Company                   🕘 4 hrs 51 mins
 🔫 Counter-Strike 2                 🕘 1406 hrs 14 mins
+🎮 Lethal Company                   🕘 4 hrs 51 mins
 🎮 Resident Evil 4                  🕘 36 hrs 18 mins
 🚀 Rocket League                    🕘 838 hrs 31 mins
 ```
