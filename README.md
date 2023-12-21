@@ -54,6 +54,7 @@
 ```text
 🦾 Cyberpunk 2077                   🕘 3 hrs 15 mins
 🔫 Counter-Strike 2                 🕘 1406 hrs 14 mins
+🎮 Lethal Company                   🕘 5 hrs 27 mins
 🚀 Rocket League                    🕘 838 hrs 31 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
