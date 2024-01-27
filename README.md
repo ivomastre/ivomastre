@@ -54,7 +54,7 @@
 ```text
 🎮 Palworld                         🕘 18 hrs 42 mins
 🎮 Monster Hunter: World            🕘 54 hrs 23 mins
-🎮 TEKKEN 8                         🕘 2 hrs 7 mins
+🎮 TEKKEN 8                         🕘 2 hrs 37 mins
 🎮 Palworld Dedicated Server        🕘 0 hrs 4 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
