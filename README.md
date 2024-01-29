@@ -53,7 +53,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Palworld                         🕘 22 hrs 1 mins
-🎮 TEKKEN 8                         🕘 7 hrs 51 mins
+🎮 TEKKEN 8                         🕘 8 hrs 46 mins
 🎮 Monster Hunter: World            🕘 54 hrs 23 mins
 🎮 Palworld Dedicated Server        🕘 0 hrs 4 mins
 ```
