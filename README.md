@@ -54,7 +54,7 @@
 ```text
 🎮 Palworld                         🕘 22 hrs 1 mins
 🎮 TEKKEN 8                         🕘 10 hrs 46 mins
-🎮 Enshrouded                       🕘 0 hrs 41 mins
+🎮 Enshrouded                       🕘 1 hrs 42 mins
 🎮 Monster Hunter: World            🕘 54 hrs 23 mins
 🎮 Palworld Dedicated Server        🕘 0 hrs 4 mins
 ```
