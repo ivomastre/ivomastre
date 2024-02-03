@@ -55,7 +55,6 @@
 🎮 Palworld                         🕘 22 hrs 1 mins
 🎮 TEKKEN 8                         🕘 13 hrs 29 mins
 🎮 Enshrouded                       🕘 3 hrs 18 mins
-🎮 Monster Hunter: World            🕘 54 hrs 23 mins
 🎮 Palworld Dedicated Server        🕘 0 hrs 4 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
