@@ -55,6 +55,7 @@
 🎮 TEKKEN 8                         🕘 25 hrs 2 mins
 🎮 Enshrouded                       🕘 3 hrs 18 mins
 🎮 Palworld                         🕘 22 hrs 1 mins
+🎮 Yu-Gi-Oh!  Master Duel           🕘 84 hrs 39 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
