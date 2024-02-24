@@ -52,7 +52,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 V Rising                         🕘 285 hrs 52 mins
+🎮 V Rising                         🕘 286 hrs 30 mins
 🎮 Yu-Gi-Oh!  Master Duel           🕘 84 hrs 39 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
