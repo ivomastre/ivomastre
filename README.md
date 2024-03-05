@@ -54,7 +54,7 @@
 ```text
 🎮 V Rising                         🕘 296 hrs 11 mins
 🎮 Alpha League                     🕘 2 hrs 58 mins
-🎮 HELLDIVERS™ 2                    🕘 1 hrs 27 mins
+🎮 HELLDIVERS™ 2                    🕘 2 hrs 39 mins
 🎮 V Rising Dedicated Server        🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
