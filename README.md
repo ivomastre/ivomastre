@@ -52,7 +52,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 HELLDIVERS™ 2                    🕘 26 hrs 50 mins
+🎮 HELLDIVERS™ 2                    🕘 27 hrs 47 mins
 🎮 V Rising                         🕘 296 hrs 25 mins
 🎮 Alpha League                     🕘 2 hrs 58 mins
 🎮 V Rising Dedicated Server        🕘 0 hrs 1 mins
