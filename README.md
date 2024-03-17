@@ -55,7 +55,6 @@
 🎮 HELLDIVERS™ 2                    🕘 32 hrs 22 mins
 🎮 V Rising                         🕘 296 hrs 25 mins
 🎮 Pacify                           🕘 7 hrs 6 mins
-🎮 V Rising Dedicated Server        🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
