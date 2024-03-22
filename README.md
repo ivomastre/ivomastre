@@ -54,7 +54,6 @@
 ```text
 🎮 HELLDIVERS™ 2                    🕘 32 hrs 22 mins
 🎮 Pacify                           🕘 7 hrs 6 mins
-🎮 V Rising                         🕘 296 hrs 25 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
