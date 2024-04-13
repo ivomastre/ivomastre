@@ -55,7 +55,6 @@
 🎮 Lethal Company                   🕘 7 hrs 33 mins
 🎮 Goose Goose Duck                 🕘 1 hrs 32 mins
 🎮 Project Zomboid                  🕘 60 hrs 2 mins
-🎮 TEKKEN 8                         🕘 25 hrs 34 mins
 🎮 Bloons TD 6                      🕘 79 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
