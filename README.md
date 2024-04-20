@@ -52,8 +52,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
+🎮 DayZ                             🕘 2 hrs 40 mins
 🎮 Lethal Company                   🕘 7 hrs 33 mins
-🎮 DayZ                             🕘 1 hrs 31 mins
 🎮 Goose Goose Duck                 🕘 1 hrs 32 mins
 🎮 Bloons TD 6                      🕘 79 hrs 42 mins
 ```
