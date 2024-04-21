@@ -54,7 +54,6 @@
 ```text
 🎮 DayZ                             🕘 4 hrs 18 mins
 🎮 Lethal Company                   🕘 7 hrs 33 mins
-🎮 Goose Goose Duck                 🕘 1 hrs 32 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
