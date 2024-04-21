@@ -55,7 +55,6 @@
 🎮 DayZ                             🕘 4 hrs 18 mins
 🎮 Lethal Company                   🕘 7 hrs 33 mins
 🎮 Goose Goose Duck                 🕘 1 hrs 32 mins
-🎮 Bloons TD 6                      🕘 79 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
