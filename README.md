@@ -51,7 +51,7 @@
 ```text
 🎮 INAZUMA ELEVEN: Victory Road Worldwide Beta Test Demo "Leave Your Inazuma Mark on the World!" 🕘 35 hrs 23 mins
 🎮 Fear & Hunger                    🕘 6 hrs 52 mins
-🎮 Yu-Gi-Oh!  Master Duel           🕘 85 hrs 39 mins
+🎮 Yu-Gi-Oh!  Master Duel           🕘 86 hrs 40 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
