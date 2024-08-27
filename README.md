@@ -51,7 +51,6 @@
 ```text
 🎮 Black Myth: Wukong               🕘 45 hrs 7 mins
 🎮 Yu-Gi-Oh!  Master Duel           🕘 164 hrs 51 mins
-🎮 Black Myth: Wukong Benchmark Tool 🕘 0 hrs 15 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
