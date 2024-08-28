@@ -49,7 +49,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Black Myth: Wukong               🕘 46 hrs 12 mins
+🎮 Black Myth: Wukong               🕘 47 hrs 13 mins
 🎮 Yu-Gi-Oh!  Master Duel           🕘 164 hrs 51 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
