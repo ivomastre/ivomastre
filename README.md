@@ -51,6 +51,7 @@
 ```text
 🎮 Black Myth: Wukong               🕘 80 hrs 14 mins
 🎮 Yu-Gi-Oh!  Master Duel           🕘 167 hrs 57 mins
+🎮 Byte Breakers Playtest           🕘 0 hrs 6 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
