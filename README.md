@@ -51,7 +51,6 @@
 ```text
 🎮 Deadlock                         🕘 4 hrs 54 mins
 🎮 Yu-Gi-Oh!  Master Duel           🕘 170 hrs 1 mins
-🎮 Byte Breakers Playtest           🕘 0 hrs 6 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
