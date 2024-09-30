@@ -51,6 +51,7 @@
 ```text
 🎮 Deadlock                         🕘 6 hrs 51 mins
 🎮 Yu-Gi-Oh!  Master Duel           🕘 170 hrs 1 mins
+🎮 Lethal Company                   🕘 8 hrs 4 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
