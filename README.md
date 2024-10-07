@@ -52,7 +52,6 @@
 🎮 Deadlock                         🕘 6 hrs 51 mins
 🎮 Pro Soccer Online                🕘 3 hrs 10 mins
 🎮 Lethal Company                   🕘 9 hrs 22 mins
-🎮 Yu-Gi-Oh!  Master Duel           🕘 170 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
