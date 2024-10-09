@@ -51,8 +51,8 @@
 ```text
 🎮 Deadlock                         🕘 6 hrs 51 mins
 🎮 Pro Soccer Online                🕘 3 hrs 10 mins
-🎮 DRAGON BALL: Sparking! ZERO      🕘 2 hrs 20 mins
-🔫 Counter-Strike 2                 🕘 1408 hrs 4 mins
+🎮 DRAGON BALL: Sparking! ZERO      🕘 2 hrs 36 mins
+🔫 Counter-Strike 2                 🕘 1408 hrs 15 mins
 🎮 Lethal Company                   🕘 9 hrs 22 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
