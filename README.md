@@ -50,7 +50,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 DRAGON BALL: Sparking! ZERO      🕘 11 hrs 34 mins
-🎮 Pro Soccer Online                🕘 9 hrs 46 mins
+🎮 Pro Soccer Online                🕘 11 hrs 13 mins
 🎮 Deadlock                         🕘 6 hrs 51 mins
 🔫 Counter-Strike 2                 🕘 1409 hrs 31 mins
 🎮 Lethal Company                   🕘 9 hrs 22 mins
