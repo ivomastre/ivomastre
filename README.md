@@ -51,7 +51,7 @@
 ```text
 🎮 Pro Soccer Online                🕘 27 hrs 53 mins
 🎮 DRAGON BALL: Sparking! ZERO      🕘 19 hrs 8 mins
-🎮 Metaphor: ReFantazio - Prologue Demo 🕘 4 hrs 26 mins
+🎮 Metaphor: ReFantazio - Prologue Demo 🕘 5 hrs 27 mins
 🔫 Counter-Strike 2                 🕘 1410 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
