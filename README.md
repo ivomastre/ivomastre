@@ -50,8 +50,8 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Pro Soccer Online                🕘 28 hrs 28 mins
+🎮 Metaphor: ReFantazio - Prologue Demo 🕘 19 hrs 26 mins
 🎮 DRAGON BALL: Sparking! ZERO      🕘 19 hrs 8 mins
-🎮 Metaphor: ReFantazio - Prologue Demo 🕘 19 hrs 5 mins
 🔫 Counter-Strike 2                 🕘 1410 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
