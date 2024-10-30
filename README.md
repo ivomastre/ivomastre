@@ -49,7 +49,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Metaphor: ReFantazio - Prologue Demo 🕘 34 hrs 0 mins
+🎮 Metaphor: ReFantazio - Prologue Demo 🕘 34 hrs 13 mins
 🔫 Counter-Strike 2                 🕘 1416 hrs 41 mins
 🎮 Pro Soccer Online                🕘 28 hrs 49 mins
 🎮 Wurm Online                      🕘 1 hrs 27 mins
