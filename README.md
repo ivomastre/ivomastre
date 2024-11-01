@@ -51,9 +51,9 @@
 ```text
 🎮 Metaphor: ReFantazio - Prologue Demo 🕘 34 hrs 13 mins
 🔫 Counter-Strike 2                 🕘 1417 hrs 57 mins
+🎮 Monster Hunter Wilds Beta test   🕘 1 hrs 0 mins
 🎮 Wurm Online                      🕘 1 hrs 27 mins
 🎮 DRAGON BALL: Sparking! ZERO      🕘 20 hrs 28 mins
-🎮 Pro Soccer Online                🕘 28 hrs 49 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
