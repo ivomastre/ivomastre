@@ -52,7 +52,6 @@
 🔫 Counter-Strike 2                 🕘 1423 hrs 56 mins
 🎮 Metaphor: ReFantazio - Prologue Demo 🕘 34 hrs 13 mins
 🎮 Monster Hunter Wilds Beta test   🕘 6 hrs 0 mins
-🎮 Wurm Online                      🕘 1 hrs 27 mins
 🎮 Pro Soccer Online                🕘 28 hrs 49 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
