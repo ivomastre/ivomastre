@@ -52,7 +52,7 @@
 🔫 Counter-Strike 2                 🕘 1425 hrs 10 mins
 🎮 Monster Hunter Wilds Beta test   🕘 6 hrs 0 mins
 🎮 Metaphor: ReFantazio - Prologue Demo 🕘 34 hrs 13 mins
-🎮 Yu-Gi-Oh!  Master Duel           🕘 170 hrs 10 mins
+🎮 Yu-Gi-Oh!  Master Duel           🕘 170 hrs 11 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
