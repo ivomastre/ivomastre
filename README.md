@@ -51,7 +51,7 @@
 ```text
 🔫 Counter-Strike 2                 🕘 1430 hrs 16 mins
 🎮 Monster Hunter Wilds Beta test   🕘 6 hrs 0 mins
-🎮 Yu-Gi-Oh!  Master Duel           🕘 173 hrs 25 mins
+🎮 Yu-Gi-Oh!  Master Duel           🕘 173 hrs 58 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
