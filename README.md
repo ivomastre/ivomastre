@@ -49,7 +49,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Yu-Gi-Oh!  Master Duel           🕘 194 hrs 52 mins
+🎮 Yu-Gi-Oh!  Master Duel           🕘 196 hrs 10 mins
 🔫 Counter-Strike 2                 🕘 1432 hrs 14 mins
 🎮 Monster Hunter Wilds Beta test   🕘 6 hrs 0 mins
 ```
