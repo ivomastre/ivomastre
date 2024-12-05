@@ -51,6 +51,7 @@
 ```text
 🎮 Yu-Gi-Oh!  Master Duel           🕘 227 hrs 26 mins
 🔫 Counter-Strike 2                 🕘 1451 hrs 8 mins
+🎮 Delta Force                      🕘 0 hrs 1 mins
 🎮 Balatro                          🕘 4 hrs 48 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
