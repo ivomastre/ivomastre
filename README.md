@@ -49,8 +49,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Yu-Gi-Oh!  Master Duel           🕘 237 hrs 11 mins
-🔫 Counter-Strike 2                 🕘 1452 hrs 36 mins
+🎮 Yu-Gi-Oh!  Master Duel           🕘 237 hrs 33 mins
+🔫 Counter-Strike 2                 🕘 1452 hrs 43 mins
 🎮 Balatro                          🕘 7 hrs 16 mins
 🎮 Delta Force                      🕘 0 hrs 1 mins
 ```
