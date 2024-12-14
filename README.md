@@ -49,10 +49,10 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Yu-Gi-Oh!  Master Duel           🕘 254 hrs 29 mins
+🎮 Yu-Gi-Oh!  Master Duel           🕘 255 hrs 0 mins
 🔫 Counter-Strike 2                 🕘 1456 hrs 13 mins
+🎮 Sons Of The Forest               🕘 6 hrs 54 mins
 🎮 Balatro                          🕘 8 hrs 5 mins
-🎮 Sons Of The Forest               🕘 6 hrs 20 mins
 🎮 Marvel Rivals                    🕘 0 hrs 50 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
