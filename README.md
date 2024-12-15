@@ -53,7 +53,7 @@
 🔫 Counter-Strike 2                 🕘 1456 hrs 13 mins
 🎮 Sons Of The Forest               🕘 8 hrs 28 mins
 🎮 Balatro                          🕘 8 hrs 5 mins
-🎮 Marvel Rivals                    🕘 0 hrs 50 mins
+🎮 Path of Exile 2                  🕘 1 hrs 5 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
