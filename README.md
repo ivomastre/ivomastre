@@ -49,11 +49,11 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Path of Exile 2                  🕘 68 hrs 23 mins
-🎮 Yu-Gi-Oh!  Master Duel           🕘 278 hrs 5 mins
+🎮 Path of Exile 2                  🕘 70 hrs 24 mins
+🎮 Yu-Gi-Oh!  Master Duel           🕘 278 hrs 8 mins
 🎮 Balatro                          🕘 15 hrs 39 mins
-🔫 Counter-Strike 2                 🕘 1459 hrs 47 mins
 🎮 Sons Of The Forest               🕘 8 hrs 28 mins
+🔫 Counter-Strike 2                 🕘 1459 hrs 47 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
