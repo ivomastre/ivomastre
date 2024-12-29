@@ -53,7 +53,6 @@
 🎮 Yu-Gi-Oh!  Master Duel           🕘 285 hrs 24 mins
 🎮 Balatro                          🕘 15 hrs 39 mins
 🔫 Counter-Strike 2                 🕘 1459 hrs 47 mins
-🎮 Sons Of The Forest               🕘 8 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
