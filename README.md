@@ -52,7 +52,7 @@
 🎮 Path of Exile 2                  🕘 128 hrs 42 mins
 🎮 Yu-Gi-Oh!  Master Duel           🕘 304 hrs 56 mins
 🎮 Balatro                          🕘 19 hrs 53 mins
-🔫 Counter-Strike 2                 🕘 1461 hrs 9 mins
+🔫 Counter-Strike 2                 🕘 1461 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
