@@ -50,7 +50,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Path of Exile 2                  🕘 128 hrs 42 mins
-🎮 Yu-Gi-Oh!  Master Duel           🕘 306 hrs 47 mins
+🎮 Yu-Gi-Oh!  Master Duel           🕘 307 hrs 47 mins
 🔫 Counter-Strike 2                 🕘 1463 hrs 4 mins
 🎮 Balatro                          🕘 19 hrs 53 mins
 🎮 Sons Of The Forest               🕘 10 hrs 51 mins
