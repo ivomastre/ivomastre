@@ -53,7 +53,7 @@
 🎮 Baldur's Gate 3                  🕘 19 hrs 20 mins
 🔫 Counter-Strike 2                 🕘 1473 hrs 49 mins
 🎮 Euro Truck Simulator 2           🕘 97 hrs 38 mins
-🎮 Path of Exile 2                  🕘 128 hrs 42 mins
+🎮 Balatro                          🕘 19 hrs 53 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
