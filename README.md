@@ -53,7 +53,7 @@
 🔫 Counter-Strike 2                 🕘 1478 hrs 34 mins
 🎮 Yu-Gi-Oh!  Master Duel           🕘 317 hrs 57 mins
 🎮 Euro Truck Simulator 2           🕘 97 hrs 38 mins
-🎮 Sons Of The Forest               🕘 10 hrs 51 mins
+🎮 Fear & Hunger                    🕘 8 hrs 49 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
