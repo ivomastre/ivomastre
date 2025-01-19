@@ -51,7 +51,7 @@
 ```text
 🎮 Baldur's Gate 3                  🕘 23 hrs 49 mins
 🔫 Counter-Strike 2                 🕘 1478 hrs 35 mins
-🎮 Yu-Gi-Oh!  Master Duel           🕘 321 hrs 20 mins
+🎮 Yu-Gi-Oh!  Master Duel           🕘 322 hrs 21 mins
 🎮 Euro Truck Simulator 2           🕘 97 hrs 38 mins
 🎮 Fear & Hunger                    🕘 8 hrs 49 mins
 ```
