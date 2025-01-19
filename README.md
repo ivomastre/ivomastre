@@ -50,7 +50,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Baldur's Gate 3                  🕘 23 hrs 49 mins
-🎮 Yu-Gi-Oh!  Master Duel           🕘 324 hrs 22 mins
+🎮 Yu-Gi-Oh!  Master Duel           🕘 325 hrs 23 mins
 🔫 Counter-Strike 2                 🕘 1478 hrs 35 mins
 🎮 Euro Truck Simulator 2           🕘 97 hrs 38 mins
 🎮 Fear & Hunger                    🕘 8 hrs 49 mins
