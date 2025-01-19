@@ -49,7 +49,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Baldur's Gate 3                  🕘 20 hrs 37 mins
+🎮 Baldur's Gate 3                  🕘 21 hrs 7 mins
 🔫 Counter-Strike 2                 🕘 1478 hrs 35 mins
 🎮 Yu-Gi-Oh!  Master Duel           🕘 317 hrs 57 mins
 🎮 Euro Truck Simulator 2           🕘 97 hrs 38 mins
