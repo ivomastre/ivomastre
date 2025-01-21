@@ -53,7 +53,7 @@
 🎮 Baldur's Gate 3                  🕘 26 hrs 1 mins
 🔫 Counter-Strike 2                 🕘 1480 hrs 48 mins
 🎮 Euro Truck Simulator 2           🕘 97 hrs 38 mins
-🎮 Fear & Hunger                    🕘 8 hrs 49 mins
+🎮 Sons Of The Forest               🕘 12 hrs 51 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
