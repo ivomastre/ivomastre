@@ -50,9 +50,9 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Yu-Gi-Oh!  Master Duel           🕘 331 hrs 28 mins
-🔫 Counter-Strike 2                 🕘 1488 hrs 43 mins
+🔫 Counter-Strike 2                 🕘 1489 hrs 13 mins
 🎮 Baldur's Gate 3                  🕘 26 hrs 1 mins
-🎮 Sons Of The Forest               🕘 21 hrs 15 mins
+🎮 Sons Of The Forest               🕘 21 hrs 56 mins
 🎮 Euro Truck Simulator 2           🕘 97 hrs 38 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
