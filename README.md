@@ -51,7 +51,7 @@
 ```text
 🔫 Counter-Strike 2                 🕘 1492 hrs 56 mins
 🎮 Yu-Gi-Oh!  Master Duel           🕘 331 hrs 28 mins
-🎮 Sons Of The Forest               🕘 21 hrs 56 mins
+🎮 Sons Of The Forest               🕘 22 hrs 27 mins
 🎮 Baldur's Gate 3                  🕘 26 hrs 1 mins
 🎮 Fear & Hunger                    🕘 8 hrs 49 mins
 ```
