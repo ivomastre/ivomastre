@@ -53,7 +53,7 @@
 🎮 Yu-Gi-Oh!  Master Duel           🕘 331 hrs 37 mins
 🎮 Sons Of The Forest               🕘 23 hrs 39 mins
 🎮 Baldur's Gate 3                  🕘 29 hrs 10 mins
-🎮 Fear & Hunger                    🕘 8 hrs 49 mins
+🎮 Euro Truck Simulator 2           🕘 99 hrs 39 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
