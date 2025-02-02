@@ -49,7 +49,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🔫 Counter-Strike 2                 🕘 1513 hrs 23 mins
+🔫 Counter-Strike 2                 🕘 1515 hrs 5 mins
 🎮 Sons Of The Forest               🕘 26 hrs 4 mins
 🎮 Yu-Gi-Oh!  Master Duel           🕘 331 hrs 37 mins
 🎮 Baldur's Gate 3                  🕘 32 hrs 0 mins
