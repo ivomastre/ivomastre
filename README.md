@@ -53,7 +53,7 @@
 🎮 Sons Of The Forest               🕘 30 hrs 39 mins
 🎮 Baldur's Gate 3                  🕘 32 hrs 0 mins
 🎮 Euro Truck Simulator 2           🕘 99 hrs 39 mins
-🎮 Yu-Gi-Oh!  Master Duel           🕘 332 hrs 7 mins
+🎮 Yu-Gi-Oh!  Master Duel           🕘 333 hrs 8 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
