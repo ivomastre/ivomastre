@@ -52,7 +52,7 @@
 🔫 Counter-Strike 2                 🕘 1522 hrs 10 mins
 🎮 Sons Of The Forest               🕘 31 hrs 29 mins
 🎮 Baldur's Gate 3                  🕘 32 hrs 0 mins
-🎮 Yu-Gi-Oh!  Master Duel           🕘 336 hrs 2 mins
+🎮 Yu-Gi-Oh!  Master Duel           🕘 337 hrs 3 mins
 🎮 Euro Truck Simulator 2           🕘 99 hrs 39 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
