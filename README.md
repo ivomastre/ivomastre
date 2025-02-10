@@ -52,8 +52,8 @@
 🔫 Counter-Strike 2                 🕘 1530 hrs 24 mins
 🎮 Yu-Gi-Oh!  Master Duel           🕘 343 hrs 46 mins
 🎮 Sons Of The Forest               🕘 31 hrs 29 mins
-🎮 Baldur's Gate 3                  🕘 32 hrs 0 mins
 🎮 Monster Hunter Wilds Beta test   🕘 11 hrs 22 mins
+🎮 Baldur's Gate 3                  🕘 32 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
