@@ -53,7 +53,7 @@
 🔫 Counter-Strike 2                 🕘 1538 hrs 8 mins
 🎮 Sons Of The Forest               🕘 31 hrs 29 mins
 🎮 Monster Hunter Wilds Beta test   🕘 11 hrs 22 mins
-🎮 Baldur's Gate 3                  🕘 32 hrs 0 mins
+🎮 Vampire Survivors                🕘 29 hrs 40 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
