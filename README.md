@@ -50,7 +50,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Yu-Gi-Oh!  Master Duel           🕘 377 hrs 3 mins
-🔫 Counter-Strike 2                 🕘 1538 hrs 38 mins
+🔫 Counter-Strike 2                 🕘 1539 hrs 9 mins
 🎮 Sons Of The Forest               🕘 31 hrs 29 mins
 🎮 Monster Hunter Wilds Beta test   🕘 11 hrs 22 mins
 🎮 Vampire Survivors                🕘 29 hrs 40 mins
