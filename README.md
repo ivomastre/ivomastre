@@ -52,8 +52,8 @@
 🎮 Yu-Gi-Oh!  Master Duel           🕘 377 hrs 3 mins
 🔫 Counter-Strike 2                 🕘 1541 hrs 18 mins
 🎮 Monster Hunter Wilds Beta test   🕘 11 hrs 47 mins
-🎮 Sons Of The Forest               🕘 31 hrs 29 mins
 🎮 Vampire Survivors                🕘 29 hrs 40 mins
+🎮 Sons Of The Forest               🕘 31 hrs 29 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
