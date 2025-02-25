@@ -51,7 +51,7 @@
 ```text
 🎮 Yu-Gi-Oh!  Master Duel           🕘 379 hrs 32 mins
 🔫 Counter-Strike 2                 🕘 1552 hrs 6 mins
-🎮 Mecha BREAK Demo                 🕘 4 hrs 3 mins
+🎮 Mecha BREAK Demo                 🕘 4 hrs 9 mins
 🎮 Monster Hunter Wilds Beta test   🕘 11 hrs 47 mins
 🎮 Monster Hunter: World            🕘 54 hrs 43 mins
 ```
