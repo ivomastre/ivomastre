@@ -51,8 +51,8 @@
 ```text
 🔫 Counter-Strike 2                 🕘 1552 hrs 6 mins
 🎮 Mecha BREAK Demo                 🕘 4 hrs 9 mins
+🎮 Monster Hunter Wilds             🕘 4 hrs 0 mins
 🎮 Yu-Gi-Oh!  Master Duel           🕘 379 hrs 32 mins
-🎮 Monster Hunter Wilds             🕘 2 hrs 52 mins
 🎮 Monster Hunter Wilds Beta test   🕘 11 hrs 47 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
