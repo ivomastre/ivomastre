@@ -50,7 +50,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🔫 Counter-Strike 2                 🕘 1554 hrs 15 mins
-🎮 Monster Hunter Wilds             🕘 8 hrs 22 mins
+🎮 Monster Hunter Wilds             🕘 8 hrs 52 mins
 🎮 Mecha BREAK Demo                 🕘 4 hrs 9 mins
 🎮 Yu-Gi-Oh!  Master Duel           🕘 379 hrs 32 mins
 🎮 Dune: Awakening - Character Creator & Benchmark Mode 🕘 0 hrs 9 mins
