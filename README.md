@@ -53,7 +53,7 @@
 🎮 Monster Hunter Wilds             🕘 8 hrs 22 mins
 🎮 Mecha BREAK Demo                 🕘 4 hrs 9 mins
 🎮 Yu-Gi-Oh!  Master Duel           🕘 379 hrs 32 mins
-🎮 Monster Hunter Wilds Beta test   🕘 11 hrs 47 mins
+🎮 Dune: Awakening - Character Creator & Benchmark Mode 🕘 0 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
