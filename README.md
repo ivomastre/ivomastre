@@ -53,7 +53,7 @@
 🎮 Monster Hunter Wilds             🕘 9 hrs 44 mins
 🎮 Mecha BREAK Demo                 🕘 4 hrs 9 mins
 🎮 Yu-Gi-Oh!  Master Duel           🕘 379 hrs 32 mins
-🎮 Fellowship Demo                  🕘 0 hrs 30 mins
+🎮 Fellowship Demo                  🕘 1 hrs 31 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
