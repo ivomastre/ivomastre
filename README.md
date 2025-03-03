@@ -49,7 +49,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🔫 Counter-Strike 2                 🕘 1557 hrs 29 mins
+🔫 Counter-Strike 2                 🕘 1558 hrs 29 mins
 🎮 Monster Hunter Wilds             🕘 9 hrs 44 mins
 🎮 Mecha BREAK Demo                 🕘 4 hrs 9 mins
 🎮 Yu-Gi-Oh!  Master Duel           🕘 379 hrs 32 mins
