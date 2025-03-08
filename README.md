@@ -53,7 +53,7 @@
 🎮 Monster Hunter Wilds             🕘 13 hrs 39 mins
 🎮 Mecha BREAK Demo                 🕘 4 hrs 9 mins
 🎮 Fellowship Demo                  🕘 2 hrs 0 mins
-🎮 Among Us 3D Demo                 🕘 1 hrs 0 mins
+🎮 Among Us 3D Demo                 🕘 1 hrs 46 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
