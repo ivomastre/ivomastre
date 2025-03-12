@@ -49,8 +49,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
+🎮 Monster Hunter Wilds             🕘 21 hrs 15 mins
 🔫 Counter-Strike 2                 🕘 1572 hrs 21 mins
-🎮 Monster Hunter Wilds             🕘 20 hrs 14 mins
 🎮 Path of Exile 2                  🕘 131 hrs 46 mins
 🎮 Fellowship Demo                  🕘 2 hrs 0 mins
 🎮 Among Us 3D Demo                 🕘 1 hrs 46 mins
