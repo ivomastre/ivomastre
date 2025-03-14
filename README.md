@@ -51,7 +51,7 @@
 ```text
 🎮 Monster Hunter Wilds             🕘 22 hrs 53 mins
 🔫 Counter-Strike 2                 🕘 1573 hrs 56 mins
-🎮 Path of Exile 2                  🕘 145 hrs 54 mins
+🎮 Path of Exile 2                  🕘 146 hrs 52 mins
 🎮 Fellowship Demo                  🕘 2 hrs 0 mins
 🎮 Among Us 3D Demo                 🕘 1 hrs 46 mins
 ```
