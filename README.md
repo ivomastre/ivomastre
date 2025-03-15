@@ -49,7 +49,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Path of Exile 2                  🕘 154 hrs 48 mins
+🎮 Path of Exile 2                  🕘 155 hrs 49 mins
 🔫 Counter-Strike 2                 🕘 1575 hrs 23 mins
 🎮 Monster Hunter Wilds             🕘 22 hrs 53 mins
 🎮 Fellowship Demo                  🕘 2 hrs 0 mins
