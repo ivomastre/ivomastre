@@ -51,7 +51,7 @@
 ```text
 🎮 Path of Exile 2                  🕘 158 hrs 6 mins
 🔫 Counter-Strike 2                 🕘 1577 hrs 47 mins
-🎮 Monster Hunter Wilds             🕘 22 hrs 53 mins
+🎮 Monster Hunter Wilds             🕘 23 hrs 23 mins
 🎮 Fellowship Demo                  🕘 2 hrs 0 mins
 🎮 Fear & Hunger                    🕘 10 hrs 42 mins
 ```
