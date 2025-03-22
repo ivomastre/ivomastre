@@ -51,7 +51,7 @@
 ```text
 🎮 Path of Exile 2                  🕘 192 hrs 46 mins
 🔫 Counter-Strike 2                 🕘 1583 hrs 30 mins
-🎮 Monster Hunter Wilds             🕘 25 hrs 11 mins
+🎮 Monster Hunter Wilds             🕘 25 hrs 41 mins
 🎮 Fear & Hunger                    🕘 10 hrs 42 mins
 🎮 Dying Light                      🕘 15 hrs 35 mins
 ```
