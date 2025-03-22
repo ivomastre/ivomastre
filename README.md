@@ -53,7 +53,7 @@
 🔫 Counter-Strike 2                 🕘 1581 hrs 48 mins
 🎮 Monster Hunter Wilds             🕘 25 hrs 11 mins
 🎮 Fear & Hunger                    🕘 10 hrs 42 mins
-🎮 Among Us 3D Demo                 🕘 1 hrs 46 mins
+🎮 Dying Light                      🕘 15 hrs 35 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
