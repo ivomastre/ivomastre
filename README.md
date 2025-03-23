@@ -49,7 +49,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Path of Exile 2                  🕘 201 hrs 51 mins
+🎮 Path of Exile 2                  🕘 202 hrs 52 mins
 🔫 Counter-Strike 2                 🕘 1583 hrs 30 mins
 🎮 Monster Hunter Wilds             🕘 25 hrs 56 mins
 🎮 Baldur's Gate 3                  🕘 34 hrs 30 mins
