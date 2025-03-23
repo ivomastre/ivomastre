@@ -53,7 +53,7 @@
 🔫 Counter-Strike 2                 🕘 1583 hrs 30 mins
 🎮 Monster Hunter Wilds             🕘 25 hrs 56 mins
 🎮 Fear & Hunger                    🕘 10 hrs 42 mins
-🎮 Dying Light                      🕘 15 hrs 35 mins
+🎮 Baldur's Gate 3                  🕘 33 hrs 31 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
