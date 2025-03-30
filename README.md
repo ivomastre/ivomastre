@@ -53,7 +53,7 @@
 🔫 Counter-Strike 2                 🕘 1586 hrs 18 mins
 🎮 Baldur's Gate 3                  🕘 34 hrs 30 mins
 🎮 Dead by Daylight                 🕘 22 hrs 42 mins
-🎮 Monster Hunter Wilds             🕘 25 hrs 56 mins
+🎮 V Rising                         🕘 305 hrs 36 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
