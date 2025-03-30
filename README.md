@@ -51,9 +51,9 @@
 ```text
 🎮 Path of Exile 2                  🕘 207 hrs 21 mins
 🔫 Counter-Strike 2                 🕘 1586 hrs 18 mins
+🎮 V Rising                         🕘 306 hrs 7 mins
 🎮 Baldur's Gate 3                  🕘 34 hrs 30 mins
 🎮 Dead by Daylight                 🕘 22 hrs 42 mins
-🎮 V Rising                         🕘 305 hrs 36 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
