@@ -50,7 +50,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Path of Exile 2                  🕘 207 hrs 21 mins
-🔫 Counter-Strike 2                 🕘 1589 hrs 32 mins
+🔫 Counter-Strike 2                 🕘 1590 hrs 41 mins
 🎮 V Rising                         🕘 308 hrs 16 mins
 🎮 Dead by Daylight                 🕘 23 hrs 11 mins
 🎮 Baldur's Gate 3                  🕘 34 hrs 30 mins
