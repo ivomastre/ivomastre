@@ -51,9 +51,9 @@
 ```text
 🎮 Path of Exile 2                  🕘 288 hrs 7 mins
 🔫 Counter-Strike 2                 🕘 1592 hrs 27 mins
+🎮 Sons Of The Forest               🕘 33 hrs 0 mins
 🎮 Treason                          🕘 2 hrs 36 mins
 🎮 Dead by Daylight                 🕘 23 hrs 44 mins
-🎮 Sons Of The Forest               🕘 32 hrs 29 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
