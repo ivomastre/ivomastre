@@ -49,7 +49,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Path of Exile 2                  🕘 286 hrs 57 mins
+🎮 Path of Exile 2                  🕘 287 hrs 57 mins
 🔫 Counter-Strike 2                 🕘 1592 hrs 27 mins
 🎮 Treason                          🕘 2 hrs 36 mins
 🎮 Dead by Daylight                 🕘 23 hrs 44 mins
