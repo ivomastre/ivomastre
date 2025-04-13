@@ -51,9 +51,9 @@
 ```text
 🎮 Path of Exile 2                  🕘 285 hrs 56 mins
 🔫 Counter-Strike 2                 🕘 1592 hrs 27 mins
-🎮 V Rising                         🕘 309 hrs 1 mins
 🎮 Treason                          🕘 2 hrs 36 mins
 🎮 Dead by Daylight                 🕘 23 hrs 44 mins
+🎮 V Rising                         🕘 309 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
