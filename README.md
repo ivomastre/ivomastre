@@ -51,7 +51,7 @@
 ```text
 🎮 Path of Exile 2                  🕘 325 hrs 11 mins
 🎮 Sons Of The Forest               🕘 40 hrs 55 mins
-🎮 Spacewar                         🕘 343 hrs 46 mins
+🎮 Spacewar                         🕘 344 hrs 46 mins
 🎮 Treason                          🕘 2 hrs 36 mins
 🔫 Counter-Strike 2                 🕘 1592 hrs 27 mins
 ```
