@@ -49,7 +49,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Path of Exile 2                  🕘 328 hrs 13 mins
+🎮 Path of Exile 2                  🕘 328 hrs 43 mins
 🎮 Sons Of The Forest               🕘 40 hrs 55 mins
 🎮 Spacewar                         🕘 345 hrs 44 mins
 🎮 Treason                          🕘 2 hrs 36 mins
