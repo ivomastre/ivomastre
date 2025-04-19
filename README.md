@@ -52,8 +52,8 @@
 🎮 Path of Exile 2                  🕘 331 hrs 11 mins
 🎮 Sons Of The Forest               🕘 40 hrs 55 mins
 🎮 Spacewar                         🕘 345 hrs 44 mins
+🎮 REMATCH BETA TEST                🕘 2 hrs 24 mins
 🎮 Treason                          🕘 2 hrs 36 mins
-🔫 Counter-Strike 2                 🕘 1592 hrs 27 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
