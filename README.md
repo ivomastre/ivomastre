@@ -49,10 +49,10 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Path of Exile 2                  🕘 331 hrs 11 mins
+🎮 Path of Exile 2                  🕘 332 hrs 9 mins
 🎮 Sons Of The Forest               🕘 40 hrs 55 mins
+🎮 REMATCH BETA TEST                🕘 7 hrs 27 mins
 🎮 Spacewar                         🕘 345 hrs 44 mins
-🎮 REMATCH BETA TEST                🕘 4 hrs 26 mins
 🎮 Treason                          🕘 2 hrs 36 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
