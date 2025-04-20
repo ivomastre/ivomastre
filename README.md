@@ -53,7 +53,7 @@
 🎮 Sons Of The Forest               🕘 40 hrs 55 mins
 🎮 REMATCH BETA TEST                🕘 8 hrs 9 mins
 🎮 Spacewar                         🕘 345 hrs 44 mins
-🎮 Age of Empires IV: Anniversary Edition 🕘 1 hrs 22 mins
+🎮 Nubby's Number Factory           🕘 2 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
