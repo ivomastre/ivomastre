@@ -52,8 +52,8 @@
 🎮 Path of Exile 2                  🕘 332 hrs 9 mins
 🎮 Sons Of The Forest               🕘 40 hrs 55 mins
 🎮 REMATCH BETA TEST                🕘 8 hrs 9 mins
+🎮 Nubby's Number Factory           🕘 6 hrs 4 mins
 🎮 Spacewar                         🕘 345 hrs 44 mins
-🎮 Nubby's Number Factory           🕘 5 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
