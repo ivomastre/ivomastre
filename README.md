@@ -50,10 +50,10 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Path of Exile 2                  🕘 332 hrs 9 mins
-🎮 Nubby's Number Factory           🕘 14 hrs 13 mins
+🎮 Nubby's Number Factory           🕘 14 hrs 43 mins
 🎮 Sons Of The Forest               🕘 40 hrs 55 mins
 🎮 REMATCH BETA TEST                🕘 9 hrs 0 mins
-🎮 Spacewar                         🕘 347 hrs 44 mins
+🎮 Spacewar                         🕘 348 hrs 50 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
