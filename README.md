@@ -51,7 +51,7 @@
 ```text
 🎮 Path of Exile 2                  🕘 332 hrs 9 mins
 🎮 Nubby's Number Factory           🕘 16 hrs 57 mins
-🎮 Valheim                          🕘 10 hrs 55 mins
+🎮 Valheim                          🕘 11 hrs 13 mins
 🎮 Sons Of The Forest               🕘 40 hrs 55 mins
 🎮 REMATCH BETA TEST                🕘 9 hrs 0 mins
 ```
