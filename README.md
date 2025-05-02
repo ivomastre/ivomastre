@@ -53,7 +53,7 @@
 🎮 Valheim                          🕘 11 hrs 13 mins
 🎮 REMATCH BETA TEST                🕘 9 hrs 0 mins
 🎮 Path of Exile 2                  🕘 332 hrs 9 mins
-🎮 Spacewar                         🕘 348 hrs 50 mins
+🎮 Dead by Daylight                 🕘 28 hrs 47 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
