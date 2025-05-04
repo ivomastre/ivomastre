@@ -49,8 +49,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Nubby's Number Factory           🕘 16 hrs 57 mins
 🎮 Valheim                          🕘 11 hrs 13 mins
+🎮 Nubby's Number Factory           🕘 16 hrs 57 mins
 🎮 Dead by Daylight                 🕘 28 hrs 47 mins
 🔫 Counter-Strike 2                 🕘 1596 hrs 43 mins
 🎮 Spacewar                         🕘 348 hrs 50 mins
