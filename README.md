@@ -51,9 +51,9 @@
 ```text
 🎮 Valheim                          🕘 11 hrs 13 mins
 🔫 Counter-Strike 2                 🕘 1596 hrs 43 mins
-🎮 Spacewar                         🕘 348 hrs 50 mins
-🎮 Dead by Daylight                 🕘 28 hrs 47 mins
 🎮 Nubby's Number Factory           🕘 16 hrs 57 mins
+🎮 Dead by Daylight                 🕘 28 hrs 47 mins
+🎮 Spacewar                         🕘 348 hrs 50 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
