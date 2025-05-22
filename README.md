@@ -51,6 +51,7 @@
 ```text
 🔫 Counter-Strike 2                 🕘 1609 hrs 40 mins
 🎮 No Time to Relax                 🕘 1 hrs 5 mins
+🎮 Age of Empires IV: Anniversary Edition 🕘 2 hrs 54 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
