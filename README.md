@@ -52,6 +52,7 @@
 🔫 Counter-Strike 2                 🕘 1610 hrs 22 mins
 🎮 Age of Empires IV: Anniversary Edition 🕘 9 hrs 6 mins
 🎮 No Time to Relax                 🕘 1 hrs 5 mins
+🎮 Buriedbornes2 - Dungeon RPG      🕘 0 hrs 30 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
