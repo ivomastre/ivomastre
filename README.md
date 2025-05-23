@@ -50,7 +50,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🔫 Counter-Strike 2                 🕘 1610 hrs 22 mins
-🎮 Age of Empires IV: Anniversary Edition 🕘 5 hrs 11 mins
+🎮 Age of Empires IV: Anniversary Edition 🕘 6 hrs 6 mins
 🎮 No Time to Relax                 🕘 1 hrs 5 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
