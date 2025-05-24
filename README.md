@@ -50,8 +50,8 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🔫 Counter-Strike 2                 🕘 1611 hrs 2 mins
-🎮 Age of Empires IV: Anniversary Edition 🕘 9 hrs 6 mins
-🎮 Buriedbornes2 - Dungeon RPG      🕘 3 hrs 1 mins
+🎮 Age of Empires IV: Anniversary Edition 🕘 9 hrs 36 mins
+🎮 Buriedbornes2 - Dungeon RPG      🕘 4 hrs 1 mins
 🎮 No Time to Relax                 🕘 1 hrs 5 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
