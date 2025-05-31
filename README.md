@@ -51,7 +51,7 @@
 ```text
 🎮 Age of Empires IV: Anniversary Edition 🕘 29 hrs 9 mins
 🔫 Counter-Strike 2                 🕘 1615 hrs 27 mins
-🎮 REMATCH BETA TEST                🕘 18 hrs 51 mins
+🎮 REMATCH BETA TEST                🕘 18 hrs 56 mins
 🎮 Buriedbornes2 - Dungeon RPG      🕘 6 hrs 47 mins
 🎮 No Time to Relax                 🕘 1 hrs 26 mins
 ```
