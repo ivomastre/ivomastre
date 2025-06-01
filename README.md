@@ -49,7 +49,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Age of Empires IV: Anniversary Edition 🕘 33 hrs 43 mins
+🎮 Age of Empires IV: Anniversary Edition 🕘 34 hrs 51 mins
 🎮 REMATCH BETA TEST                🕘 20 hrs 22 mins
 🔫 Counter-Strike 2                 🕘 1615 hrs 27 mins
 🎮 Buriedbornes2 - Dungeon RPG      🕘 6 hrs 47 mins
