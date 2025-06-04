@@ -51,8 +51,8 @@
 ```text
 🎮 Age of Empires IV: Anniversary Edition 🕘 34 hrs 51 mins
 🎮 REMATCH BETA TEST                🕘 22 hrs 52 mins
-🔫 Counter-Strike 2                 🕘 1615 hrs 27 mins
 🎮 Buriedbornes2 - Dungeon RPG      🕘 6 hrs 47 mins
+🔫 Counter-Strike 2                 🕘 1616 hrs 27 mins
 🎮 Resident Evil 6                  🕘 1 hrs 13 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
