@@ -53,7 +53,7 @@
 🎮 REMATCH BETA TEST                🕘 22 hrs 52 mins
 🔫 Counter-Strike 2                 🕘 1617 hrs 36 mins
 🎮 Resident Evil 6                  🕘 1 hrs 13 mins
-🎮 No Time to Relax                 🕘 1 hrs 26 mins
+🎮 Nubby's Number Factory           🕘 17 hrs 17 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
