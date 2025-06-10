@@ -50,7 +50,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 REMATCH BETA TEST                🕘 22 hrs 52 mins
-🎮 Age of Empires IV: Anniversary Edition 🕘 38 hrs 56 mins
+🎮 Age of Empires IV: Anniversary Edition 🕘 39 hrs 30 mins
 🔫 Counter-Strike 2                 🕘 1619 hrs 17 mins
 🚀 Rocket League                    🕘 841 hrs 18 mins
 🎮 Nubby's Number Factory           🕘 17 hrs 17 mins
