@@ -51,7 +51,7 @@
 ```text
 🎮 REMATCH BETA TEST                🕘 22 hrs 52 mins
 🎮 Age of Empires IV: Anniversary Edition 🕘 39 hrs 30 mins
-🔫 Counter-Strike 2                 🕘 1621 hrs 55 mins
+🔫 Counter-Strike 2                 🕘 1622 hrs 9 mins
 🚀 Rocket League                    🕘 841 hrs 52 mins
 🎮 Nubby's Number Factory           🕘 17 hrs 17 mins
 ```
