@@ -53,7 +53,6 @@
 🔫 Counter-Strike 2                 🕘 1622 hrs 10 mins
 🎮 REMATCH BETA TEST                🕘 22 hrs 52 mins
 🚀 Rocket League                    🕘 841 hrs 52 mins
-🎮 Nubby's Number Factory           🕘 17 hrs 17 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
