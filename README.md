@@ -52,7 +52,7 @@
 🎮 Age of Empires IV: Anniversary Edition 🕘 48 hrs 39 mins
 🔫 Counter-Strike 2                 🕘 1622 hrs 10 mins
 🚀 Rocket League                    🕘 841 hrs 52 mins
-🎮 REMATCH                          🕘 0 hrs 21 mins
+🎮 REMATCH                          🕘 1 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
