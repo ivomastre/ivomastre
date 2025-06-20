@@ -49,9 +49,9 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 REMATCH                          🕘 20 hrs 2 mins
+🎮 REMATCH                          🕘 20 hrs 38 mins
 🎮 Age of Empires IV: Anniversary Edition 🕘 49 hrs 11 mins
-🔫 Counter-Strike 2                 🕘 1622 hrs 15 mins
+🔫 Counter-Strike 2                 🕘 1622 hrs 57 mins
 🚀 Rocket League                    🕘 841 hrs 52 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
