@@ -53,7 +53,6 @@
 🎮 Age of Empires IV: Anniversary Edition 🕘 52 hrs 18 mins
 🔫 Counter-Strike 2                 🕘 1622 hrs 57 mins
 🎮 Solo Leveling: ARISE OVERDRIVE Demo 🕘 3 hrs 6 mins
-🚀 Rocket League                    🕘 841 hrs 52 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
