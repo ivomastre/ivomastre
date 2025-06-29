@@ -51,7 +51,7 @@
 ```text
 🎮 REMATCH                          🕘 28 hrs 4 mins
 🎮 Age of Empires IV: Anniversary Edition 🕘 56 hrs 58 mins
-🎮 Euro Truck Simulator 2           🕘 103 hrs 13 mins
+🎮 Euro Truck Simulator 2           🕘 103 hrs 55 mins
 🎮 Solo Leveling: ARISE OVERDRIVE Demo 🕘 3 hrs 6 mins
 🔫 Counter-Strike 2                 🕘 1622 hrs 57 mins
 ```
