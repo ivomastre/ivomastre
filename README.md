@@ -49,8 +49,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 REMATCH                          🕘 27 hrs 11 mins
-🎮 Age of Empires IV: Anniversary Edition 🕘 54 hrs 10 mins
+🎮 REMATCH                          🕘 28 hrs 4 mins
+🎮 Age of Empires IV: Anniversary Edition 🕘 56 hrs 11 mins
 🎮 Solo Leveling: ARISE OVERDRIVE Demo 🕘 3 hrs 6 mins
 🔫 Counter-Strike 2                 🕘 1622 hrs 57 mins
 ```
