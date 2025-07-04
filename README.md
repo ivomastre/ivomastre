@@ -53,7 +53,6 @@
 🎮 Age of Empires IV: Anniversary Edition 🕘 60 hrs 33 mins
 🎮 Euro Truck Simulator 2           🕘 103 hrs 55 mins
 🎮 Solo Leveling: ARISE OVERDRIVE Demo 🕘 3 hrs 6 mins
-🔫 Counter-Strike 2                 🕘 1622 hrs 57 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
