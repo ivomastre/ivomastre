@@ -49,7 +49,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 REMATCH                          🕘 44 hrs 23 mins
+🎮 REMATCH                          🕘 45 hrs 24 mins
 🎮 Age of Empires IV: Anniversary Edition 🕘 67 hrs 44 mins
 🎮 Euro Truck Simulator 2           🕘 103 hrs 55 mins
 ```
