@@ -51,7 +51,6 @@
 ```text
 🎮 REMATCH                          🕘 48 hrs 41 mins
 🎮 Age of Empires IV: Anniversary Edition 🕘 67 hrs 44 mins
-🎮 Euro Truck Simulator 2           🕘 103 hrs 55 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
