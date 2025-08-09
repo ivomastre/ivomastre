@@ -51,6 +51,7 @@
 ```text
 🎮 Age of Empires IV: Anniversary Edition 🕘 78 hrs 18 mins
 🔫 Counter-Strike 2                 🕘 1624 hrs 53 mins
+🎮 Battlefield™ 6 Open Beta         🕘 0 hrs 30 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
