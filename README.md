@@ -51,7 +51,7 @@
 ```text
 🎮 Battlefield™ 6 Open Beta         🕘 3 hrs 45 mins
 🎮 Age of Empires IV: Anniversary Edition 🕘 78 hrs 18 mins
-🎮 PEAK                             🕘 2 hrs 0 mins
+🎮 PEAK                             🕘 2 hrs 37 mins
 🔫 Counter-Strike 2                 🕘 1624 hrs 53 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
