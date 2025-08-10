@@ -49,9 +49,10 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
+🎮 Battlefield™ 6 Open Beta         🕘 3 hrs 45 mins
 🎮 Age of Empires IV: Anniversary Edition 🕘 78 hrs 18 mins
-🎮 Battlefield™ 6 Open Beta         🕘 3 hrs 32 mins
 🔫 Counter-Strike 2                 🕘 1624 hrs 53 mins
+🎮 PEAK                             🕘 1 hrs 30 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
