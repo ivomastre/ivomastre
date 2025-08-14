@@ -50,7 +50,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Battlefield™ 6 Open Beta         🕘 5 hrs 40 mins
-🎮 PEAK                             🕘 2 hrs 37 mins
+🎮 PEAK                             🕘 3 hrs 2 mins
 🔫 Counter-Strike 2                 🕘 1624 hrs 53 mins
 🎮 The Isle                         🕘 5 hrs 40 mins
 ```
