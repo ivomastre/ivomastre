@@ -51,7 +51,6 @@
 ```text
 🎮 Battlefield™ 6 Open Beta         🕘 18 hrs 14 mins
 🎮 PEAK                             🕘 3 hrs 2 mins
-🎮 The Isle                         🕘 5 hrs 40 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
