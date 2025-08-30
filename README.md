@@ -49,7 +49,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Path of Exile 2                  🕘 337 hrs 30 mins
+🎮 Path of Exile 2                  🕘 338 hrs 31 mins
 🎮 Battlefield™ 6 Open Beta         🕘 18 hrs 14 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
