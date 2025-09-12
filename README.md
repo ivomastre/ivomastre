@@ -49,7 +49,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Hollow Knight: Silksong          🕘 42 hrs 52 mins
+🎮 Hollow Knight: Silksong          🕘 43 hrs 22 mins
 🎮 Path of Exile 2                  🕘 367 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
