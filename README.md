@@ -51,7 +51,6 @@
 ```text
 🎮 Hollow Knight: Silksong          🕘 80 hrs 34 mins
 🎮 DRAGON BALL GEKISHIN SQUADRA     🕘 11 hrs 37 mins
-🎮 Path of Exile 2                  🕘 367 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
