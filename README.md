@@ -50,7 +50,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Hollow Knight: Silksong          🕘 80 hrs 34 mins
-🎮 Megabonk                         🕘 6 hrs 50 mins
+🎮 Megabonk                         🕘 7 hrs 50 mins
 🎮 DRAGON BALL GEKISHIN SQUADRA     🕘 11 hrs 37 mins
 🎮 Spacewar                         🕘 348 hrs 52 mins
 ```
