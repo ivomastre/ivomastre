@@ -51,7 +51,7 @@
 ```text
 🎮 Hollow Knight: Silksong          🕘 80 hrs 34 mins
 🎮 DRAGON BALL GEKISHIN SQUADRA     🕘 11 hrs 37 mins
-🎮 Megabonk                         🕘 1 hrs 7 mins
+🎮 Megabonk                         🕘 3 hrs 13 mins
 🎮 Spacewar                         🕘 348 hrs 52 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
