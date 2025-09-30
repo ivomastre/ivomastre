@@ -49,7 +49,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Megabonk                         🕘 14 hrs 42 mins
+🎮 Megabonk                         🕘 16 hrs 37 mins
 🎮 Hollow Knight: Silksong          🕘 80 hrs 34 mins
 🎮 DRAGON BALL GEKISHIN SQUADRA     🕘 11 hrs 37 mins
 🎮 Ciconia When They Cry - Phase 1 For You, the Replaceable Ones 🕘 0 hrs 1 mins
