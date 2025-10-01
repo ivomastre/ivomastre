@@ -51,7 +51,6 @@
 ```text
 🎮 Megabonk                         🕘 22 hrs 21 mins
 🎮 DRAGON BALL GEKISHIN SQUADRA     🕘 11 hrs 37 mins
-🎮 Hollow Knight: Silksong          🕘 80 hrs 34 mins
 🎮 Ciconia When They Cry - Phase 1 For You, the Replaceable Ones 🕘 0 hrs 1 mins
 🎮 Spacewar                         🕘 348 hrs 52 mins
 ```
