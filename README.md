@@ -52,7 +52,6 @@
 🎮 Megabonk                         🕘 23 hrs 35 mins
 🔫 Counter-Strike 2                 🕘 1626 hrs 22 mins
 🎮 Ciconia When They Cry - Phase 1 For You, the Replaceable Ones 🕘 0 hrs 1 mins
-🎮 Spacewar                         🕘 348 hrs 52 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
