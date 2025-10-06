@@ -49,7 +49,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Megabonk                         🕘 25 hrs 32 mins
+🎮 Megabonk                         🕘 26 hrs 8 mins
 🔫 Counter-Strike 2                 🕘 1626 hrs 59 mins
 🎮 Ciconia When They Cry - Phase 1 For You, the Replaceable Ones 🕘 0 hrs 1 mins
 ```
