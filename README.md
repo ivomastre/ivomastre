@@ -50,8 +50,8 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Megabonk                         🕘 26 hrs 8 mins
+🎮 Hollow Knight: Silksong          🕘 83 hrs 8 mins
 🔫 Counter-Strike 2                 🕘 1626 hrs 59 mins
-🎮 Hollow Knight: Silksong          🕘 82 hrs 38 mins
 🎮 Ciconia When They Cry - Phase 1 For You, the Replaceable Ones 🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
