@@ -51,7 +51,7 @@
 ```text
 🎮 Megabonk                         🕘 26 hrs 18 mins
 🎮 Hollow Knight: Silksong          🕘 87 hrs 27 mins
-🔫 Counter-Strike 2                 🕘 1627 hrs 41 mins
+🔫 Counter-Strike 2                 🕘 1628 hrs 11 mins
 🎮 Ciconia When They Cry - Phase 1 For You, the Replaceable Ones 🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
