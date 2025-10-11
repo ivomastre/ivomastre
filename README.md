@@ -49,9 +49,9 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Megabonk                         🕘 26 hrs 18 mins
+🎮 Megabonk                         🕘 26 hrs 48 mins
 🎮 Hollow Knight: Silksong          🕘 87 hrs 27 mins
-🎮 Battlefield™ 6                   🕘 5 hrs 3 mins
+🎮 Battlefield™ 6                   🕘 5 hrs 12 mins
 🔫 Counter-Strike 2                 🕘 1628 hrs 11 mins
 🎮 Ciconia When They Cry - Phase 1 For You, the Replaceable Ones 🕘 0 hrs 1 mins
 ```
