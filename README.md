@@ -51,7 +51,7 @@
 ```text
 🎮 Megabonk                         🕘 26 hrs 18 mins
 🎮 Hollow Knight: Silksong          🕘 87 hrs 27 mins
-🎮 Battlefield™ 6                   🕘 4 hrs 2 mins
+🎮 Battlefield™ 6                   🕘 5 hrs 3 mins
 🔫 Counter-Strike 2                 🕘 1628 hrs 11 mins
 🎮 Ciconia When They Cry - Phase 1 For You, the Replaceable Ones 🕘 0 hrs 1 mins
 ```
