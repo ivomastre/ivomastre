@@ -49,7 +49,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Megabonk                         🕘 38 hrs 11 mins
+🎮 Megabonk                         🕘 39 hrs 42 mins
 🎮 Hollow Knight: Silksong          🕘 87 hrs 27 mins
 🔫 Counter-Strike 2                 🕘 1631 hrs 50 mins
 🎮 Battlefield™ 6                   🕘 5 hrs 12 mins
