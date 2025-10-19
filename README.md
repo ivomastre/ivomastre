@@ -51,8 +51,8 @@
 ```text
 🎮 Megabonk                         🕘 42 hrs 17 mins
 🎮 Hollow Knight: Silksong          🕘 87 hrs 27 mins
+🎮 Battlefield™ 6                   🕘 5 hrs 42 mins
 🔫 Counter-Strike 2                 🕘 1631 hrs 50 mins
-🎮 Battlefield™ 6                   🕘 5 hrs 12 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
