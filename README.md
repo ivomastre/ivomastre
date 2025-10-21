@@ -50,7 +50,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Megabonk                         🕘 47 hrs 52 mins
-🎮 The Farmer Was Replaced          🕘 7 hrs 33 mins
+🎮 The Farmer Was Replaced          🕘 8 hrs 4 mins
 🎮 Battlefield™ 6                   🕘 7 hrs 17 mins
 🎮 Hollow Knight: Silksong          🕘 87 hrs 27 mins
 🔫 Counter-Strike 2                 🕘 1631 hrs 50 mins
