@@ -51,9 +51,9 @@
 ```text
 🎮 Megabonk                         🕘 47 hrs 52 mins
 🎮 The Farmer Was Replaced          🕘 9 hrs 36 mins
+🔫 Counter-Strike 2                 🕘 1634 hrs 20 mins
 🎮 Battlefield™ 6                   🕘 7 hrs 17 mins
 🎮 Hollow Knight: Silksong          🕘 87 hrs 27 mins
-🔫 Counter-Strike 2                 🕘 1633 hrs 27 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
