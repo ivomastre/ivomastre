@@ -49,7 +49,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Megabonk                         🕘 53 hrs 22 mins
+🎮 Megabonk                         🕘 54 hrs 44 mins
 🎮 The Farmer Was Replaced          🕘 9 hrs 36 mins
 🔫 Counter-Strike 2                 🕘 1634 hrs 55 mins
 🎮 Battlefield™ 6                   🕘 7 hrs 17 mins
