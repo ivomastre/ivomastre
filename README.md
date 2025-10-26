@@ -51,7 +51,7 @@
 ```text
 🎮 Megabonk                         🕘 56 hrs 9 mins
 🎮 The Farmer Was Replaced          🕘 9 hrs 36 mins
-🔫 Counter-Strike 2                 🕘 1634 hrs 55 mins
+🔫 Counter-Strike 2                 🕘 1636 hrs 16 mins
 🎮 Battlefield™ 6                   🕘 7 hrs 17 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
