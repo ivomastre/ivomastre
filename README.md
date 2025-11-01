@@ -51,7 +51,7 @@
 ```text
 🎮 Megabonk                         🕘 62 hrs 36 mins
 🎮 The Farmer Was Replaced          🕘 9 hrs 36 mins
-🔫 Counter-Strike 2                 🕘 1640 hrs 50 mins
+🔫 Counter-Strike 2                 🕘 1640 hrs 51 mins
 🎮 Age of Empires IV: Anniversary Edition 🕘 82 hrs 34 mins
 🎮 Battlefield™ 6                   🕘 8 hrs 54 mins
 ```
