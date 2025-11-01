@@ -53,7 +53,7 @@
 🎮 The Farmer Was Replaced          🕘 9 hrs 36 mins
 🔫 Counter-Strike 2                 🕘 1640 hrs 11 mins
 🎮 Battlefield™ 6                   🕘 8 hrs 54 mins
-🎮 Age of Empires IV: Anniversary Edition 🕘 78 hrs 48 mins
+🎮 Age of Empires IV: Anniversary Edition 🕘 79 hrs 18 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
