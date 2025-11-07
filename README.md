@@ -53,7 +53,7 @@
 🎮 Megabonk                         🕘 62 hrs 36 mins
 🎮 Age of Empires IV: Anniversary Edition 🕘 82 hrs 34 mins
 🎮 Battlefield™ 6                   🕘 10 hrs 46 mins
-🎮 Treason                          🕘 3 hrs 6 mins
+🎮 Treason                          🕘 4 hrs 38 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
