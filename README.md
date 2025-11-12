@@ -53,7 +53,7 @@
 🎮 Age of Empires IV: Anniversary Edition 🕘 82 hrs 34 mins
 🎮 Treason                          🕘 6 hrs 3 mins
 🎮 Battlefield™ 6                   🕘 10 hrs 46 mins
-🎮 Pummel Party                     🕘 2 hrs 55 mins
+🎮 Spacewar                         🕘 350 hrs 45 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
