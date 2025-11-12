@@ -51,8 +51,8 @@
 ```text
 🔫 Counter-Strike 2                 🕘 1660 hrs 49 mins
 🎮 Age of Empires IV: Anniversary Edition 🕘 82 hrs 34 mins
+🎮 Spacewar                         🕘 352 hrs 44 mins
 🎮 Treason                          🕘 6 hrs 3 mins
-🎮 Spacewar                         🕘 352 hrs 9 mins
 🎮 Battlefield™ 6                   🕘 10 hrs 46 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
