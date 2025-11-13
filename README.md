@@ -49,8 +49,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🔫 Counter-Strike 2                 🕘 1660 hrs 49 mins
-🎮 Spacewar                         🕘 356 hrs 47 mins
+🔫 Counter-Strike 2                 🕘 1661 hrs 20 mins
+🎮 Spacewar                         🕘 357 hrs 21 mins
 🎮 Age of Empires IV: Anniversary Edition 🕘 82 hrs 34 mins
 🎮 Treason                          🕘 6 hrs 3 mins
 🎮 Battlefield™ 6                   🕘 10 hrs 46 mins
