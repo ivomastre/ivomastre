@@ -50,7 +50,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🔫 Counter-Strike 2                 🕘 1664 hrs 39 mins
-🎮 Spacewar                         🕘 372 hrs 18 mins
+🎮 Spacewar                         🕘 373 hrs 19 mins
 🎮 Treason                          🕘 6 hrs 3 mins
 🎮 Battlefield™ 6                   🕘 10 hrs 46 mins
 🎮 Pummel Party                     🕘 2 hrs 55 mins
