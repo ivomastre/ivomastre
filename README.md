@@ -49,7 +49,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Spacewar                         🕘 402 hrs 18 mins
+🎮 Spacewar                         🕘 403 hrs 35 mins
 🔫 Counter-Strike 2                 🕘 1670 hrs 36 mins
 🎮 Treason                          🕘 7 hrs 9 mins
 🎮 Battlefield™ 6                   🕘 10 hrs 46 mins
