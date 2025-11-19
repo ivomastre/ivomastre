@@ -50,7 +50,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Spacewar                         🕘 403 hrs 58 mins
-🔫 Counter-Strike 2                 🕘 1672 hrs 49 mins
+🔫 Counter-Strike 2                 🕘 1673 hrs 57 mins
 🎮 Treason                          🕘 7 hrs 9 mins
 🎮 Pummel Party                     🕘 2 hrs 55 mins
 🎮 Where Winds Meet                 🕘 0 hrs 18 mins
