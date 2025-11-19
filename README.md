@@ -49,8 +49,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Spacewar                         🕘 403 hrs 40 mins
-🔫 Counter-Strike 2                 🕘 1670 hrs 36 mins
+🎮 Spacewar                         🕘 403 hrs 58 mins
+🔫 Counter-Strike 2                 🕘 1672 hrs 49 mins
 🎮 Treason                          🕘 7 hrs 9 mins
 🎮 Pummel Party                     🕘 2 hrs 55 mins
 🎮 Where Winds Meet                 🕘 0 hrs 18 mins
