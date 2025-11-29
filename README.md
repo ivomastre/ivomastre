@@ -52,7 +52,6 @@
 🎮 Spacewar                         🕘 421 hrs 58 mins
 🔫 Counter-Strike 2                 🕘 1687 hrs 19 mins
 🎮 Treason                          🕘 7 hrs 9 mins
-🎮 Where Winds Meet                 🕘 0 hrs 18 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
