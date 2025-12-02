@@ -50,7 +50,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Spacewar                         🕘 435 hrs 5 mins
-🔫 Counter-Strike 2                 🕘 1693 hrs 46 mins
+🔫 Counter-Strike 2                 🕘 1694 hrs 58 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
