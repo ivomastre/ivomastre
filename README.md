@@ -51,6 +51,7 @@
 ```text
 🎮 Spacewar                         🕘 435 hrs 5 mins
 🔫 Counter-Strike 2                 🕘 1700 hrs 37 mins
+🎮 Unfair Flips                     🕘 0 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
