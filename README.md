@@ -51,7 +51,7 @@
 ```text
 🎮 Spacewar                         🕘 435 hrs 5 mins
 🔫 Counter-Strike 2                 🕘 1701 hrs 48 mins
-🍳 PUBG: BATTLEGROUNDS              🕘 146 hrs 36 mins
+🍳 PUBG: BATTLEGROUNDS              🕘 147 hrs 11 mins
 🎮 Unfair Flips                     🕘 0 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
