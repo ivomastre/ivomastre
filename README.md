@@ -51,8 +51,8 @@
 ```text
 🔫 Counter-Strike 2                 🕘 1719 hrs 7 mins
 🎮 Spacewar                         🕘 435 hrs 5 mins
+🎮 Path of Exile 2                  🕘 370 hrs 54 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 147 hrs 11 mins
-🎮 Path of Exile 2                  🕘 370 hrs 24 mins
 🎮 No More Room in Hell             🕘 53 hrs 23 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
