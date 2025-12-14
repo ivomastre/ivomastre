@@ -50,9 +50,9 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🔫 Counter-Strike 2                 🕘 1720 hrs 37 mins
-🎮 Path of Exile 2                  🕘 373 hrs 52 mins
-🎮 Spacewar                         🕘 435 hrs 5 mins
+🎮 Path of Exile 2                  🕘 374 hrs 22 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 147 hrs 11 mins
+🎮 Spacewar                         🕘 435 hrs 5 mins
 🎮 No More Room in Hell             🕘 53 hrs 23 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
