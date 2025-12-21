@@ -51,8 +51,8 @@
 ```text
 🎮 Path of Exile 2                  🕘 430 hrs 15 mins
 🔫 Counter-Strike 2                 🕘 1732 hrs 27 mins
-🍳 PUBG: BATTLEGROUNDS              🕘 147 hrs 11 mins
 🎮 No More Room in Hell             🕘 53 hrs 23 mins
+🍳 PUBG: BATTLEGROUNDS              🕘 147 hrs 11 mins
 🎮 Bloons TD 6                      🕘 80 hrs 32 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
