@@ -50,7 +50,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Path of Exile 2                  🕘 431 hrs 50 mins
-🔫 Counter-Strike 2                 🕘 1735 hrs 44 mins
+🔫 Counter-Strike 2                 🕘 1736 hrs 14 mins
 🎮 No More Room in Hell             🕘 53 hrs 23 mins
 🎮 Bloons TD 6                      🕘 80 hrs 32 mins
 ```
