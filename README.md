@@ -53,7 +53,7 @@
 🔫 Counter-Strike 2                 🕘 1738 hrs 26 mins
 🎮 No More Room in Hell             🕘 53 hrs 23 mins
 🎮 Bloons TD 6                      🕘 80 hrs 32 mins
-🎮 Nubby's Number Factory           🕘 17 hrs 18 mins
+🎮 Nubby's Number Factory           🕘 18 hrs 5 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
