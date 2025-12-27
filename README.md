@@ -51,8 +51,8 @@
 ```text
 🎮 Path of Exile 2                  🕘 452 hrs 33 mins
 🔫 Counter-Strike 2                 🕘 1741 hrs 19 mins
-🎮 Bloons TD 6                      🕘 80 hrs 32 mins
 🎮 Nubby's Number Factory           🕘 18 hrs 5 mins
+🎮 Bloons TD 6                      🕘 80 hrs 32 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
