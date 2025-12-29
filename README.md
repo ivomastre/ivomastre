@@ -50,7 +50,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Path of Exile 2                  🕘 452 hrs 33 mins
-🔫 Counter-Strike 2                 🕘 1743 hrs 48 mins
+🔫 Counter-Strike 2                 🕘 1744 hrs 27 mins
 🎮 Nubby's Number Factory           🕘 18 hrs 5 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
