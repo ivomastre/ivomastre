@@ -51,7 +51,8 @@
 ```text
 🎮 Path of Exile 2                  🕘 452 hrs 33 mins
 🔫 Counter-Strike 2                 🕘 1744 hrs 27 mins
-🎮 Nubby's Number Factory           🕘 18 hrs 5 mins
+🎮 Dota Underlords                  🕘 5 hrs 16 mins
+🎮 Nubby's Number Factory           🕘 18 hrs 14 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
