@@ -53,6 +53,7 @@
 🔫 Counter-Strike 2                 🕘 1744 hrs 27 mins
 🎮 Dota Underlords                  🕘 5 hrs 16 mins
 🎮 Nubby's Number Factory           🕘 18 hrs 18 mins
+🎮 Balatro                          🕘 20 hrs 54 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
