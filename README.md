@@ -51,7 +51,7 @@
 ```text
 🎮 Path of Exile 2                  🕘 452 hrs 33 mins
 🔫 Counter-Strike 2                 🕘 1744 hrs 27 mins
-🎮 Balatro                          🕘 21 hrs 40 mins
+🎮 Balatro                          🕘 22 hrs 44 mins
 🎮 Dota Underlords                  🕘 5 hrs 16 mins
 🎮 Nubby's Number Factory           🕘 18 hrs 18 mins
 ```
