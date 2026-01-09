@@ -49,10 +49,10 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🔫 Counter-Strike 2                 🕘 1748 hrs 46 mins
+🔫 Counter-Strike 2                 🕘 1749 hrs 9 mins
 🎮 Balatro                          🕘 25 hrs 42 mins
-🎮 Path of Exile 2                  🕘 452 hrs 33 mins
 🎮 Dota Underlords                  🕘 5 hrs 16 mins
+🎮 Path of Exile 2                  🕘 452 hrs 33 mins
 🎮 Nubby's Number Factory           🕘 18 hrs 18 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
