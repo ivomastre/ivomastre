@@ -51,7 +51,6 @@
 ```text
 🔫 Counter-Strike 2                 🕘 1751 hrs 31 mins
 🎮 Balatro                          🕘 25 hrs 44 mins
-🎮 Dota Underlords                  🕘 5 hrs 16 mins
 🎮 Nubby's Number Factory           🕘 18 hrs 18 mins
 🎮 Awaria                           🕘 0 hrs 3 mins
 ```
