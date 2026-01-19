@@ -50,7 +50,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🔫 Counter-Strike 2                 🕘 1756 hrs 6 mins
-🎮 Etrian Odyssey HD                🕘 0 hrs 30 mins
+🎮 Etrian Odyssey HD                🕘 1 hrs 0 mins
 🎮 Awaria                           🕘 0 hrs 3 mins
 🎮 Balatro                          🕘 25 hrs 44 mins
 ```
