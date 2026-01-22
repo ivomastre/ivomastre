@@ -49,10 +49,11 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🔫 Counter-Strike 2                 🕘 1760 hrs 20 mins
+🔫 Counter-Strike 2                 🕘 1761 hrs 19 mins
 🎮 Etrian Odyssey HD                🕘 2 hrs 10 mins
 🎮 Awaria                           🕘 0 hrs 3 mins
 🎮 Balatro                          🕘 25 hrs 44 mins
+🎮 Spacewar                         🕘 435 hrs 6 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
