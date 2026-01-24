@@ -51,7 +51,7 @@
 ```text
 🔫 Counter-Strike 2                 🕘 1763 hrs 34 mins
 🎮 Etrian Odyssey HD                🕘 2 hrs 10 mins
-🎮 Spacewar                         🕘 436 hrs 43 mins
+🎮 Spacewar                         🕘 437 hrs 13 mins
 🎮 Awaria                           🕘 0 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
