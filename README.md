@@ -52,6 +52,7 @@
 🔫 Counter-Strike 2                 🕘 1766 hrs 42 mins
 🎮 Spacewar                         🕘 439 hrs 4 mins
 🎮 Etrian Odyssey HD                🕘 2 hrs 10 mins
+🎮 Nubby's Number Factory           🕘 18 hrs 25 mins
 🎮 Awaria                           🕘 0 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
