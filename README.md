@@ -49,11 +49,11 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🔫 Counter-Strike 2                 🕘 1766 hrs 43 mins
-🎮 Spacewar                         🕘 439 hrs 57 mins
+🔫 Counter-Strike 2                 🕘 1767 hrs 18 mins
+🎮 Spacewar                         🕘 440 hrs 57 mins
 🎮 Etrian Odyssey HD                🕘 2 hrs 10 mins
+🎮 Balatro                          🕘 27 hrs 5 mins
 🎮 Nubby's Number Factory           🕘 18 hrs 25 mins
-🎮 Awaria                           🕘 0 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
