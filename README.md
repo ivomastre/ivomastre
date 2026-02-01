@@ -52,8 +52,8 @@
 🔫 Counter-Strike 2                 🕘 1771 hrs 13 mins
 🎮 Spacewar                         🕘 441 hrs 54 mins
 🎮 Balatro                          🕘 28 hrs 51 mins
+🎮 Monster Hunter: World            🕘 57 hrs 14 mins
 🎮 Etrian Odyssey HD                🕘 2 hrs 10 mins
-🎮 Nubby's Number Factory           🕘 18 hrs 25 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
