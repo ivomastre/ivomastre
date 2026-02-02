@@ -50,8 +50,8 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🔫 Counter-Strike 2                 🕘 1771 hrs 13 mins
+🎮 Balatro                          🕘 33 hrs 59 mins
 🎮 Spacewar                         🕘 441 hrs 54 mins
-🎮 Balatro                          🕘 31 hrs 28 mins
 🎮 Monster Hunter: World            🕘 58 hrs 15 mins
 🎮 Etrian Odyssey HD                🕘 2 hrs 10 mins
 ```
