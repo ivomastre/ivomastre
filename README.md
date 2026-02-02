@@ -53,7 +53,7 @@
 🎮 Balatro                          🕘 35 hrs 35 mins
 🎮 Spacewar                         🕘 441 hrs 54 mins
 🎮 Monster Hunter: World            🕘 58 hrs 15 mins
-🎮 Etrian Odyssey HD                🕘 2 hrs 10 mins
+🎮 Nubby's Number Factory           🕘 18 hrs 25 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
