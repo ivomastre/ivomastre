@@ -49,8 +49,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
+🎮 Balatro                          🕘 41 hrs 19 mins
 🔫 Counter-Strike 2                 🕘 1771 hrs 13 mins
-🎮 Balatro                          🕘 39 hrs 7 mins
 🎮 Spacewar                         🕘 441 hrs 54 mins
 🎮 Monster Hunter: World            🕘 58 hrs 15 mins
 🎮 Nubby's Number Factory           🕘 18 hrs 25 mins
