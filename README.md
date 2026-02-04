@@ -51,8 +51,8 @@
 ```text
 🎮 Balatro                          🕘 42 hrs 32 mins
 🔫 Counter-Strike 2                 🕘 1771 hrs 13 mins
+🎮 Apogea Playtest                  🕘 7 hrs 3 mins
 🎮 Spacewar                         🕘 441 hrs 54 mins
-🎮 Apogea Playtest                  🕘 6 hrs 3 mins
 🎮 Monster Hunter: World            🕘 58 hrs 15 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
