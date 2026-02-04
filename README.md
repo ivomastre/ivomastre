@@ -53,7 +53,7 @@
 🔫 Counter-Strike 2                 🕘 1771 hrs 13 mins
 🎮 Spacewar                         🕘 441 hrs 54 mins
 🎮 Monster Hunter: World            🕘 58 hrs 15 mins
-🎮 Nubby's Number Factory           🕘 18 hrs 25 mins
+🎮 Apogea Playtest                  🕘 3 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
