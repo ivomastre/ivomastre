@@ -49,9 +49,9 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Apogea Playtest                  🕘 32 hrs 4 mins
+🎮 Apogea Playtest                  🕘 32 hrs 41 mins
 🎮 Balatro                          🕘 42 hrs 32 mins
-🔫 Counter-Strike 2                 🕘 1771 hrs 13 mins
+🔫 Counter-Strike 2                 🕘 1772 hrs 19 mins
 🎮 Spacewar                         🕘 441 hrs 54 mins
 🎮 Monster Hunter: World            🕘 58 hrs 15 mins
 ```
