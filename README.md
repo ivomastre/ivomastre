@@ -51,7 +51,7 @@
 ```text
 🎮 Apogea Playtest                  🕘 37 hrs 29 mins
 🎮 Balatro                          🕘 42 hrs 32 mins
-🔫 Counter-Strike 2                 🕘 1779 hrs 39 mins
+🔫 Counter-Strike 2                 🕘 1780 hrs 19 mins
 🎮 Sid Meier's Civilization VI      🕘 8 hrs 11 mins
 🎮 Monster Hunter: World            🕘 58 hrs 15 mins
 ```
