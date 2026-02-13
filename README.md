@@ -50,8 +50,8 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Apogea Playtest                  🕘 37 hrs 29 mins
+🔫 Counter-Strike 2                 🕘 1784 hrs 10 mins
 🎮 Balatro                          🕘 42 hrs 32 mins
-🔫 Counter-Strike 2                 🕘 1783 hrs 31 mins
 🎮 Sid Meier's Civilization VI      🕘 8 hrs 11 mins
 🎮 Monster Hunter: World            🕘 58 hrs 15 mins
 ```
