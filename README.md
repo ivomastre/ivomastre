@@ -50,10 +50,10 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Apogea Playtest                  🕘 37 hrs 29 mins
-🔫 Counter-Strike 2                 🕘 1791 hrs 23 mins
-🎮 Balatro                          🕘 46 hrs 1 mins
+🔫 Counter-Strike 2                 🕘 1791 hrs 59 mins
+🎮 Balatro                          🕘 46 hrs 3 mins
 🎮 Sid Meier's Civilization VI      🕘 8 hrs 11 mins
-🎮 Overwatch®                       🕘 0 hrs 42 mins
+🎮 Overwatch®                       🕘 1 hrs 43 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
