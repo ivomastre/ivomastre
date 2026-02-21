@@ -52,8 +52,8 @@
 🔫 Counter-Strike 2                 🕘 1801 hrs 39 mins
 🎮 Overwatch®                       🕘 9 hrs 25 mins
 🎮 Sid Meier's Civilization VI      🕘 8 hrs 11 mins
-🎮 Apogea Playtest                  🕘 37 hrs 29 mins
 🎮 Balatro                          🕘 46 hrs 9 mins
+🎮 Apogea Playtest                  🕘 37 hrs 29 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
