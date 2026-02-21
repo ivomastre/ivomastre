@@ -51,8 +51,8 @@
 ```text
 🔫 Counter-Strike 2                 🕘 1802 hrs 59 mins
 🎮 Overwatch®                       🕘 10 hrs 30 mins
+🎮 Balatro                          🕘 48 hrs 10 mins
 🎮 Sid Meier's Civilization VI      🕘 8 hrs 11 mins
-🎮 Balatro                          🕘 47 hrs 9 mins
 🎮 Arkheron Demo                    🕘 1 hrs 6 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
