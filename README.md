@@ -49,9 +49,9 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🔫 Counter-Strike 2                 🕘 1802 hrs 59 mins
+🔫 Counter-Strike 2                 🕘 1805 hrs 58 mins
 🎮 Overwatch®                       🕘 10 hrs 30 mins
-🎮 Balatro                          🕘 49 hrs 5 mins
+🎮 Balatro                          🕘 49 hrs 45 mins
 🎮 Sid Meier's Civilization VI      🕘 8 hrs 11 mins
 🎮 Arkheron Demo                    🕘 1 hrs 6 mins
 ```
