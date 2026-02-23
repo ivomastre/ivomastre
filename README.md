@@ -52,8 +52,8 @@
 🔫 Counter-Strike 2                 🕘 1808 hrs 41 mins
 🎮 Balatro                          🕘 58 hrs 4 mins
 🎮 Overwatch®                       🕘 11 hrs 16 mins
-🎮 Sid Meier's Civilization VI      🕘 8 hrs 11 mins
 🎮 Arkheron Demo                    🕘 1 hrs 6 mins
+🎮 Mewgenics                        🕘 0 hrs 27 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
