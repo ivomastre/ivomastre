@@ -49,11 +49,11 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🔫 Counter-Strike 2                 🕘 1810 hrs 11 mins
-🎮 Balatro                          🕘 58 hrs 4 mins
+🔫 Counter-Strike 2                 🕘 1811 hrs 32 mins
+🎮 Balatro                          🕘 58 hrs 41 mins
 🎮 Overwatch®                       🕘 11 hrs 16 mins
 🎮 Arkheron Demo                    🕘 1 hrs 6 mins
-🎮 Mewgenics                        🕘 0 hrs 27 mins
+🎮 Vampire Crawlers Demo            🕘 0 hrs 56 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
