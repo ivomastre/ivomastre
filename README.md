@@ -52,7 +52,7 @@
 🔫 Counter-Strike 2                 🕘 1811 hrs 32 mins
 🎮 Balatro                          🕘 58 hrs 41 mins
 🎮 Overwatch®                       🕘 11 hrs 16 mins
-🎮 Vampire Crawlers Demo            🕘 2 hrs 27 mins
+🎮 Vampire Crawlers Demo            🕘 2 hrs 45 mins
 🎮 Arkheron Demo                    🕘 1 hrs 6 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
