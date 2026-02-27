@@ -53,7 +53,7 @@
 🎮 Balatro                          🕘 65 hrs 0 mins
 🎮 Overwatch®                       🕘 11 hrs 16 mins
 🎮 Vampire Crawlers Demo            🕘 2 hrs 45 mins
-🎮 Arkheron Demo                    🕘 1 hrs 6 mins
+🎮 Resident Evil Requiem            🕘 1 hrs 35 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
