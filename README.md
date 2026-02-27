@@ -52,7 +52,7 @@
 🔫 Counter-Strike 2                 🕘 1813 hrs 45 mins
 🎮 Balatro                          🕘 65 hrs 0 mins
 🎮 Overwatch®                       🕘 11 hrs 16 mins
-🎮 Resident Evil Requiem            🕘 3 hrs 35 mins
+🎮 Resident Evil Requiem            🕘 4 hrs 3 mins
 🎮 Vampire Crawlers Demo            🕘 2 hrs 45 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
