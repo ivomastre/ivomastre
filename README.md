@@ -49,7 +49,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🔫 Counter-Strike 2                 🕘 1813 hrs 45 mins
+🔫 Counter-Strike 2                 🕘 1814 hrs 45 mins
 🎮 Balatro                          🕘 65 hrs 0 mins
 🎮 Overwatch®                       🕘 12 hrs 23 mins
 🎮 Age of Empires IV: Anniversary Edition 🕘 89 hrs 20 mins
