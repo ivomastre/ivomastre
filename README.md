@@ -53,7 +53,7 @@
 🎮 Balatro                          🕘 65 hrs 0 mins
 🎮 Overwatch®                       🕘 12 hrs 23 mins
 🎮 Age of Empires IV: Anniversary Edition 🕘 89 hrs 20 mins
-🎮 Resident Evil Requiem            🕘 4 hrs 3 mins
+🎮 Resident Evil Requiem            🕘 5 hrs 35 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
