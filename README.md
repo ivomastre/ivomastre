@@ -52,8 +52,8 @@
 🔫 Counter-Strike 2                 🕘 1813 hrs 45 mins
 🎮 Balatro                          🕘 65 hrs 0 mins
 🎮 Overwatch®                       🕘 12 hrs 23 mins
+🎮 Age of Empires IV: Anniversary Edition 🕘 87 hrs 20 mins
 🎮 Resident Evil Requiem            🕘 4 hrs 3 mins
-🎮 Vampire Crawlers Demo            🕘 2 hrs 45 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
