@@ -51,7 +51,7 @@
 ```text
 🔫 Counter-Strike 2                 🕘 1816 hrs 22 mins
 🎮 Balatro                          🕘 65 hrs 0 mins
-🎮 Resident Evil Requiem            🕘 7 hrs 5 mins
+🎮 Resident Evil Requiem            🕘 8 hrs 35 mins
 🎮 Age of Empires IV: Anniversary Edition 🕘 89 hrs 20 mins
 🎮 Overwatch®                       🕘 12 hrs 23 mins
 ```
