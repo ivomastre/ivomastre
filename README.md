@@ -50,7 +50,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Balatro                          🕘 65 hrs 0 mins
-🔫 Counter-Strike 2                 🕘 1816 hrs 56 mins
+🔫 Counter-Strike 2                 🕘 1818 hrs 20 mins
 🎮 Resident Evil Requiem            🕘 15 hrs 44 mins
 🎮 Age of Empires IV: Anniversary Edition 🕘 89 hrs 20 mins
 🎮 Overwatch®                       🕘 12 hrs 36 mins
