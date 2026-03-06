@@ -53,7 +53,7 @@
 🔫 Counter-Strike 2                 🕘 1818 hrs 58 mins
 🎮 Resident Evil Requiem            🕘 15 hrs 44 mins
 🎮 Age of Empires IV: Anniversary Edition 🕘 89 hrs 20 mins
-🎮 Overwatch®                       🕘 12 hrs 36 mins
+🎮 Overwatch®                       🕘 13 hrs 17 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
