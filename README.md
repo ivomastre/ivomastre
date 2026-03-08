@@ -51,7 +51,7 @@
 ```text
 🔫 Counter-Strike 2                 🕘 1823 hrs 55 mins
 🎮 Resident Evil Requiem            🕘 15 hrs 44 mins
-🎮 Slay the Spire 2                 🕘 14 hrs 15 mins
+🎮 Slay the Spire 2                 🕘 14 hrs 45 mins
 🎮 Balatro                          🕘 65 hrs 0 mins
 🎮 Age of Empires IV: Anniversary Edition 🕘 89 hrs 20 mins
 ```
