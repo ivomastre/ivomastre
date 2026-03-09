@@ -49,7 +49,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Slay the Spire 2                 🕘 18 hrs 4 mins
+🎮 Slay the Spire 2                 🕘 18 hrs 52 mins
 🎮 Resident Evil Requiem            🕘 15 hrs 44 mins
 🔫 Counter-Strike 2                 🕘 1823 hrs 55 mins
 🎮 Balatro                          🕘 65 hrs 0 mins
