@@ -51,8 +51,8 @@
 ```text
 🎮 Slay the Spire 2                 🕘 36 hrs 28 mins
 🔫 Counter-Strike 2                 🕘 1827 hrs 19 mins
-🎮 Resident Evil Requiem            🕘 15 hrs 44 mins
 🎮 Overwatch®                       🕘 15 hrs 10 mins
+🎮 Resident Evil Requiem            🕘 15 hrs 44 mins
 🎮 Vampire Survivors                🕘 30 hrs 54 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
