@@ -50,10 +50,10 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Slay the Spire 2                 🕘 36 hrs 28 mins
-🔫 Counter-Strike 2                 🕘 1828 hrs 13 mins
+🔫 Counter-Strike 2                 🕘 1828 hrs 58 mins
 🎮 Overwatch®                       🕘 15 hrs 10 mins
 🎮 Vampire Survivors                🕘 30 hrs 54 mins
-🎮 wYzards Alpha                    🕘 0 hrs 30 mins
+🎮 Nine-Ball Roulette               🕘 0 hrs 36 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
