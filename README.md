@@ -51,7 +51,7 @@
 ```text
 🎮 Slay the Spire 2                 🕘 36 hrs 28 mins
 🔫 Counter-Strike 2                 🕘 1831 hrs 18 mins
-🎮 Sons Of The Forest               🕘 45 hrs 57 mins
+🎮 Sons Of The Forest               🕘 46 hrs 57 mins
 🎮 Overwatch®                       🕘 15 hrs 10 mins
 🎮 Vampire Survivors                🕘 30 hrs 54 mins
 ```
