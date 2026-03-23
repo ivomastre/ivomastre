@@ -50,7 +50,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Slay the Spire 2                 🕘 36 hrs 28 mins
-🔫 Counter-Strike 2                 🕘 1831 hrs 18 mins
+🔫 Counter-Strike 2                 🕘 1832 hrs 1 mins
 🎮 Sons Of The Forest               🕘 47 hrs 49 mins
 🎮 Overwatch®                       🕘 15 hrs 10 mins
 🎮 Vampire Survivors                🕘 30 hrs 54 mins
