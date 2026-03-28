@@ -53,7 +53,7 @@
 🔫 Counter-Strike 2                 🕘 1832 hrs 1 mins
 🎮 Slay the Spire 2                 🕘 36 hrs 28 mins
 🎮 Vampire Survivors                🕘 30 hrs 54 mins
-🎮 Overwatch®                       🕘 15 hrs 10 mins
+🎮 Crimson Desert                   🕘 1 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
