@@ -51,7 +51,7 @@
 ```text
 🎮 Sons Of The Forest               🕘 47 hrs 49 mins
 🔫 Counter-Strike 2                 🕘 1832 hrs 1 mins
-🎮 Crimson Desert                   🕘 4 hrs 7 mins
+🎮 Crimson Desert                   🕘 5 hrs 7 mins
 🎮 Slay the Spire 2                 🕘 36 hrs 28 mins
 🎮 Vampire Survivors                🕘 30 hrs 54 mins
 ```
