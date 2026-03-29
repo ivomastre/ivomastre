@@ -53,7 +53,7 @@
 🎮 Sons Of The Forest               🕘 47 hrs 49 mins
 🔫 Counter-Strike 2                 🕘 1832 hrs 1 mins
 🎮 Overwatch®                       🕘 15 hrs 10 mins
-🎮 Slay the Spire 2                 🕘 36 hrs 28 mins
+🎮 Nine-Ball Roulette               🕘 0 hrs 36 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
