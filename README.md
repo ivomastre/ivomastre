@@ -49,11 +49,10 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Crimson Desert                   🕘 10 hrs 26 mins
+🎮 Crimson Desert                   🕘 11 hrs 15 mins
 🎮 Sons Of The Forest               🕘 47 hrs 49 mins
 🔫 Counter-Strike 2                 🕘 1832 hrs 1 mins
 🎮 Nine-Ball Roulette               🕘 0 hrs 36 mins
-🎮 Overwatch®                       🕘 15 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
