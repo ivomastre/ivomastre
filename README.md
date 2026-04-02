@@ -51,7 +51,7 @@
 ```text
 🎮 Crimson Desert                   🕘 32 hrs 35 mins
 🎮 Sons Of The Forest               🕘 47 hrs 49 mins
-🔫 Counter-Strike 2                 🕘 1832 hrs 1 mins
+🔫 Counter-Strike 2                 🕘 1833 hrs 21 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
