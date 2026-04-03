@@ -51,7 +51,7 @@
 ```text
 🎮 Crimson Desert                   🕘 42 hrs 2 mins
 🎮 Sons Of The Forest               🕘 47 hrs 49 mins
-🔫 Counter-Strike 2                 🕘 1833 hrs 21 mins
+🔫 Counter-Strike 2                 🕘 1834 hrs 21 mins
 🎮 Resident Evil Requiem            🕘 15 hrs 45 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
