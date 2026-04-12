@@ -50,7 +50,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Crimson Desert                   🕘 71 hrs 6 mins
-🔫 Counter-Strike 2                 🕘 1834 hrs 44 mins
+🔫 Counter-Strike 2                 🕘 1834 hrs 57 mins
 🎮 Resident Evil Requiem            🕘 15 hrs 45 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
