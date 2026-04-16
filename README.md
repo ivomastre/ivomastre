@@ -52,7 +52,6 @@
 🎮 Crimson Desert                   🕘 75 hrs 37 mins
 🎮 Age of Empires IV: Anniversary Edition 🕘 94 hrs 35 mins
 🔫 Counter-Strike 2                 🕘 1834 hrs 57 mins
-🎮 Resident Evil Requiem            🕘 15 hrs 45 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
