@@ -50,7 +50,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Crimson Desert                   🕘 75 hrs 37 mins
-🎮 Age of Empires IV: Anniversary Edition 🕘 96 hrs 37 mins
+🎮 Age of Empires IV: Anniversary Edition 🕘 97 hrs 28 mins
 🔫 Counter-Strike 2                 🕘 1837 hrs 12 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
