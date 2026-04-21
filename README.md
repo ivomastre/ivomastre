@@ -51,7 +51,7 @@
 ```text
 🎮 Crimson Desert                   🕘 85 hrs 27 mins
 🎮 Age of Empires IV: Anniversary Edition 🕘 109 hrs 46 mins
-🔫 Counter-Strike 2                 🕘 1837 hrs 48 mins
+🔫 Counter-Strike 2                 🕘 1838 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
