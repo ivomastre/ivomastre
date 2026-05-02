@@ -53,6 +53,7 @@
 🎮 Age of Empires IV: Anniversary Edition 🕘 112 hrs 20 mins
 🎮 Vampire Crawlers                 🕘 6 hrs 59 mins
 🔫 Counter-Strike 2                 🕘 1841 hrs 12 mins
+🎮 Tyr Playtest                     🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
