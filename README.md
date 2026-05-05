@@ -52,8 +52,8 @@
 🎮 Crimson Desert                   🕘 134 hrs 12 mins
 🎮 Vampire Crawlers                 🕘 7 hrs 55 mins
 🔫 Counter-Strike 2                 🕘 1843 hrs 26 mins
-🎮 Age of Empires IV: Anniversary Edition 🕘 112 hrs 20 mins
 🎮 Tyr Playtest                     🕘 3 hrs 16 mins
+🎮 Age of Empires IV: Anniversary Edition 🕘 112 hrs 20 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
