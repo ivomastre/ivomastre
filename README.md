@@ -51,7 +51,7 @@
 ```text
 🎮 Crimson Desert                   🕘 134 hrs 12 mins
 🎮 Tyr Playtest                     🕘 11 hrs 32 mins
-🔫 Counter-Strike 2                 🕘 1846 hrs 53 mins
+🔫 Counter-Strike 2                 🕘 1847 hrs 43 mins
 🎮 Vampire Crawlers                 🕘 7 hrs 55 mins
 🎮 Gambonanza                       🕘 1 hrs 23 mins
 ```
