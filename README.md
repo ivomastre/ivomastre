@@ -52,7 +52,7 @@
 🎮 Tyr Playtest                     🕘 11 hrs 32 mins
 🎮 Crimson Desert                   🕘 134 hrs 12 mins
 🔫 Counter-Strike 2                 🕘 1847 hrs 43 mins
-🎮 Spacewar                         🕘 444 hrs 55 mins
+🎮 Spacewar                         🕘 445 hrs 33 mins
 🎮 Gambonanza                       🕘 1 hrs 23 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
