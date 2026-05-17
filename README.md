@@ -49,8 +49,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
+🎮 Spacewar                         🕘 451 hrs 55 mins
 🎮 Tyr Playtest                     🕘 13 hrs 5 mins
-🎮 Spacewar                         🕘 450 hrs 21 mins
 🎮 Crimson Desert                   🕘 134 hrs 12 mins
 🔫 Counter-Strike 2                 🕘 1847 hrs 43 mins
 ```
