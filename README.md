@@ -53,7 +53,6 @@
 🎮 Spacewar                         🕘 450 hrs 21 mins
 🎮 Crimson Desert                   🕘 134 hrs 12 mins
 🔫 Counter-Strike 2                 🕘 1847 hrs 43 mins
-🎮 Gambonanza                       🕘 1 hrs 23 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
