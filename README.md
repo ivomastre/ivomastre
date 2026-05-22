@@ -51,7 +51,7 @@
 ```text
 🎮 Spacewar                         🕘 462 hrs 20 mins
 🎮 Tyr Playtest                     🕘 13 hrs 5 mins
-🔫 Counter-Strike 2                 🕘 1848 hrs 49 mins
+🔫 Counter-Strike 2                 🕘 1849 hrs 33 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
