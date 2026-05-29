@@ -51,6 +51,7 @@
 ```text
 🎮 Spacewar                         🕘 466 hrs 14 mins
 🎮 Drakantos Playtest               🕘 22 hrs 2 mins
+🎮 Path of Exile 2                  🕘 454 hrs 48 mins
 🔫 Counter-Strike 2                 🕘 1849 hrs 33 mins
 🎮 Tyr Playtest                     🕘 13 hrs 5 mins
 ```
