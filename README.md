@@ -49,9 +49,9 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Spacewar                         🕘 466 hrs 14 mins
 🎮 Drakantos Playtest               🕘 22 hrs 2 mins
-🎮 Path of Exile 2                  🕘 460 hrs 58 mins
+🎮 Spacewar                         🕘 466 hrs 14 mins
+🎮 Path of Exile 2                  🕘 464 hrs 17 mins
 🔫 Counter-Strike 2                 🕘 1849 hrs 33 mins
 🎮 Tyr Playtest                     🕘 13 hrs 5 mins
 ```
