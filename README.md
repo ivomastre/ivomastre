@@ -52,6 +52,7 @@
 🎮 Path of Exile 2                  🕘 484 hrs 47 mins
 🎮 Tyr Playtest                     🕘 15 hrs 54 mins
 🔫 Counter-Strike 2                 🕘 1852 hrs 0 mins
+🎮 Echoes of Aincrad DEMO Version   🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
