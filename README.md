@@ -53,6 +53,7 @@
 🔫 Counter-Strike 2                 🕘 1853 hrs 34 mins
 🎮 Echoes of Aincrad DEMO Version   🕘 1 hrs 11 mins
 🎮 Tyr Playtest                     🕘 15 hrs 54 mins
+🎮 MECCHA CHAMELEON                 🕘 0 hrs 17 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
