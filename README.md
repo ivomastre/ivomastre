@@ -49,10 +49,10 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Path of Exile 2                  🕘 504 hrs 2 mins
+🎮 Path of Exile 2                  🕘 506 hrs 31 mins
 🔫 Counter-Strike 2                 🕘 1855 hrs 3 mins
+🎮 REMATCH                          🕘 50 hrs 37 mins
 🎮 MECCHA CHAMELEON                 🕘 1 hrs 41 mins
-🎮 REMATCH                          🕘 49 hrs 55 mins
 🎮 Echoes of Aincrad DEMO Version   🕘 1 hrs 11 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
