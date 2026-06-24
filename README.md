@@ -51,7 +51,7 @@
 ```text
 🎮 Path of Exile 2                  🕘 506 hrs 31 mins
 🔫 Counter-Strike 2                 🕘 1855 hrs 3 mins
-🎮 REMATCH                          🕘 50 hrs 37 mins
+🎮 REMATCH                          🕘 51 hrs 37 mins
 🎮 MECCHA CHAMELEON                 🕘 1 hrs 41 mins
 🎮 Echoes of Aincrad DEMO Version   🕘 1 hrs 11 mins
 ```
