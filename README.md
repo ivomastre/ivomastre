@@ -49,7 +49,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Path of Exile 2                  🕘 535 hrs 35 mins
+🎮 Path of Exile 2                  🕘 536 hrs 22 mins
 🔫 Counter-Strike 2                 🕘 1857 hrs 49 mins
 🎮 REMATCH                          🕘 52 hrs 45 mins
 🎮 MECCHA CHAMELEON                 🕘 3 hrs 12 mins
