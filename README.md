@@ -49,8 +49,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Path of Exile 2                  🕘 544 hrs 53 mins
-🔫 Counter-Strike 2                 🕘 1859 hrs 40 mins
+🎮 Path of Exile 2                  🕘 545 hrs 43 mins
+🔫 Counter-Strike 2                 🕘 1860 hrs 52 mins
 🎮 REMATCH                          🕘 52 hrs 45 mins
 🎮 MECCHA CHAMELEON                 🕘 3 hrs 12 mins
 🎮 BOMBANANA! Demo                  🕘 0 hrs 42 mins
