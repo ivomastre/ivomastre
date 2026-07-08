@@ -51,9 +51,9 @@
 ```text
 🎮 Path of Exile 2                  🕘 577 hrs 32 mins
 🔫 Counter-Strike 2                 🕘 1861 hrs 32 mins
-🎮 REMATCH                          🕘 52 hrs 45 mins
 🎮 MECCHA CHAMELEON                 🕘 4 hrs 7 mins
-🎮 BOMBANANA! Demo                  🕘 0 hrs 42 mins
+🎮 REMATCH                          🕘 52 hrs 45 mins
+🎮 Gamble With Your Friends         🕘 0 hrs 8 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
