@@ -51,7 +51,6 @@
 ```text
 🎮 Path of Exile 2                  🕘 608 hrs 9 mins
 🔫 Counter-Strike 2                 🕘 1863 hrs 5 mins
-🎮 MECCHA CHAMELEON                 🕘 4 hrs 7 mins
 🎮 Denshattack!                     🕘 0 hrs 17 mins
 🎮 Gamble With Your Friends         🕘 0 hrs 8 mins
 ```
