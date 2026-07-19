@@ -52,7 +52,6 @@
 🎮 Path of Exile 2                  🕘 608 hrs 9 mins
 🔫 Counter-Strike 2                 🕘 1863 hrs 5 mins
 🎮 Denshattack!                     🕘 0 hrs 17 mins
-🎮 Gamble With Your Friends         🕘 0 hrs 8 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
