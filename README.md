@@ -51,8 +51,9 @@
 ```text
 🎮 Path of Exile 2                  🕘 608 hrs 9 mins
 🔫 Counter-Strike 2                 🕘 1864 hrs 47 mins
-🎮 Batomon Showdown Demo            🕘 0 hrs 36 mins
+🎮 Batomon Showdown Demo            🕘 2 hrs 4 mins
 🎮 Denshattack!                     🕘 0 hrs 17 mins
+🎮 MARVEL Tōkon: Fighting Souls OPEN BETA 🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
