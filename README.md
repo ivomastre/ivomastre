@@ -51,8 +51,8 @@
 ```text
 🎮 Path of Exile 2                  🕘 608 hrs 9 mins
 🎮 Batomon Showdown Demo            🕘 3 hrs 57 mins
+🎮 Project Zomboid                  🕘 63 hrs 27 mins
 🔫 Counter-Strike 2                 🕘 1865 hrs 19 mins
-🎮 Project Zomboid                  🕘 61 hrs 58 mins
 🎮 Denshattack!                     🕘 0 hrs 17 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
