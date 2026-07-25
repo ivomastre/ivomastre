@@ -50,7 +50,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Path of Exile 2                  🕘 608 hrs 9 mins
-🎮 Batomon Showdown Demo            🕘 3 hrs 57 mins
+🎮 Batomon Showdown Demo            🕘 4 hrs 30 mins
 🎮 Project Zomboid                  🕘 63 hrs 27 mins
 🔫 Counter-Strike 2                 🕘 1865 hrs 19 mins
 🎮 Denshattack!                     🕘 0 hrs 17 mins
