@@ -52,7 +52,7 @@
 🎮 Project Zomboid                  🕘 70 hrs 47 mins
 🎮 Batomon Showdown Demo            🕘 6 hrs 49 mins
 🔫 Counter-Strike 2                 🕘 1869 hrs 55 mins
-🎮 Nin Online                       🕘 3 hrs 46 mins
+🎮 Nin Online                       🕘 5 hrs 30 mins
 🎮 EVE Online                       🕘 2 hrs 36 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
