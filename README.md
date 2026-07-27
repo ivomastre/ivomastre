@@ -49,7 +49,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Project Zomboid                  🕘 67 hrs 53 mins
+🎮 Project Zomboid                  🕘 69 hrs 53 mins
 🎮 Batomon Showdown Demo            🕘 6 hrs 49 mins
 🔫 Counter-Strike 2                 🕘 1867 hrs 53 mins
 🎮 Path of Exile 2                  🕘 608 hrs 9 mins
