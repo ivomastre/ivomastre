@@ -51,9 +51,9 @@
 ```text
 🎮 Nin Online                       🕘 15 hrs 4 mins
 🎮 Project Zomboid                  🕘 70 hrs 47 mins
+🎮 Guildrun Demo                    🕘 7 hrs 45 mins
 🎮 Batomon Showdown Demo            🕘 6 hrs 49 mins
 🔫 Counter-Strike 2                 🕘 1869 hrs 55 mins
-🎮 Guildrun Demo                    🕘 5 hrs 54 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
