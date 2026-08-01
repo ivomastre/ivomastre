@@ -53,7 +53,7 @@
 🎮 Project Zomboid                  🕘 70 hrs 47 mins
 🎮 Batomon Showdown Demo            🕘 6 hrs 49 mins
 🔫 Counter-Strike 2                 🕘 1869 hrs 55 mins
-🎮 Guildrun Demo                    🕘 4 hrs 41 mins
+🎮 Guildrun Demo                    🕘 5 hrs 54 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
