@@ -49,8 +49,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
+🎮 Guildrun Demo                    🕘 14 hrs 51 mins
 🎮 Nin Online                       🕘 15 hrs 4 mins
-🎮 Guildrun Demo                    🕘 12 hrs 29 mins
 🎮 Project Zomboid                  🕘 70 hrs 47 mins
 🎮 Batomon Showdown Demo            🕘 7 hrs 26 mins
 🔫 Counter-Strike 2                 🕘 1869 hrs 55 mins
