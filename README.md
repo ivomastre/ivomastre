@@ -49,11 +49,11 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Guildrun Demo                    🕘 22 hrs 3 mins
+🎮 Guildrun Demo                    🕘 23 hrs 33 mins
 🎮 Nin Online                       🕘 15 hrs 4 mins
 🎮 Project Zomboid                  🕘 70 hrs 47 mins
-🎮 Batomon Showdown Demo            🕘 7 hrs 26 mins
 🔫 Counter-Strike 2                 🕘 1869 hrs 55 mins
+🎮 Batomon Showdown Demo            🕘 7 hrs 26 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
