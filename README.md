@@ -53,7 +53,7 @@
 🎮 Nin Online                       🕘 15 hrs 4 mins
 🎮 Project Zomboid                  🕘 70 hrs 47 mins
 🔫 Counter-Strike 2                 🕘 1869 hrs 55 mins
-🎮 Batomon Showdown Demo            🕘 7 hrs 26 mins
+🎮 Valheim                          🕘 15 hrs 12 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
