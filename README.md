@@ -51,9 +51,9 @@
 ```text
 🎮 Guildrun Demo                    🕘 28 hrs 51 mins
 🎮 Nin Online                       🕘 15 hrs 4 mins
-🎮 Project Zomboid                  🕘 70 hrs 47 mins
 🎮 Valheim                          🕘 15 hrs 12 mins
 🎮 Shift At Midnight                🕘 3 hrs 52 mins
+🎮 WAKFU                            🕘 39 hrs 37 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
