@@ -50,7 +50,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Guildrun Demo                    🕘 28 hrs 51 mins
-🎮 WAKFU                            🕘 46 hrs 42 mins
+🎮 WAKFU                            🕘 47 hrs 42 mins
 🎮 Valheim                          🕘 15 hrs 12 mins
 🎮 Shift At Midnight                🕘 3 hrs 52 mins
 🎮 How Many Dudes? Demo             🕘 0 hrs 58 mins
