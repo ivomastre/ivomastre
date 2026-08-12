@@ -53,7 +53,7 @@
 🎮 Valheim                          🕘 15 hrs 12 mins
 🎮 Shift At Midnight                🕘 3 hrs 52 mins
 🎮 WAKFU                            🕘 39 hrs 37 mins
-🎮 Nin Online                       🕘 15 hrs 4 mins
+🎮 How Many Dudes? Demo             🕘 0 hrs 58 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
