@@ -53,7 +53,7 @@
 🎮 WAKFU                            🕘 59 hrs 54 mins
 🎮 Valheim                          🕘 15 hrs 12 mins
 🎮 Shift At Midnight                🕘 3 hrs 52 mins
-🎮 How Many Dudes? Demo             🕘 0 hrs 58 mins
+🎮 Soul's Remnant                   🕘 1 hrs 6 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
