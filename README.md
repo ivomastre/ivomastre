@@ -50,7 +50,7 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 WAKFU                            🕘 59 hrs 54 mins
-🎮 Guildrun Demo                    🕘 30 hrs 16 mins
+🎮 Guildrun Demo                    🕘 30 hrs 46 mins
 🎮 Valheim                          🕘 15 hrs 12 mins
 🎮 Shift At Midnight                🕘 3 hrs 52 mins
 🎮 Soul's Remnant                   🕘 1 hrs 6 mins
