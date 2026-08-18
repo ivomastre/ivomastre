@@ -51,9 +51,9 @@
 ```text
 🎮 Guildrun Demo                    🕘 41 hrs 0 mins
 🎮 WAKFU                            🕘 59 hrs 54 mins
-🎮 Shift At Midnight                🕘 3 hrs 52 mins
 🎮 Valheim                          🕘 15 hrs 12 mins
 🎮 Hell Let Loose: Vietnam          🕘 1 hrs 47 mins
+🎮 Shift At Midnight                🕘 3 hrs 52 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
