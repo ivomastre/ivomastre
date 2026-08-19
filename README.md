@@ -49,7 +49,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Guildrun Demo                    🕘 41 hrs 30 mins
+🎮 Guildrun Demo                    🕘 42 hrs 36 mins
 🎮 WAKFU                            🕘 59 hrs 54 mins
 🎮 Valheim                          🕘 15 hrs 12 mins
 🎮 Hell Let Loose: Vietnam          🕘 1 hrs 47 mins
