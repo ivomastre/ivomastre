@@ -49,8 +49,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 WAKFU                            🕘 59 hrs 54 mins
 🎮 Guildrun Demo                    🕘 46 hrs 2 mins
+🎮 WAKFU                            🕘 59 hrs 54 mins
 🎮 Hell Let Loose: Vietnam          🕘 1 hrs 47 mins
 🔫 Counter-Strike 2                 🕘 1871 hrs 5 mins
 🎮 KINGDOM HEARTS -HD 1.5+2.5 ReMIX- 🕘 1 hrs 8 mins
