@@ -51,9 +51,9 @@
 ```text
 🎮 Guildrun Demo                    🕘 51 hrs 12 mins
 🎮 Hell Let Loose: Vietnam          🕘 1 hrs 47 mins
-🎮 WAKFU                            🕘 59 hrs 54 mins
 🔫 Counter-Strike 2                 🕘 1871 hrs 5 mins
 🎮 KINGDOM HEARTS -HD 1.5+2.5 ReMIX- 🕘 1 hrs 8 mins
+🎮 Batomon Showdown Demo            🕘 8 hrs 11 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
