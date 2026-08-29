@@ -51,8 +51,8 @@
 ```text
 🎮 Guildrun Demo                    🕘 53 hrs 54 mins
 🔫 Counter-Strike 2                 🕘 1872 hrs 24 mins
-🎮 Hell Let Loose: Vietnam          🕘 1 hrs 47 mins
 🎮 KINGDOM HEARTS -HD 1.5+2.5 ReMIX- 🕘 1 hrs 8 mins
+🎮 Hell Let Loose: Vietnam          🕘 1 hrs 47 mins
 🎮 Double Dealers Demo              🕘 0 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
