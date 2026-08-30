@@ -49,7 +49,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Guildrun Demo                    🕘 54 hrs 17 mins
+🎮 Guildrun Demo                    🕘 54 hrs 48 mins
 🔫 Counter-Strike 2                 🕘 1872 hrs 24 mins
 🎮 KINGDOM HEARTS -HD 1.5+2.5 ReMIX- 🕘 1 hrs 8 mins
 🎮 Crashphalt                       🕘 0 hrs 41 mins
