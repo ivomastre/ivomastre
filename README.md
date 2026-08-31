@@ -51,8 +51,8 @@
 ```text
 🎮 Guildrun Demo                    🕘 54 hrs 48 mins
 🔫 Counter-Strike 2                 🕘 1872 hrs 24 mins
+🎮 Crashphalt                       🕘 1 hrs 58 mins
 🎮 KINGDOM HEARTS -HD 1.5+2.5 ReMIX- 🕘 1 hrs 8 mins
-🎮 Crashphalt                       🕘 0 hrs 41 mins
 🎮 Porthole - Local Port Sharing    🕘 0 hrs 24 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
