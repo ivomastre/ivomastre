@@ -49,8 +49,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Guildrun Demo                    🕘 54 hrs 48 mins
-🎮 Crashphalt                       🕘 5 hrs 41 mins
+🎮 Guildrun Demo                    🕘 55 hrs 24 mins
+🎮 Crashphalt                       🕘 6 hrs 28 mins
 🔫 Counter-Strike 2                 🕘 1872 hrs 24 mins
 🎮 KINGDOM HEARTS -HD 1.5+2.5 ReMIX- 🕘 1 hrs 8 mins
 🎮 Porthole - Local Port Sharing    🕘 0 hrs 24 mins
