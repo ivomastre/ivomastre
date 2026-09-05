@@ -49,8 +49,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Guildrun Demo                    🕘 55 hrs 39 mins
-🎮 Crashphalt                       🕘 6 hrs 28 mins
+🎮 Guildrun Demo                    🕘 55 hrs 40 mins
+🎮 Crashphalt                       🕘 7 hrs 58 mins
 🔫 Counter-Strike 2                 🕘 1872 hrs 24 mins
 🎮 Porthole - Local Port Sharing    🕘 0 hrs 24 mins
 🎮 Batomon Showdown Demo            🕘 8 hrs 11 mins
