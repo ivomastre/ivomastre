@@ -52,7 +52,7 @@
 🎮 Crashphalt                       🕘 9 hrs 34 mins
 🎮 Guildrun Demo                    🕘 56 hrs 1 mins
 🔫 Counter-Strike 2                 🕘 1872 hrs 56 mins
-🎮 No More Room in Hell 2           🕘 0 hrs 30 mins
+🎮 No More Room in Hell 2           🕘 1 hrs 17 mins
 🎮 Porthole - Local Port Sharing    🕘 0 hrs 24 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
