@@ -50,10 +50,10 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Crashphalt                       🕘 9 hrs 34 mins
-🎮 Guildrun Demo                    🕘 55 hrs 40 mins
+🎮 Guildrun Demo                    🕘 56 hrs 1 mins
 🔫 Counter-Strike 2                 🕘 1872 hrs 56 mins
+🎮 No More Room in Hell 2           🕘 0 hrs 30 mins
 🎮 Porthole - Local Port Sharing    🕘 0 hrs 24 mins
-🎮 Undertale                        🕘 0 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
