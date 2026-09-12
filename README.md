@@ -51,9 +51,9 @@
 ```text
 🎮 Crashphalt                       🕘 9 hrs 34 mins
 🎮 Guildrun Demo                    🕘 56 hrs 1 mins
+🎮 WARDOGS                          🕘 1 hrs 31 mins
 🎮 No More Room in Hell 2           🕘 1 hrs 17 mins
 🎮 Ignite the Depths Playtest       🕘 0 hrs 52 mins
-🔫 Counter-Strike 2                 🕘 1872 hrs 56 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
