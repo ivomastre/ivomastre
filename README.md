@@ -53,7 +53,7 @@
 🎮 Guildrun Demo                    🕘 56 hrs 1 mins
 🎮 No More Room in Hell 2           🕘 1 hrs 17 mins
 🔫 Counter-Strike 2                 🕘 1872 hrs 56 mins
-🎮 Undertale                        🕘 0 hrs 2 mins
+🎮 Ignite the Depths Playtest       🕘 0 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
