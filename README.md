@@ -49,7 +49,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 WARDOGS                          🕘 23 hrs 28 mins
+🎮 WARDOGS                          🕘 23 hrs 58 mins
 🎮 Crashphalt                       🕘 9 hrs 34 mins
 🎮 No More Room in Hell 2           🕘 1 hrs 17 mins
 🎮 Ignite the Depths Playtest       🕘 0 hrs 52 mins
