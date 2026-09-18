@@ -49,11 +49,11 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 WARDOGS                          🕘 23 hrs 58 mins
+🎮 WARDOGS                          🕘 27 hrs 10 mins
 🎮 Crashphalt                       🕘 9 hrs 34 mins
 🎮 No More Room in Hell 2           🕘 1 hrs 17 mins
 🎮 Ignite the Depths Playtest       🕘 0 hrs 52 mins
-🎮 Guildrun Demo                    🕘 56 hrs 1 mins
+🔫 Counter-Strike 2                 🕘 1872 hrs 56 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
