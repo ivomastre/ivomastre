@@ -51,7 +51,6 @@
 ```text
 🎮 WARDOGS                          🕘 63 hrs 5 mins
 🎮 Batomon Showdown                 🕘 0 hrs 38 mins
-🎮 Ignite the Depths Playtest       🕘 0 hrs 52 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
