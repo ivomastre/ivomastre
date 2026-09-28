@@ -49,9 +49,9 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 WARDOGS                          🕘 71 hrs 34 mins
-🎮 Batomon Showdown                 🕘 1 hrs 51 mins
-🎮 Euro Truck Simulator 2           🕘 103 hrs 57 mins
+🎮 WARDOGS                          🕘 73 hrs 59 mins
+🎮 Batomon Showdown                 🕘 2 hrs 35 mins
+🎮 Euro Truck Simulator 2           🕘 105 hrs 32 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
