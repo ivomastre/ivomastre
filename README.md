@@ -51,6 +51,7 @@
 ```text
 🎮 WARDOGS                          🕘 71 hrs 34 mins
 🎮 Batomon Showdown                 🕘 1 hrs 51 mins
+🎮 Euro Truck Simulator 2           🕘 103 hrs 57 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
