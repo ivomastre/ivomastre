@@ -49,7 +49,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 WARDOGS                          🕘 96 hrs 17 mins
+🎮 WARDOGS                          🕘 98 hrs 22 mins
 🎮 Batomon Showdown                 🕘 3 hrs 10 mins
 🎮 Euro Truck Simulator 2           🕘 105 hrs 32 mins
 ```
