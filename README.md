@@ -50,9 +50,10 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 WARDOGS                          🕘 109 hrs 4 mins
-🎮 AION 2                           🕘 28 hrs 1 mins
+🎮 AION 2                           🕘 29 hrs 42 mins
 🎮 Batomon Showdown                 🕘 3 hrs 10 mins
 🎮 Euro Truck Simulator 2           🕘 105 hrs 32 mins
+🔫 Counter-Strike 2                 🕘 1873 hrs 49 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
