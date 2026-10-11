@@ -49,7 +49,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 AION 2                           🕘 52 hrs 34 mins
+🎮 AION 2                           🕘 55 hrs 49 mins
 🎮 WARDOGS                          🕘 109 hrs 4 mins
 🎮 Batomon Showdown                 🕘 3 hrs 10 mins
 🔫 Counter-Strike 2                 🕘 1875 hrs 1 mins
