@@ -51,9 +51,9 @@
 ```text
 🎮 AION 2                           🕘 55 hrs 49 mins
 🎮 WARDOGS                          🕘 109 hrs 4 mins
-🎮 Batomon Showdown                 🕘 3 hrs 10 mins
 🔫 Counter-Strike 2                 🕘 1875 hrs 1 mins
 🎮 Euro Truck Simulator 2           🕘 105 hrs 32 mins
+🎮 Batomon Showdown                 🕘 3 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
