@@ -49,9 +49,9 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 WARDOGS                          🕘 180 hrs 46 mins
+🎮 WARDOGS                          🕘 181 hrs 15 mins
 🎮 AION 2                           🕘 102 hrs 44 mins
-🎮 Slay the Spire 2                 🕘 43 hrs 8 mins
+🎮 Slay the Spire 2                 🕘 45 hrs 7 mins
 🎮 The Forest                       🕘 11 hrs 38 mins
 🔫 Counter-Strike 2                 🕘 1876 hrs 1 mins
 ```
