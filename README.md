@@ -53,7 +53,7 @@
 🎮 AION 2                           🕘 102 hrs 44 mins
 🎮 Slay the Spire 2                 🕘 45 hrs 7 mins
 🎮 The Forest                       🕘 11 hrs 38 mins
-🎮 Batomon Showdown                 🕘 3 hrs 30 mins
+🎮 Summoners War                    🕘 0 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
