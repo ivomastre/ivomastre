@@ -52,8 +52,8 @@
 🎮 WARDOGS                          🕘 191 hrs 31 mins
 🎮 Slay the Spire 2                 🕘 45 hrs 7 mins
 🎮 The Forest                       🕘 11 hrs 38 mins
-🎮 AION 2                           🕘 102 hrs 44 mins
 🎮 Summoners War                    🕘 0 hrs 19 mins
+🎮 AION 2                           🕘 102 hrs 44 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
