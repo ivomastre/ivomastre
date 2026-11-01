@@ -49,7 +49,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 WARDOGS                          🕘 194 hrs 44 mins
+🎮 WARDOGS                          🕘 195 hrs 14 mins
 🎮 Slay the Spire 2                 🕘 45 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
