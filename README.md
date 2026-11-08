@@ -51,7 +51,6 @@
 ```text
 🎮 WARDOGS                          🕘 197 hrs 13 mins
 🔫 Counter-Strike 2                 🕘 1877 hrs 1 mins
-🎮 Slay the Spire 2                 🕘 45 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
