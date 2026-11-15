@@ -51,7 +51,6 @@
 ```text
 🎮 Factorio                         🕘 33 hrs 44 mins
 🎮 Moon Sweepers                    🕘 5 hrs 1 mins
-🎮 WARDOGS                          🕘 197 hrs 13 mins
 🔫 Counter-Strike 2                 🕘 1877 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
