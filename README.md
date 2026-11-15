@@ -49,9 +49,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Factorio                         🕘 33 hrs 44 mins
+🎮 Factorio                         🕘 36 hrs 44 mins
 🎮 Moon Sweepers                    🕘 5 hrs 1 mins
-🔫 Counter-Strike 2                 🕘 1877 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
