@@ -49,7 +49,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
-🎮 Factorio                         🕘 45 hrs 25 mins
+🎮 Factorio                         🕘 50 hrs 55 mins
 🎮 Moon Sweepers                    🕘 5 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
