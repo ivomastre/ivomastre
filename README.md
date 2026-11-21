@@ -51,7 +51,7 @@
 ```text
 🎮 Factorio                         🕘 53 hrs 18 mins
 🎮 Moon Sweepers                    🕘 5 hrs 1 mins
-🎮 Sid Meier's Civilization VI      🕘 9 hrs 22 mins
+🎮 Sid Meier's Civilization VI      🕘 10 hrs 22 mins
 🎮 Porthole - Local Port Sharing    🕘 1 hrs 33 mins
 🎮 Batomon Showdown                 🕘 4 hrs 7 mins
 ```
