@@ -51,7 +51,7 @@
 ```text
 🎮 Factorio                         🕘 53 hrs 18 mins
 🎮 Sid Meier's Civilization VI      🕘 16 hrs 19 mins
-🎮 just volleyball                  🕘 4 hrs 19 mins
+🎮 just volleyball                  🕘 4 hrs 48 mins
 🎮 Batomon Showdown                 🕘 7 hrs 50 mins
 🎮 Porthole - Local Port Sharing    🕘 2 hrs 58 mins
 ```
