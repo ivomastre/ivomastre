@@ -50,9 +50,9 @@
 #### <a href="https://gist.github.com/21d4585374c70777e858bffa1f4c6bc8" target="_blank">🎮 Recently played Steam games</a>
 ```text
 🎮 Factorio                         🕘 53 hrs 18 mins
-🎮 just volleyball                  🕘 10 hrs 19 mins
+🎮 just volleyball                  🕘 13 hrs 33 mins
 🎮 Sid Meier's Civilization VI      🕘 16 hrs 19 mins
-🎮 Batomon Showdown                 🕘 8 hrs 40 mins
+🎮 Batomon Showdown                 🕘 9 hrs 13 mins
 🎮 Porthole - Local Port Sharing    🕘 2 hrs 58 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
